@@ -1,0 +1,66 @@
+## Summary
+- 86M with established congestive cardiac failure (CCF), now presenting with pulmonary oedema (confirmed on chest x-ray).
+- Severe left ventricular systolic dysfunction (EF 30%).
+- Markedly reduced renal function (eGFR 10, advanced CKD or acute on chronic kidney injury).
+- A challenging scenario due to cardiorenal syndrome—coexistent acute decompensated heart failure and advanced renal impairment.
+
+----
+
+## Problems and Assessments
+
+1. Acute pulmonary oedema secondary to decompensated heart failure (HFrEF)
+   - Clinical evidence (pulmonary oedema, EF 30%) of acute heart failure exacerbation.
+
+2. Advanced kidney failure (eGFR 10; likely stage 5 CKD and/or acute on chronic kidney injury)
+   - Significant renal impairment may affect treatment options, especially diuretic efficacy and pharmacological selection.
+
+3. Volume overload/fluid retention
+   - Fluid overload from CCF exacerbation and reduced renal clearance.
+
+4. Polypharmacy, drug safety, and renal dosing
+   - High risk for drug accumulation/toxicity from impaired renal function; need for rigorous drug review.
+
+5. Electrolyte disturbances/metabolic complications
+   - Likely at high risk for hyperkalaemia, acidosis, and uremic complications.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Daily serum electrolytes, renal function, and acid-base assessment to monitor uremic complications, hyperkalaemia, and to guide further interventions [1](https://www.statpearls.com/point-of-care/19880).
+- Baseline ECG to screen for arrhythmias and hyperkalaemia-induced changes [1](https://www.statpearls.com/point-of-care/19880).
+- CXR to confirm resolution/progress of pulmonary oedema [1](https://www.statpearls.com/point-of-care/19880).
+- Troponin only if clinically indicated (to exclude acute coronary syndrome as precipitation) [1](https://www.statpearls.com/point-of-care/19880).
+
+**Treatment and Supportive Management:**
+- Immediate: ABC assessment; admit to monitored/critical care setting if unstable [1](https://www.statpearls.com/point-of-care/19880).
+- Oxygen therapy if hypoxic or in respiratory distress [1](https://www.statpearls.com/point-of-care/19880).
+- IV access and fluid restriction: strictly monitor fluid balance and consider fluid restriction (e.g., 500–1000 mL/day depending on ongoing losses and sodium; individualise) [1](https://www.statpearls.com/point-of-care/19880).
+- IV loop diuretics (e.g., furosemide): may require higher doses or continuous infusion due to diuretic resistance and severe renal impairment—monitor for efficacy and hypotension [1](https://www.statpearls.com/point-of-care/19880).
+    - If diuretics fail to achieve decongestion, escalate rapidly to renal replacement therapy (see below).
+- Vasodilators (e.g., nitroglycerin): ONLY if not hypotensive and with close monitoring; avoid sodium nitroprusside due to risk of accumulation/toxicity in renal failure [1](https://www.statpearls.com/point-of-care/19880).
+- Strictly AVOID:
+    - ACE inhibitors/ARBs, NSAIDs, and nephrotoxic drugs in this acute setting due to worsening of renal dysfunction and hyperkalaemia risk [2](https://www.statpearls.com/point-of-care/91960).
+- Renal replacement therapy (RRT; e.g., intermittent haemodialysis, continuous renal replacement therapy) is indicated if:
+    - Pulmonary oedema refractory to diuretics,
+    - Severe hyperkalaemia, acidosis, or uremic complications [2](https://www.statpearls.com/point-of-care/91960).
+- Consider ultrafiltration (UF) for volume removal in diuretic-resistant heart failure with volume overload, particularly if RRT is initiated [3](https://www.statpearls.com/point-of-care/28020).
+- Nutrition: restrict salt, protein adjustment as per nephrology input; avoid excess fluid [2](https://www.statpearls.com/point-of-care/91960).
+- Frequent review of medication doses and indications, with careful attention to renal drug dosing and cumulative toxicity [2](https://www.statpearls.com/point-of-care/91960).
+
+**Referrals:**
+- Urgent nephrology referral for assessment and initiation of acute RRT if required [2](https://www.statpearls.com/point-of-care/91960).
+- Cardiology input for guidance on management of advanced heart failure, and prognostication [1](https://www.statpearls.com/point-of-care/19880).
+- Critical care/ICU if haemodynamically unstable or requiring advanced interventions [1](https://www.statpearls.com/point-of-care/19880).
+
+**Preventative and Lifestyle Measures:**
+- Once stabilised: ongoing sodium and fluid restriction education, daily weight monitoring, and heart failure self-care principles [2](https://www.statpearls.com/point-of-care/91960).
+- Review goals of care, advanced care planning given comorbidities and poor prognosis [1](https://www.statpearls.com/point-of-care/19880).
+
+----
+
+References:
+[1]: [Congestive Heart Failure and Pulmonary Edema](https://www.statpearls.com/point-of-care/19880 "Congestive Heart Failure and Pulmonary Edema King...")
+[2]: [Prerenal Kidney Failure](https://www.statpearls.com/point-of-care/91960 "sulfate) and calcium resonium (calcium polystyrene sulphonate)...")
+[3]: [Cardiogenic Pulmonary Edema](https://www.statpearls.com/point-of-care/28020 "also have to be added. For patients...")

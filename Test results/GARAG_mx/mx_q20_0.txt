@@ -1,0 +1,65 @@
+## Summary
+- 62-year-old man with cough, haemoptysis, weight loss, and arthralgia.
+- Exam: saddle-nose deformity, purpuric rash.
+- CXR: cavitating lung lesions.
+- Creatinine elevated (180 μmol/L).
+- Features strongly suggest granulomatosis with polyangiitis (GPA) with pulmonary-renal syndrome and ENT involvement.
+
+----
+
+## Problems and Assessments
+
+1. Granulomatosis with polyangiitis (GPA) (Confirmed)
+   - Classic presentation: upper (saddle-nose, possible chronic rhinosinusitis) and lower respiratory tract involvement (cough, haemoptysis, lung cavitation), renal impairment, and cutaneous vasculitis (purpura, arthralgia).
+   - Multisystem small/medium vessel necrotizing vasculitis; if untreated, high morbidity/mortality from organ dysfunction.[1](https://www.statpearls.com/point-of-care/76416)
+
+2. Renal involvement/rapidly progressive glomerulonephritis (RPGN) (Confirmed)
+   - Markedly elevated creatinine indicates renal involvement; at risk of rapid deterioration and end-stage renal disease without early intervention.[2](https://www.statpearls.com/point-of-care/32717)
+
+3. Pulmonary involvement (Confirmed)
+   - Cavitating lung lesions, haemoptysis: risk for diffuse alveolar haemorrhage and secondary infection.[1](https://www.statpearls.com/point-of-care/76416)
+
+4. Cutaneous and articular involvement (Confirmed)
+   - Purpuric rash and arthralgia suggest active systemic small vessel vasculitis.[2](https://www.statpearls.com/point-of-care/32717)
+
+5. High risk of life-threatening complications (Confirmed)
+   - Potential for pulmonary-renal syndrome, severe bleeding, infection due to immunosuppression, and progressive renal failure.[1](https://www.statpearls.com/point-of-care/76416)
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- ANCA serology (PR3/c-ANCA and MPO/p-ANCA): To confirm suspected GPA; PR3-ANCA highly sensitive/specific for GPA.[3](https://www.statpearls.com/point-of-care/76416)
+- Renal function, urinalysis (for hematuria, proteinuria, red cell casts): Assess extent of renal involvement/RPGN.[2](https://www.statpearls.com/point-of-care/32717)
+- Chest CT: Better characterization of pulmonary lesions, exclude infection or malignancy.[1](https://www.statpearls.com/point-of-care/76416)
+- Tissue biopsy (preferably lung or nasal for granuloma; renal for crescentic GN): Needed for diagnostic confirmation and to rule out mimics; look for necrotizing granulomatous inflammation (lung, nasal) or pauci-immune GN (renal).[2](https://www.statpearls.com/point-of-care/32717)
+- Baseline infectious screen (hepatitis B/C, HIV, TB): Before immunosuppression initiation.
+- Full blood count, LFTs, CRP/ESR: Baseline for systemic involvement and therapy monitoring.
+
+**Treatment and Supportive Management:**
+- Initiate high-dose glucocorticoids: Methylprednisolone IV pulses (e.g., 500–1000 mg daily for 3 days) followed by oral prednisolone (1 mg/kg/day), then gradual taper once control established.[1](https://www.statpearls.com/point-of-care/76416)
+- Add induction immunosuppression:
+    - Rituximab IV (preferred; first-line, as effective as cyclophosphamide for induction and relapse; especially if fertility a concern, age >60, or previous cyclophosphamide exposure) OR
+    - Cyclophosphamide IV or oral (consider where rituximab unavailable/contraindicated).[1](https://www.statpearls.com/point-of-care/76416)
+- Plasmapheresis (Plasma exchange): Consider in rapidly progressive crescentic glomerulonephritis with severe renal dysfunction (eGFR <50 or rising creatinine), or severe diffuse alveolar haemorrhage.[2](https://www.statpearls.com/point-of-care/32717)
+- Pneumocystis jirovecii pneumonia (PJP) prophylaxis: Co-trimoxazole (trimethoprim-sulfamethoxazole) unless contraindicated, due to immunosuppression.
+- Supportive care: Blood pressure control (ACE inhibitor/ARB if proteinuria and renal function allows), infection monitoring and prevention, management of pulmonary haemorrhage, and VTE prophylaxis if not actively bleeding.
+- Taper immunosuppressives per protocol after remission, then start maintenance regimen (e.g., azathioprine, rituximab).[1](https://www.statpearls.com/point-of-care/76416)
+- Avoid nephrotoxins; careful monitoring of renal and hepatic function.
+
+**Referrals:**
+- Urgent referral to/coordination with nephrology, rheumatology, and pulmonology: For comprehensive, multisystem management, biopsy, and immunosuppressive protocol planning.[1](https://www.statpearls.com/point-of-care/76416)
+- ENT: For management of upper airway involvement and reconstructive input for saddle-nose, if applicable.
+
+**Preventative and Lifestyle Measures:**
+- Vaccination (e.g. influenza, pneumococcal, COVID-19): Prior to/during immunosuppression, as appropriate and safe.
+- Bone protection (calcium, vitamin D, bisphosphonates if risk factors present) during chronic steroid use.
+- Patient support and education: Early infection signs, medication adherence, and monitoring requirements.
+
+----
+
+References:
+[1]: [Granulomatosis With Polyangiitis](https://www.statpearls.com/point-of-care/76416 "Granulomatosis With Polyangiitis Rout Preeti Wilson Case...")
+[2]: [ANCA-Associated Vasculitis](https://www.statpearls.com/point-of-care/32717 "virus, and parvovirus, have been reported. Drugs...")
+[3]: [Granulomatosis With Polyangiitis Part 2](https://www.statpearls.com/point-of-care/76416 "the European League Against Rheumatism recommended a...")

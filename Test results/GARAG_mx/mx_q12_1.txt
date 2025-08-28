@@ -1,0 +1,50 @@
+## Summary
+- 35-year-old woman presents with pleuritic chest pain and breathlessness after a long-haul flight.
+- Exam: Anxious, tachycardic (HR 112), hypoxic (SpO₂ 90%), tachypneic (RR 22).
+- Investigations: Clear CXR, elevated D-dimer, ECG shows sinus tachycardia.
+- High risk for acute pulmonary embolism (PE) given recent long-haul travel, hypoxia, tachycardia, and pleuritic chest pain.
+
+----
+
+## Problems and Assessments
+
+1. (Possible) Acute Pulmonary Embolism (PE)
+   - Strong suspicion for acute PE based on risk factors (recent immobility), clinical presentation (pleuritic chest pain, breathlessness, hypoxia, sinus tachycardia), and elevated D-dimer. Absence of alternate diagnosis on CXR. Requires urgent diagnostic confirmation and treatment due to risk of morbidity/mortality [1](https://www.statpearls.com/point-of-care/19382).
+
+2. Hypoxia
+   - SpO₂ 90% suggests significant gas exchange impairment. PE can cause V/Q mismatch and arterial hypoxemia; prompt oxygenation is critical [1](https://www.statpearls.com/point-of-care/19382).
+
+3. Anxiety (secondary)
+   - Likely secondary to the acute cardiopulmonary event and hypoxia; management may be supportive, focusing first on underlying cause.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- CT pulmonary angiogram (CTPA) ASAP as the best confirmatory test for PE [1](https://www.statpearls.com/point-of-care/19382).
+- If CTPA contraindicated or not available, consider a ventilation/perfusion (V/Q) scan, especially if pre-test probability remains high [1](https://www.statpearls.com/point-of-care/19382).
+- Troponin and BNP to risk-stratify and assess for RV strain if PE is confirmed [1](https://www.statpearls.com/point-of-care/19382).
+- Baseline bloods: FBC, U&Es, LFTs, coagulation screen prior to anticoagulation.
+
+**Treatment and Supportive Management:**
+- Initiate supplemental oxygen to maintain SpO₂ >94% [1](https://www.statpearls.com/point-of-care/19382).
+- Commence therapeutic anticoagulation immediately if no contraindications (LMWH such as enoxaparin, or IV unfractionated heparin if concerns about bleeding or need for rapid reversal) [1](https://www.statpearls.com/point-of-care/19382).
+- In hemodynamically unstable patients (not specified here, but if develops): consider thrombolysis with alteplase or other approved agents [1](https://www.statpearls.com/point-of-care/19382).
+- Monitor for complications: continuous cardiac monitoring for arrhythmias; monitor for signs of hemodynamic instability [2](https://www.statpearls.com/point-of-care/20023).
+- Pain control with paracetamol (acetaminophen) as needed; avoid NSAIDs due to potential bleeding risk.
+- Avoid empiric therapy for acute coronary syndrome unless there is clear clinical suspicion (no evidence for myocardial infarction; instead, management here should be focused on PE) [1](https://www.statpearls.com/point-of-care/19382).
+- Mobilization as tolerated once stabilized and PE confirmed to prevent further thrombotic events.
+
+**Referrals:**
+- Urgent referral to respiratory and acute medical team for diagnostic workup and ongoing management.
+- Involve hematology acutely if concerns around anticoagulation or for advice regarding duration or special circumstances (e.g., unprovoked VTE, thrombophilia, pregnancy).
+
+**Preventative and Lifestyle Measures:**
+- Discuss long-term VTE prevention: avoid prolonged immobility, maintain hydration, routine use of compression stockings for future long-haul travel if not contraindicated [1](https://www.statpearls.com/point-of-care/19382).
+- Smoking cessation if applicable; weight management and regular exercise [2](https://www.statpearls.com/point-of-care/20023).
+- Educate regarding recognition of VTE symptoms and the need for early presentation if recurrence is suspected.
+
+References:
+[1]: [Chest Pain](https://www.statpearls.com/point-of-care/19382 "of this paper; however, initial steps should...")
+[2]: [Acute Coronary Syndrome](https://www.statpearls.com/point-of-care/20023 "associated congestive heart failure (CHF). Bilateral leg...")

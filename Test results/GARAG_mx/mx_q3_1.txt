@@ -1,0 +1,52 @@
+## Summary
+- 55-year-old male with sudden severe, tearing chest pain radiating to the back.
+- Marked hypertension (190/110 mmHg) and tachycardia (110 bpm).
+- Examination: pulse deficit and BP difference of 30 mmHg between arms.
+- ECG: no ischaemic changes; CXR: widened mediastinum.
+- Clinical picture highly suggestive of acute aortic dissection, likely Stanford type A.
+
+----
+
+## Problems and Assessments
+
+1. Acute Aortic Dissection (Stanford type A) (Possible)
+   - Clinical features (sudden tearing chest pain radiating to the back, pulse deficit, BP asymmetry, widened mediastinum) and risk factors (hypertension) are classic for acute aortic dissection, especially type A (ascending aorta involvement), which is a surgical emergency [1](https://www.statpearls.com/point-of-care/135228), [2](https://www.statpearls.com/point-of-care/17034).
+2. Hypertensive Emergency
+   - Severe hypertension exacerbates risk of extension, rupture, or malperfusion; urgent control is needed [1](https://www.statpearls.com/point-of-care/135228).
+3. End-organ Malperfusion Risk
+   - Evidence of pulse deficit and differential BP may reflect compromised vascular supply to distal organs or limbs [1](https://www.statpearls.com/point-of-care/135228).
+4. Risk of Missed/Delayed Diagnosis and Complications
+   - High mortality risk; delayed intervention worsens outcomes [1](https://www.statpearls.com/point-of-care/135228), [2](https://www.statpearls.com/point-of-care/17034).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Urgent CT angiogram of the chest, abdomen, and pelvis to confirm extent/site of dissection, involvement of branch vessels, and complications; CT is the gold standard for rapid diagnosis [2](https://www.statpearls.com/point-of-care/17034).
+- Type and screen for potential transfusion/operative planning.
+- Renal function, troponin, and lactate to assess for end-organ ischaemia.
+- Continuous cardiac monitoring and repeat ECGs to rule out evolving myocardial ischaemia.
+- Repeat BP and pulse checks in all limbs to dynamically assess for evolving malperfusion.
+
+**Treatment and Supportive Management:**
+- Immediate blood pressure lowering: Target systolic BP <120 mmHg and HR <60 bpm to reduce aortic wall stress and propagation risk; initiate IV β-blocker (e.g., labetalol) [1](https://www.statpearls.com/point-of-care/135228).
+- If additional BP control needed, add vasodilators (e.g., sodium nitroprusside) but ONLY after beta-blockade to prevent reflex tachycardia [1](https://www.statpearls.com/point-of-care/135228).
+- Strict nil by mouth and maintain intravenous access for resuscitation.
+- Oxygen supplementation and analgesia with IV opioids as needed to optimise oxygenation and minimise sympathetic drive [1](https://www.statpearls.com/point-of-care/135228).
+- Prepare for urgent surgical intervention—avoid anticoagulation/thrombolysis.
+- Arrange for transfer to cardiac surgery centre if not on-site.
+- Monitor urine output and neurological status for evidence of end-organ involvement.
+
+**Referrals:**
+- Immediate referral to cardiothoracic (cardiac) surgery for emergency operative management (Stanford type A dissection mandates surgery regardless of haemodynamic status); discuss results and readiness for theatre [1](https://www.statpearls.com/point-of-care/135228), [2](https://www.statpearls.com/point-of-care/17034).
+- Involve anaesthesia and critical care teams early for preoperative and perioperative optimisation [3](https://www.statpearls.com/point-of-care/20603).
+
+**Preventative and Lifestyle Measures:**
+- After recovery, long-term strict blood pressure control and risk factor optimisation (e.g., antihypertensive therapy, smoking cessation, lipid management) to reduce risk of recurrence [1](https://www.statpearls.com/point-of-care/135228).
+- Genetic counselling if suspicion for heritable connective tissue disorder in appropriate settings.
+
+References:
+[1]: [Acute Aortic Syndrome](https://www.statpearls.com/point-of-care/135228 "Acute Aortic Syndrome Vignaraja Vikramman Basildon and...")
+[2]: [Chest and Mediastinal Imaging](https://www.statpearls.com/point-of-care/17034 "highly suggests a teratoma. The differential would,...")
+[3]: [Aortic Dissection](https://www.statpearls.com/point-of-care/20603 "patients may present with relatively mild symptoms...")

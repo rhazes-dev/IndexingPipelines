@@ -1,0 +1,60 @@
+## Summary
+- 68-year-old woman with poorly controlled type 2 diabetes presents with weight loss and painless jaundice.
+- Exam: palpable, non-tender gallbladder (Courvoisier’s sign).
+- Biochemistry: cholestatic LFTs.
+- CT abdomen pending.
+- High suspicion of malignant biliary obstruction such as pancreatic head cancer, cholangiocarcinoma, or periampullary tumor, pending imaging.
+
+----
+
+## Problems and Assessments
+
+1. (Possible) Malignant Biliary Obstruction
+   - Painless jaundice with palpable gallbladder suggests a high likelihood of malignant obstruction, most commonly pancreatic head cancer, cholangiocarcinoma, or periampullary tumor [1](https://www.statpearls.com/point-of-care/99689), [2](https://www.statpearls.com/point-of-care/18277), [3](https://www.statpearls.com/point-of-care/17482).
+   - Weight loss and cholestatic LFTs reinforce suspicion for a malignant etiology.
+
+2. Obstructive Jaundice and Associated Complications
+   - Evidence of biliary obstruction (jaundice, LFT changes) raises risk for pruritus, steatorrhea, malabsorption, cholangitis, and hepatic dysfunction [2](https://www.statpearls.com/point-of-care/18277).
+
+3. Poorly Controlled Type 2 Diabetes
+   - Longstanding and uncontrolled, a relevant comorbidity for perioperative and general management.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Complete CT Abdomen (currently in progress): To identify the level, cause, and extent of biliary obstruction, and screen for resectability or metastases [2](https://www.statpearls.com/point-of-care/18277).
+- Consider MRCP: Non-invasive delineation of the biliary and pancreatic ductal anatomy, further characterising level and cause of obstruction [1](https://www.statpearls.com/point-of-care/99689).
+- If mass is present, obtain tissue diagnosis:
+    - EUS with FNAB or ERCP with brushings/cytology depending on location and accessibility, to confirm malignancy and guide further management [2](https://www.statpearls.com/point-of-care/18277).
+- Full LFT, INR, albumin, renal profile: Assess hepatic synthetic function prior to potential intervention [1](https://www.statpearls.com/point-of-care/99689).
+- CA19-9 and CEA tumour markers: May assist in diagnosis and prognosis for malignancy, but are not diagnostic [1](https://www.statpearls.com/point-of-care/99689).
+
+**Treatment and Supportive Management:**
+- If cholangitis or sepsis develops: Urgent IV antibiotics and supportive care, with prompt biliary decompression if indicated [2](https://www.statpearls.com/point-of-care/18277).
+- For symptomatic biliary obstruction (pruritus, cholestasis, or impending hepatic dysfunction):
+    - Endoscopic stent placement (via ERCP) for drainage if resectable or for palliation if unresectable [2](https://www.statpearls.com/point-of-care/18277).
+    - Percutaneous transhepatic biliary drainage considered if endoscopic approach is not feasible [2](https://www.statpearls.com/point-of-care/18277).
+- Evaluate for surgical resection if mass is localized and there is no metastatic disease:
+    - Whipple procedure (pancreaticoduodenectomy) for pancreatic head or ampullary tumors if appropriate [2](https://www.statpearls.com/point-of-care/18277), [3](https://www.statpearls.com/point-of-care/17482).
+    - Oncologic assessment for chemotherapy/radiotherapy if unresectable or metastatic [2](https://www.statpearls.com/point-of-care/18277), [3](https://www.statpearls.com/point-of-care/17482).
+- Supportive measures:
+    - Manage pruritus (e.g., cholestyramine for symptomatic relief) [2](https://www.statpearls.com/point-of-care/18277).
+    - Fat-soluble vitamin supplementation (A, D, E, K) if evidence of malabsorption [2](https://www.statpearls.com/point-of-care/18277).
+    - Optimize glycaemic control in view of diabetes.
+    - Nutritional support for weight loss and cachexia.
+
+**Referrals:**
+- Gastroenterology and/or HPB (hepatopancreatobiliary) surgery multidisciplinary team for diagnostic confirmation, preoperative workup, and determination of resectability [3](https://www.statpearls.com/point-of-care/17482).
+- Oncology for assessment of need for palliative chemotherapy/radiotherapy if unresectable malignancy.
+- Endoscopy service for diagnostic and therapeutic ERCP as appropriate [2](https://www.statpearls.com/point-of-care/18277).
+
+**Preventative and Lifestyle Measures:**
+- Encourage smoking and alcohol cessation to reduce further hepatic/pancreatic insult and optimize general health pre-intervention.
+- Diabetic education and optimization (if not acutely unwell) to improve outcomes perioperatively and long-term.
+
+References:
+[1]: [Bile Duct Stricture](https://www.statpearls.com/point-of-care/99689 "cholangiohepatitis (Ascaris lumbricoides and Clonorchis sinensis) Post...")
+[2]: [Biliary Obstruction](https://www.statpearls.com/point-of-care/18277 "extrahepatic bile duct abnormalities, such as cholangiocarcinoma,...")
+[3]: [Periampullary Tumors](https://www.statpearls.com/point-of-care/17482 "Periampullary Tumors Paluri Ravi K. University of...")

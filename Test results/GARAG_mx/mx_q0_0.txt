@@ -1,0 +1,57 @@
+## Summary
+- 86-year-old male with known congestive cardiac failure (CCF), presenting with pulmonary oedema on chest x-ray.
+- Severe left ventricular systolic dysfunction (EF 30%).
+- Severe renal impairment (eGFR 10); likely end-stage renal disease (ESRD).
+- Clinical status complicated by fluid overload (pulmonary oedema) and markedly limited options due to advanced renal dysfunction.
+
+----
+
+## Problems and Assessments
+
+1. Acute pulmonary oedema secondary to decompensated CCF
+   - Severe fluid overload from heart failure, presenting with pulmonary oedema and acute respiratory compromise; high risk given EF 30% and advanced age.
+2. Severely reduced ejection fraction (HFrEF) 
+   - Chronic heart failure (HFrEF, EF 30%) with current decompensation; advanced age increases risk of morbidity and mortality.
+3. Severe renal dysfunction (eGFR 10)
+   - Advanced chronic kidney disease (likely CKD stage 5); imposes major limitations on pharmacologic and diuretic therapies, high risk for volume overload, electrolyte disturbances, and drug toxicity.
+4. Multimorbidity and frailty (Possible)
+   - Advanced age and comorbid CCF and CKD suggest frailty and increased risk for acute deterioration, adverse events, and poor prognosis.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Cardiorespiratory monitoring (continuous ECG, pulse oximetry, BP) to assess for arrhythmias, hypoxia, and hemodynamic instability [1](https://www.statpearls.com/point-of-care/19880).
+- Check serum electrolytes, kidney function, and complete blood count to evaluate for metabolic and hematologic complications of heart failure and advanced CKD [1](https://www.statpearls.com/point-of-care/19880).
+- Troponin if there is suspicion of acute coronary syndrome as a precipitant [1](https://www.statpearls.com/point-of-care/19880).
+- Chest x-ray (already done, shows pulmonary edema) and ECG (to assess rhythm, ischemia, LV hypertrophy) [1](https://www.statpearls.com/point-of-care/19880).
+- Consider biomarker measurement (BNP or NT-proBNP) if diagnostic uncertainty about the cause of dyspnea, although may be chronically elevated due to CKD/CCF [1](https://www.statpearls.com/point-of-care/19880).
+
+**Treatment and Supportive Management:**
+- Airway, Breathing, Circulation: Assess and address hypoxia, tachypnea; oxygen therapy if hypoxic [1](https://www.statpearls.com/point-of-care/19880).
+- IV access for medication and/or emergent therapies [1](https://www.statpearls.com/point-of-care/19880).
+- Loop diuretics: IV furosemide indicated as first-line for acute pulmonary oedema in CCF, but renal failure will reduce efficacy. Start at higher doses than usual (and titrate based on response) [1](https://www.statpearls.com/point-of-care/19880).
+    - Caution: Closely monitor hydration, electrolytes and renal function.
+- Ultrafiltration (renal replacement therapy): Strongly consider as next-line/adjunct in refractory fluid overload or diuretic resistance, or if patient is oliguric/anuric. This is often preferred over escalating diuretic doses in advanced CKD, as it effectively removes sodium and water without further nephrotoxicity or neurohormonal activation [2](https://www.statpearls.com/point-of-care/28020).
+- Vasodilators: May be considered in hypertensive pulmonary oedema if BP allows (e.g., IV nitrates), but with caution in advanced renal failure and hypotension [1](https://www.statpearls.com/point-of-care/19880).
+    - Avoid sodium nitroprusside if possible, as it can accumulate toxic metabolites in severe renal failure [1](https://www.statpearls.com/point-of-care/19880).
+- Avoid routine use of medications cleared renally or known to worsen hyperkalaemia or renal dysfunction (e.g., most ACE inhibitors, ARBs, mineralocorticoid receptor antagonists).
+- Inotropes: Reserve for profound hypotension/cardiogenic shock not responding to volume/vasodilators [2](https://www.statpearls.com/point-of-care/28020).
+- Review medication list to withhold nephrotoxic or negatively inotropic drugs.
+- Supportive care: Monitor for delirium, pressure areas, nutritional status due to frailty and advanced age.
+
+**Referrals:**
+- Urgent Cardiology for optimisation of heart failure and guidance on advanced heart failure management (inotropes, advanced mechanical support, consideration of escalation of care) [1](https://www.statpearls.com/point-of-care/19880).
+- Nephrology for urgent assessment of suitability and modality of renal replacement therapy/ultrafiltration, particularly if diuretic resistance [2](https://www.statpearls.com/point-of-care/28020).
+
+**Preventative and Lifestyle Measures:**
+- Discuss code status, ceiling of care, and long-term goals given age, comorbidity, and poor prognosis [2](https://www.statpearls.com/point-of-care/28020).
+- Consider salt and fluid restriction (adjust for renal advice).
+- Optimise co-morbidities (diabetes, hypertension, infection) in concert with multidisciplinary team to prevent further acute decompensations.
+
+----
+
+References:
+[1]: [Congestive Heart Failure and Pulmonary Edema](https://www.statpearls.com/point-of-care/19880 "failure. Ordering multiple routine tests should be...")
+[2]: [Cardiogenic Pulmonary Edema](https://www.statpearls.com/point-of-care/28020 "also have to be added. For patients...")

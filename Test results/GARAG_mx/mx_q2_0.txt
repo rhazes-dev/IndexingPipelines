@@ -1,0 +1,50 @@
+## Summary
+- 24-year-old woman presenting with fatigue, pallor, and SOB on exertion over 1 month.
+- Reports heavy menstrual bleeding (lasting 7 days/cycle).
+- Exam: conjunctival pallor.
+- Labs: Hb 7.5 g/dL (low), MCV 70 fL (microcytic), ferritin significantly reduced.
+- Peripheral smear: hypochromic, microcytic red cells.
+- Clinical picture and labs highly suggest iron deficiency anemia secondary to chronic blood loss from menorrhagia.
+----
+
+## Problems and Assessments
+
+1. Iron deficiency anemia due to chronic blood loss (menorrhagia)
+   - Profound microcytic anemia (Hb 7.5, MCV 70 fL) with low ferritin and hypochromic microcytic cells on smear indicates iron deficiency anemia, most likely caused by heavy menstrual bleeding, which is the predominant cause in women of reproductive age[1](https://www.statpearls.com/point-of-care/17532)[2](https://www.statpearls.com/point-of-care/101758).
+   - Associated symptoms (fatigue, pallor, SOB) are consistent with moderate-severe anemia[3](https://www.statpearls.com/point-of-care/17527).
+
+2. Menorrhagia (Heavy menstrual bleeding)
+   - Persistent and excessive menstrual blood loss is contributing to her iron deficiency.
+   - Ongoing menstrual loss must be addressed for definitive management and prevention of recurrence[2](https://www.statpearls.com/point-of-care/101758).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Pelvic examination and pelvic ultrasound: Evaluate structural causes of menorrhagia (e.g., fibroids, polyps).
+- Additional iron studies (serum iron, TIBC, transferrin saturation): Confirm iron deficiency and exclude other etiologies.
+- Pregnancy test: Exclude pregnancy-related causes if appropriate.
+- Consider screening for bleeding disorders if heavy menses since menarche or family hx positive for bleeding diathesis.
+- Consider coeliac serology if GI symptoms or poor response to iron therapy (to assess malabsorption)[2](https://www.statpearls.com/point-of-care/101758).
+
+**Treatment and Supportive Management:**
+- Oral iron replacement: First-line—ferrous sulfate, gluconate, or fumarate. Give with vitamin C to enhance absorption. Advise on expected GI side-effects and adherence. Parenteral iron (e.g., IV ferric carboxymaltose) may be used if intolerant of or non-responsive to oral preparations, or if rapid correction is warranted[2](https://www.statpearls.com/point-of-care/101758).
+- Blood transfusion: Consider if symptomatic or Hb <7–8 g/dL with evidence of cardiorespiratory compromise or if rapid correction needed for imminent surgery[3](https://www.statpearls.com/point-of-care/17527).
+- Treat menorrhagia: Consider tranexamic acid or NSAIDs to acutely reduce bleeding; longer-term, consider hormonal therapy (e.g., combined oral contraceptive pill, levonorgestrel IUS) depending on underlying cause and patient preference.
+- Advise dietary modification: Increase dietary iron intake (red meat, leafy greens, legumes); avoid inhibitors of absorption (tea, coffee, calcium-rich foods at same meals)[2](https://www.statpearls.com/point-of-care/101758).
+
+**Referrals:**
+- Gynecology: If initial evaluation reveals structural lesion, abnormal findings, or if there is failure of first-line therapy for menorrhagia, for further management (e.g., surgical options).
+- Hematology: If unusual/atypical features (e.g., very early menorrhagia, suspected inherited bleeding disorder, refractory to iron).
+
+**Preventative and Lifestyle Measures:**
+- Education: Advise on importance of adherence to iron therapy and follow-up labs to ensure hematological recovery.
+- Counsel on signs of iron overload with excessive supplementation.
+- Emphasize regular monitoring: Repeat CBC and ferritin in ~4 weeks to document response to therapy and guide duration.
+- Address underlying menstrual blood loss for future prevention[2](https://www.statpearls.com/point-of-care/101758).
+
+References:
+[1]: [Chronic Anemia](https://www.statpearls.com/point-of-care/17532 "(aplastic anemia and myelophthisic anemia) Anemia of...")
+[2]: [Chronic Iron Deficiency](https://www.statpearls.com/point-of-care/101758 "Chronic Iron Deficiency Hanif Nazma Anwer Faiz...")
+[3]: [Anemia](https://www.statpearls.com/point-of-care/17527 "involved in anemia are listed below: 1...")

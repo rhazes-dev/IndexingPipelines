@@ -1,0 +1,69 @@
+## Summary
+- 6-year-old child with 1-week history of progressive, predominantly morning periorbital swelling and lower limb pitting oedema.
+- Marked proteinuria (>3.5g/day), hypoalbuminaemia (20 g/L), hyperlipidaemia—classic nephrotic syndrome features.
+- Renal function and blood pressure normal.
+- Age, presentation and labs strongly suggest minimal change disease (MCD), the most common cause of nephrotic syndrome in this age group.
+
+----
+
+## Problems and Assessments
+
+1. Nephrotic Syndrome (Probable Minimal Change Disease)
+   - Typical age group, clinical features and labs including heavy proteinuria, low albumin, hyperlipidaemia, and oedema point to MCD as the cause of idiopathic nephrotic syndrome in this child[1](https://www.statpearls.com/point-of-care/25173),[2](https://www.statpearls.com/point-of-care/25173).
+
+2. Oedema/Fluid Overload
+   - Prominent periorbital and peripheral oedema, risk of further complications (ascites, effusions)[3](https://www.statpearls.com/point-of-care/25707).
+
+3. Infection Risk
+   - Nephrotic syndrome is associated with increased risk of infection due to urinary protein loss (particularly immunoglobulins)[1](https://www.statpearls.com/point-of-care/25173).
+
+4. Risk of Relapse and Corticosteroid Adverse Effects
+   - High relapse rate in children with MCD, potential for steroid dependence/resistance and associated adverse effects[2](https://www.statpearls.com/point-of-care/25173),[4](https://www.statpearls.com/point-of-care/25713).
+
+5. Thromboembolic Risk
+   - Hyperlipidaemia and hypoalbuminaemia contribute to increased risk[3](https://www.statpearls.com/point-of-care/25707).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Baseline investigations (if not already performed):
+    - Urinalysis and spot or 24-hour urine protein quantitation to confirm nephrotic-range proteinuria and monitor response[1](https://www.statpearls.com/point-of-care/25173).
+    - Complete metabolic panel: monitor albumin, total protein, renal function, calcium[1](https://www.statpearls.com/point-of-care/25173).
+    - Lipid profile: assess baseline hyperlipidaemia, monitor for improvement with therapy[1](https://www.statpearls.com/point-of-care/25173).
+    - Complete blood count: assess for hemoconcentration and increased platelets (thrombocytosis)[1](https://www.statpearls.com/point-of-care/25173).
+- Serologies to rule out secondary causes:
+    - ANA, hepatitis B/C, HIV testing, complement levels, syphilis serology as clinically appropriate[1](https://www.statpearls.com/point-of-care/25173),[4](https://www.statpearls.com/point-of-care/25713).
+- Renal biopsy is **not** routinely indicated in children with typical idiopathic features, unless atypical features present: age <1 or >12 years, gross hematuria, marked hypertension, abnormal renal function, hypocomplementemia, steroid resistance, or secondary cause suspicion[1](https://www.statpearls.com/point-of-care/25173),[4](https://www.statpearls.com/point-of-care/25713).
+
+**Treatment and Supportive Management:**
+- Corticosteroid therapy (First line for idiopathic nephrotic syndrome/MCD in children):
+   - Prednisolone 2 mg/kg/day (max 60 mg) for 4 weeks, then reduce/taper per guideline and clinical response—majority will achieve remission[1](https://www.statpearls.com/point-of-care/25173),[2](https://www.statpearls.com/point-of-care/25173),[4](https://www.statpearls.com/point-of-care/25713).
+   - Monitor for steroid side effects (growth, glucose, BP, behaviour).
+- Manage oedema:
+   - Sodium restriction and fluid management as appropriate for volume status[2](https://www.statpearls.com/point-of-care/25173).
+   - Diuretics (e.g., furosemide) for symptomatic or severe oedema; consider albumin infusion only for severe hypoalbuminaemia with symptomatic fluid overload resistant to standard measures[2](https://www.statpearls.com/point-of-care/25173).
+- Infection prophylaxis:
+   - Early treatment of infections; consider pneumococcal vaccination and routine immunizations if not up to date[1](https://www.statpearls.com/point-of-care/25173).
+- Thrombosis prevention:
+   - Assess individual risk; usual prophylaxis not recommended unless additional risk factors present (e.g., severe hypoalbuminaemia, immobilization)[3](https://www.statpearls.com/point-of-care/25707).
+- Frequent relapsers/steroid-dependent/steroid-resistant:
+   - Immunosuppressive agents (cyclophosphamide, calcineurin inhibitors, mycophenolate mofetil, rituximab) based on relapse frequency, side-effect profiles, clinician and family discussion[4](https://www.statpearls.com/point-of-care/25713).
+- Monitor:
+   - Regular clinical review of weight, BP, urine protein, renal function, lipid profile and adverse effects during and after treatment[4](https://www.statpearls.com/point-of-care/25713).
+
+**Referrals:**
+- Paediatric nephrology referral for diagnosis confirmation, management guidance, especially if atypical features, steroid resistance, frequent/worrisome relapses, or complications arise[1](https://www.statpearls.com/point-of-care/25173),[4](https://www.statpearls.com/point-of-care/25713).
+
+**Preventative and Lifestyle Measures:**
+- Salt restriction and encourage a balanced diet appropriate to age and renal status[1](https://www.statpearls.com/point-of-care/25173).
+- Encourage adherence to prescribed medications and monitoring, with education for family on disease course, signs of complications, and infection prevention[2](https://www.statpearls.com/point-of-care/25173),[4](https://www.statpearls.com/point-of-care/25713).
+
+----
+
+References:
+[1]: [Minimal Change Disease](https://www.statpearls.com/point-of-care/25173 "In these patients, hypoalbuminemia and decreased oncotic...")
+[2]: [Minimal Change Disease Part 2](https://www.statpearls.com/point-of-care/25173 "Minimal Change Disease Zamora Glenda Palms West...")
+[3]: [Histology, Nephron](https://www.statpearls.com/point-of-care/25707 "of immune-mediated pathologies, as mentioned in other...")
+[4]: [Nephrotic Syndrome](https://www.statpearls.com/point-of-care/25713 "the normal range of 3.5 to 4.5...")

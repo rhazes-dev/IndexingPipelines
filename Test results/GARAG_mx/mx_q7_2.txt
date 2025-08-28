@@ -1,0 +1,60 @@
+## Summary
+- 35-year-old woman with clinical features of Cushing syndrome: weight gain, central obesity, purple abdominal striae, hypertension, muscle weakness, irregular menstruation.
+- Examination: facial plethora, proximal muscle weakness, dorsocervical fat pad.
+- Labs: elevated serum cortisol not suppressible by dexamethasone suppression test, significantly elevated ACTH.
+- Clinical picture supports ACTH-dependent Cushing syndrome (likely Cushing disease).
+
+----
+
+## Problems and Assessments
+
+1. Cushing disease (ACTH-dependent Cushing syndrome)
+   - Classic clinical, biochemical and exam findings of hypercortisolism with elevated ACTH and failure to suppress cortisol on dexamethasone testing [1](https://www.statpearls.com/point-of-care/20175), [2](https://www.statpearls.com/point-of-care/17242), [3](https://www.statpearls.com/point-of-care/20047).
+2. Hypertension
+   - Secondary to cortisol excess, with increased mineralocorticoid activity [1](https://www.statpearls.com/point-of-care/20175).
+3. Metabolic and reproductive derangements
+   - Insulin resistance/diabetes, dyslipidemia, menstrual irregularity; common in Cushing syndrome [2](https://www.statpearls.com/point-of-care/17242), [3](https://www.statpearls.com/point-of-care/20047).
+4. Increased risk of infection and impaired wound healing
+   - Result of cortisol excess [2](https://www.statpearls.com/point-of-care/17242).
+5. Osteoporosis and muscle weakness
+   - Cortisol-related bone/muscle catabolism [3](https://www.statpearls.com/point-of-care/20047).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- MRI pituitary with contrast: To localise a pituitary ACTH-secreting microadenoma, as this is the most common cause of ACTH-dependent Cushing’s in this age group [1](https://www.statpearls.com/point-of-care/20175).
+- Consider inferior petrosal sinus sampling (IPSS): If pituitary MRI is negative or equivocal, to differentiate pituitary versus ectopic ACTH production [1](https://www.statpearls.com/point-of-care/20175).
+- Basic metabolic panel, fasting glucose, lipid profile: To assess for diabetes, dyslipidemia, and electrolyte disturbance [2](https://www.statpearls.com/point-of-care/17242).
+- DEXA scan: To evaluate for osteoporosis related to chronic hypercortisolism [3](https://www.statpearls.com/point-of-care/20047).
+
+**Treatment and Supportive Management:**
+- First-line: Transsphenoidal surgical resection of pituitary adenoma if identified, as definitive treatment for Cushing disease [3](https://www.statpearls.com/point-of-care/20047).
+- If surgery is incomplete or contraindicated:
+  - Consider pituitary radiotherapy or medical therapy (e.g., steroidogenesis inhibitors such as ketoconazole, metyrapone, or osilodrostat) [3](https://www.statpearls.com/point-of-care/20047).
+- Hypertension and metabolic complications:
+  - Manage blood pressure with antihypertensives (ACE inhibitors/ARBs preferred if diabetic or proteinuric).
+  - Optimise glycaemic control if needed [3](https://www.statpearls.com/point-of-care/20047).
+  - Initiate statin if indicated for dyslipidemia.
+- Prevent and treat osteoporosis:
+  - Vitamin D and calcium supplementation.
+  - Consider bisphosphonate therapy based on DEXA results [3](https://www.statpearls.com/point-of-care/20047).
+- Address menstrual irregularities and provide appropriate gynaecological follow-up.
+
+**Referrals:**
+- Endocrinology: For coordination of diagnosis confirmation, surgical planning, and perioperative management [3](https://www.statpearls.com/point-of-care/20047).
+- Neurosurgery: For assessment and surgical resection if pituitary adenoma confirmed [3](https://www.statpearls.com/point-of-care/20047).
+- Gynaecology: For management of menstrual irregularities and fertility issues.
+
+**Preventative and Lifestyle Measures:**
+- Weight loss advice and healthy diet to improve cardiovascular/metabolic risk profile.
+- Smoking and alcohol cessation counselling if applicable.
+- Fall risk assessment and bone protection education due to osteoporosis risk.
+
+----
+
+References:
+[1]: [Cushing Disease](https://www.statpearls.com/point-of-care/20175 "circadian rhythm of cortisol is also lost...")
+[2]: [Physiology, Adrenocorticotropic Hormone (ACTH)](https://www.statpearls.com/point-of-care/17242 "in ACTH. Pituitary insufficiency is usually the...")
+[3]: [Physiology, Cortisol](https://www.statpearls.com/point-of-care/20047 "In both cases, the overproduction of ACTH...")

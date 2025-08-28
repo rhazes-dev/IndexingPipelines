@@ -1,0 +1,61 @@
+## Summary
+- 35-year-old woman with classic Cushingoid features: weight gain, central obesity, purple striae, hypertension, facial plethora, dorsocervical fat pad, proximal muscle weakness, and menstrual irregularity.
+- Laboratory: elevated serum cortisol not suppressed by dexamethasone, and significantly elevated ACTH—suggesting ACTH-dependent Cushing syndrome (very likely Cushing disease) as opposed to ectopic ACTH (less common at this age) or adrenal causes.
+----
+
+## Problems and Assessments
+
+1. ACTH-Dependent Cushing Syndrome (probable Cushing disease)
+   - Clinical features and biochemistry (high cortisol unresponsive to dexamethasone, high ACTH) are most consistent with Cushing disease (pituitary ACTH-producing adenoma), though ectopic ACTH syndrome should also be excluded given markedly elevated ACTH[1](https://www.statpearls.com/point-of-care/20178),[2](https://www.statpearls.com/point-of-care/20047).
+
+2. Hypertension and Cardiometabolic Complications
+   - Secondary hypertension and metabolic derangements resulting from chronic hypercortisolism; raises cardiovascular risk[2](https://www.statpearls.com/point-of-care/20047).
+
+3. Myopathy/Proximal Muscle Weakness
+   - Cortisol excess contributes to muscle protein catabolism and weakness[2](https://www.statpearls.com/point-of-care/20047).
+
+4. Menstrual Irregularity and Androgen Excess
+   - Gonadal axis suppression and increased adrenal androgens due to hypercortisolism[3](https://www.statpearls.com/point-of-care/17242).
+
+5. Risk of Infection, Osteoporosis, and Impaired Glucose Tolerance
+   - Chronic corticosteroid excess raises infection risk, decreases bone density, and causes impaired glucose metabolism[1](https://www.statpearls.com/point-of-care/20178),[2](https://www.statpearls.com/point-of-care/20047).
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- MRI of the pituitary (with contrast): To localise a pituitary ACTH-secreting adenoma (Cushing disease); first-line imaging for ACTH-dependent Cushing after lab confirmation[1](https://www.statpearls.com/point-of-care/20178).
+- High-dose dexamethasone suppression test (if not already performed): Further distinguishes pituitary from ectopic ACTH sources; pituitary (Cushing disease) often shows partial suppression[1](https://www.statpearls.com/point-of-care/20178).
+- Inferior petrosal sinus sampling (IPSS): If imaging is equivocal or the source remains unclear, IPSS confirms pituitary vs. ectopic ACTH source[1](https://www.statpearls.com/point-of-care/20178).
+- Chest/abdominal imaging (CT): If pituitary imaging is negative or to look for ectopic ACTH source (e.g., small-cell lung cancer)[1](https://www.statpearls.com/point-of-care/20178).
+- Baseline bone mineral density (DEXA): To evaluate for osteoporosis due to chronic hypercortisolism[1](https://www.statpearls.com/point-of-care/20178).
+- Fasting glucose/HbA1c and lipid profile: Assess metabolic complications[2](https://www.statpearls.com/point-of-care/20047).
+- Investigations for infectious risk (if clinically indicated): Screen for latent infections before definitive therapy[1](https://www.statpearls.com/point-of-care/20178).
+
+**Treatment and Supportive Management:**
+- Definitive treatment: Transsphenoidal surgical resection of pituitary adenoma is first-line for confirmed Cushing disease[1](https://www.statpearls.com/point-of-care/20178).
+- Preoperative medical therapy (if needed to control hypercortisolism or if surgery is delayed):
+    - Steroidogenesis inhibitors: ketoconazole, metyrapone, or osilodrostat can be used temporarily to control cortisol excess[1](https://www.statpearls.com/point-of-care/20178).
+    - Mifepristone (glucocorticoid receptor antagonist) may be considered in selected cases, especially if surgery is contraindicated or unsuccessful[2](https://www.statpearls.com/point-of-care/20047).
+- Address metabolic and cardiovascular risk:
+    - Hypertension: Antihypertensives as appropriate for blood pressure target[2](https://www.statpearls.com/point-of-care/20047).
+    - Dysglycaemia: Optimise glycaemic control, monitor closely for diabetes[2](https://www.statpearls.com/point-of-care/20047).
+    - Osteoporosis: Consider calcium, vitamin D supplementation, and bisphosphonates if osteoporosis is present[1](https://www.statpearls.com/point-of-care/20178).
+- Prevent infection: Prompt evaluation and treatment of infections[1](https://www.statpearls.com/point-of-care/20178).
+- Monitor for adrenal insufficiency post-treatment: Glucocorticoid replacement (e.g., hydrocortisone) as needed during the perioperative period and following cure[1](https://www.statpearls.com/point-of-care/20178).
+
+**Referrals:**
+- Endocrinology: For further workup, definitive management, and postoperative hormone management[1](https://www.statpearls.com/point-of-care/20178).
+- Neurosurgery: For transsphenoidal pituitary surgery if indicated[1](https://www.statpearls.com/point-of-care/20178).
+- Consider additional specialties as needed based on comorbidities (e.g., cardiology for refractory hypertension).
+
+**Preventative and Lifestyle Measures:**
+- Advise weight optimisation and dietary measures to address metabolic risk[2](https://www.statpearls.com/point-of-care/20047).
+- Counsel on infection prevention (vaccination, prompt medical attention for illness)[1](https://www.statpearls.com/point-of-care/20178).
+- Encourage mobilisation and physical activity as tolerated to minimise bone/muscle loss[2](https://www.statpearls.com/point-of-care/20047).
+- Smoking cessation and alcohol moderation if relevant[2](https://www.statpearls.com/point-of-care/20047).
+
+References:
+[1]: [Cushing Syndrome](https://www.statpearls.com/point-of-care/20178 "Cushing Syndrome Chaudhry Hammad S. Singh Gurdeep...")
+[2]: [Physiology, Cortisol](https://www.statpearls.com/point-of-care/20047 "In both cases, the overproduction of ACTH...")
+[3]: [Physiology, Adrenocorticotropic Hormone (ACTH)](https://www.statpearls.com/point-of-care/17242 "in ACTH. Pituitary insufficiency is usually the...")

@@ -1,0 +1,55 @@
+## Summary
+- 34-year-old woman with clinical features of thyrotoxicosis: heat intolerance, weight loss, anxiety, amenorrhoea.
+- Exam: fine tremor, lid lag, diffuse goitre.
+- Biochemistry: suppressed TSH, elevated free T4.
+- Autoimmunity: positive TPO and TRAb antibodies.
+- Diagnosis: Graves disease-related hyperthyroidism.
+
+----
+
+## Problems and Assessments
+
+1. Graves Disease (Autoimmune Hyperthyroidism)
+   - Classical clinical features with biochemical confirmation; positive TRAb and TPO support diagnosis.
+   - Amenorrhoea likely secondary to hyperthyroidism-induced hypothalamic-pituitary dysfunction.
+   - Diffuse goitre consistent with Graves etiology[1](https://www.statpearls.com/point-of-care/30167).
+
+2. Thyrotoxic Symptoms (Weight loss, Anxiety, Tremor, Heat Intolerance)
+   - Due to elevated circulating thyroid hormones; associated risks for cardiovascular, neuropsychiatric, and bone complications[1](https://www.statpearls.com/point-of-care/30167).
+
+3. Amenorrhoea
+   - Likely secondary to thyrotoxicosis; improvement expected with restoration of euthyroidism.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Baseline ECG: Assess for tachyarrhythmias (e.g., atrial fibrillation), given higher risk with thyrotoxicosis[1](https://www.statpearls.com/point-of-care/30167).
+- Baseline full blood count and liver and renal function tests: Ensure safety prior to antithyroid drug initiation.
+- Thyroid function tests (TSH, free T4, total T3): To monitor response to therapy and guide titration[2](https://www.statpearls.com/point-of-care/29850).
+- Consider thyroid ultrasound if nodularity or uncertain diagnosis.
+
+**Treatment and Supportive Management:**
+- First-line: Start a thionamide antithyroid drug (carbimazole or methimazole; PTU if pregnancy/planned conception), titrate to maintain euthyroidism. This is recommended to relieve symptoms and achieve disease control[2](https://www.statpearls.com/point-of-care/29850).
+- Adjunct: Non-selective beta-blocker (e.g., propranolol) for symptom control (tremor, anxiety, palpitations); dose titrated by symptoms and heart rate[1](https://www.statpearls.com/point-of-care/30167).
+- Monitor thyroid function every 4–6 weeks during dose titration, then 3–6 monthly once stable[2](https://www.statpearls.com/point-of-care/29850).
+- Consider definitive therapy (radioiodine ablation or surgery) if intolerance to medication, lack of remission, large goitre, or patient preference:
+    - Radioactive iodine ablation: Single oral dose; contraindicated if pregnant/planning pregnancy in 6 months, moderate–severe orbitopathy[2](https://www.statpearls.com/point-of-care/29850).
+    - Surgery (near-total or total thyroidectomy): Indicated for intolerance to thionamides, large compressive goitre, patient preference, or malignancy suspicion. Must achieve euthyroidism pre-operatively with antithyroid drugs and/or beta-blockers; use SSKI/Lugol’s if Graves[2](https://www.statpearls.com/point-of-care/29850).
+- Advise contraception if taking thionamides/considering RAI; review for pregnancy status at baseline and periodically during treatment.
+
+**Referrals:**
+- Endocrinology referral: For specialist input in managing Graves disease, to guide antithyroid drug therapy, assess for definitive treatment eligibility, and long-term follow-up.
+- Consider ophthalmology if any evidence of Graves orbitopathy develops.
+
+**Preventative and Lifestyle Measures:**
+- Smoking cessation: Smoking is a risk factor for Graves orbitopathy and relapses; cessation reduces complication risk[1](https://www.statpearls.com/point-of-care/30167).
+- Adequate calcium and vitamin D intake: Reduce bone loss risk associated with thyrotoxicosis[1](https://www.statpearls.com/point-of-care/30167).
+- Patient education: Advise regarding symptom monitoring, adverse effects of medications (e.g., agranulocytosis, hepatotoxicity), and importance of follow-up/medication adherence.
+
+----
+
+References:
+[1]: [Thyrotoxicosis](https://www.statpearls.com/point-of-care/30167 "dysfunction, osteoporosis, and, in severe cases, thyroid...")
+[2]: [Hyperthyroidism](https://www.statpearls.com/point-of-care/29850 "Toxic multinodular goiter A single dose of...")

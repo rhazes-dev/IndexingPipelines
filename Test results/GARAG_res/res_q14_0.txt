@@ -1,0 +1,5 @@
+Yes
+Yes
+No
+Yes
+Explanation: Q3: first appearance out of order; [3] appears before [2]

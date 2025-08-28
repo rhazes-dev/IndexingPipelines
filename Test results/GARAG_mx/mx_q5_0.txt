@@ -1,0 +1,62 @@
+## Summary
+- 6-year-old with one week of progressive periorbital and lower limb oedema, prominent in the morning.
+- Urinalysis: heavy proteinuria (>3.5g/day).
+- Labs: hypoalbuminaemia (albumin 20 g/L), hyperlipidaemia; renal function and BP normal.
+- Clinical features and labs indicate nephrotic syndrome, most likely minimal change disease (MCD), given age and lack of systemic symptoms.
+
+----
+
+## Problems and Assessments
+
+1. Nephrotic syndrome (probable Minimal Change Disease)
+   - Classic pediatric presentation (heavy proteinuria, oedema, hypoalbuminaemia, normal BP/renal function); MCD is the most common etiology in children [1](https://www.statpearls.com/point-of-care/25713), [2](https://www.statpearls.com/point-of-care/25707).
+
+2. Edema/fluid overload
+   - Marked periorbital and limb oedema due to hypoalbuminaemia reducing oncotic pressure and promoting extravascular fluid shift [2](https://www.statpearls.com/point-of-care/25707).
+
+3. Risk of infection
+   - Loss of immunoglobulins and complement in urine increases susceptibility to infection [2](https://www.statpearls.com/point-of-care/25707).
+
+4. Hyperlipidaemia
+   - Elevated cholesterol and triglycerides are common in nephrotic syndrome, further increasing risk for complications [2](https://www.statpearls.com/point-of-care/25707).
+
+5. Risk of thromboembolism
+   - Nephrotic state predisposes to hypercoagulability and thrombosis, especially with severe hypoalbuminaemia [2](https://www.statpearls.com/point-of-care/25707).
+
+6. Relapse and steroid side effect risk
+   - High relapse rate and need for education/monitoring for steroid toxicity and alternative therapies [1](https://www.statpearls.com/point-of-care/25713).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Urinalysis: Monitor proteinuria and hematuria to assess disease activity and exclude nephritic features [2](https://www.statpearls.com/point-of-care/25707).
+- Spot urine protein/creatinine ratio or 24-hour urine protein quantification for ongoing monitoring [2](https://www.statpearls.com/point-of-care/25707).
+- Serum albumin, cholesterol, electrolytes, renal function: At baseline and regularly to track response and complications [2](https://www.statpearls.com/point-of-care/25707).
+- Exclude secondary causes only if clinical suspicion (e.g., ANA, complement, hepatitis B/C serologies), though not routine in classic pediatric idiopathic cases [1](https://www.statpearls.com/point-of-care/25713).
+- Renal biopsy: Only if atypical features (age <1 or >8yo, persistent hematuria, hypertension, impaired renal function, steroid resistance/relapse) [1](https://www.statpearls.com/point-of-care/25713).
+
+**Treatment and Supportive Management:**
+- First-line: Oral corticosteroids (prednisolone/prednisone), 2 mg/kg/day for 4 weeks, then taper as per protocol; most children achieve remission [1](https://www.statpearls.com/point-of-care/25713).
+- Track weight, BP, and fluid status daily to monitor oedema and risk of complications [1](https://www.statpearls.com/point-of-care/25713).
+- Salt and fluid restriction: To help with oedema (avoid over-restriction to prevent hypovolemia) [2](https://www.statpearls.com/point-of-care/25707).
+- Loop diuretics (e.g., furosemide) for significant oedema; use with caution, monitor for hypovolemia and electrolyte imbalance [2](https://www.statpearls.com/point-of-care/25707).
+- Monitor and treat infections promptly; pneumococcal prophylaxis per local guidelines [2](https://www.statpearls.com/point-of-care/25707).
+- If frequent relapses, steroid dependence, or resistance: consider second-line agents (cyclophosphamide, calcineurin inhibitors, mycophenolate mofetil, rituximab) guided by specialist [1](https://www.statpearls.com/point-of-care/25713).
+- Hyperlipidaemia: Usually improves with remission; pharmacologic treatment (e.g., statins) is rarely indicated in children [2](https://www.statpearls.com/point-of-care/25707).
+- Anticoagulation is generally not routine but consider if severe hypoalbuminaemia (<2 g/dL) and additional risk factors [2](https://www.statpearls.com/point-of-care/25707).
+
+**Referrals:**
+- Paediatric nephrology: For initiation of therapy, monitoring for relapses, consideration of biopsy and second-line agents if indicated [1](https://www.statpearls.com/point-of-care/25713).
+
+**Preventative and Lifestyle Measures:**
+- Education for family regarding symptoms of relapse, steroid toxicity (Cushingoid features, mood changes), and infection risk [1](https://www.statpearls.com/point-of-care/25713).
+- Encourage good hygiene and up-to-date immunisations, including pneumococcus and influenza [2](https://www.statpearls.com/point-of-care/25707).
+- Counsel regarding avoidance of NSAIDs and nephrotoxins [1](https://www.statpearls.com/point-of-care/25713).
+
+----
+
+References:
+[1]: [Nephrotic Syndrome](https://www.statpearls.com/point-of-care/25713 "Secondary causes of nephrotic syndrome include the...")
+[2]: [Histology, Nephron](https://www.statpearls.com/point-of-care/25707 "of immune-mediated pathologies, as mentioned in other...")

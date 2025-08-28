@@ -1,0 +1,52 @@
+## Summary
+- 55-year-old male with sudden severe "tearing" chest pain radiating to the back
+- Hypertensive (190/110 mmHg), tachycardic (110 bpm)
+- Asymmetric radial pulses, blood pressure differential between arms (30 mmHg)
+- ECG: no ischaemic changes; CXR: widened mediastinum
+- Clinical profile highly suggestive of acute aortic dissection (likely Stanford type A; surgical emergency)
+----
+
+## Problems and Assessments
+
+1. Acute Aortic Syndrome – (Probable) Type A Aortic Dissection
+   - Classic presentation: abrupt, severe, tearing chest pain radiating to the back, hypertensive crisis, asymmetrical pulses, mediastinal widening on CXR, and BP differential are highly characteristic of aortic dissection, especially involving the ascending aorta (Stanford type A)[1](https://www.statpearls.com/point-of-care/135228),[2](https://www.statpearls.com/point-of-care/17034). Immediate management is required because of high mortality risk (2% per hour in first 48 hours)[1](https://www.statpearls.com/point-of-care/135228).
+
+2. Hypertension
+   - Critically elevated BP is both a risk factor and contributor to propagation of dissection; urgency in blood pressure reduction[1](https://www.statpearls.com/point-of-care/135228).
+
+3. End-organ malperfusion/ischemia (Possible)
+   - No current limb, neurologic, or visceral ischemic findings documented, but high vigilance warranted given pulse deficits and risk of evolving complications[1](https://www.statpearls.com/point-of-care/135228).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Urgent CT angiography of aorta (from arch to iliac bifurcation) to confirm diagnosis, characterize extent, and identify branch involvement (Stanford type A vs B, surgical planning)[2](https://www.statpearls.com/point-of-care/17034).
+- Bedside echocardiography (if patient unstable or if awaiting transfer/CT) to assess for pericardial tamponade, aortic regurgitation, or regional wall motion abnormality[1](https://www.statpearls.com/point-of-care/135228).
+- Blood group & crossmatch, renal function, coagulation profile, full blood count—preoperative assessment and to rule out other causes[1](https://www.statpearls.com/point-of-care/135228).
+- ECG and continuous cardiac monitoring—rule out MI, monitor for arrhythmias[1](https://www.statpearls.com/point-of-care/135228).
+- Pulse oximetry and frequent neurological/limb assessments, monitoring for evolving complications or malperfusion[1](https://www.statpearls.com/point-of-care/135228).
+
+**Treatment and Supportive Management:**
+- Immediate BP lowering: IV β-blocker (e.g., labetalol, or esmolol) titrated to reduce systolic BP <120 mmHg and HR <60 bpm (reduces shearing force and risk of propagation/rupture)[1](https://www.statpearls.com/point-of-care/135228).
+- If inadequate control, add IV vasodilator (e.g., sodium nitroprusside) only after β-blockade (avoid reflex tachycardia)[1](https://www.statpearls.com/point-of-care/135228).
+- Pain control: IV opiates (morphine) to decrease sympathetic drive (use judiciously—monitor for hypotension/respiratory depression)[1](https://www.statpearls.com/point-of-care/135228).
+- Nil by mouth (NPO), large-bore IV access, prepare for emergency surgery[1](https://www.statpearls.com/point-of-care/135228).
+- Strict bed rest with continuous monitoring; insert urinary catheter to monitor output if indicated.
+- Avoid anticoagulation unless clear indication, as risk of bleeding may increase with dissection[1](https://www.statpearls.com/point-of-care/135228).
+
+**Referrals:**
+- IMMEDIATE cardiothoracic/vascular surgery consultation: All Stanford type A (ascending aorta) dissections are surgical emergencies—prepare for transfer to an OR or tertiary centre as indicated[1](https://www.statpearls.com/point-of-care/135228),[2](https://www.statpearls.com/point-of-care/17034).
+- Involve anaesthesiology and critical care early for hemodynamic support planning.
+- Multidisciplinary team involvement post-op (cardiology, nursing, pharmacology, psychology for long-term management and rehabilitation)[3](https://www.statpearls.com/point-of-care/20603).
+
+**Preventative and Lifestyle Measures:**
+- After acute phase: aggressive long-term blood pressure control (lifestyle, pharmacologic) to prevent recurrence or aneurysm formation[1](https://www.statpearls.com/point-of-care/135228).
+- Smoking cessation and patient education regarding symptom recurrence and urgent presentation.
+- Regular imaging follow-up as per vascular team.
+
+References:
+[1]: [Acute Aortic Syndrome](https://www.statpearls.com/point-of-care/135228 "Acute Aortic Syndrome Vignaraja Vikramman Basildon and...")
+[2]: [Chest and Mediastinal Imaging](https://www.statpearls.com/point-of-care/17034 "highly suggests a teratoma. The differential would,...")
+[3]: [Aortic Dissection](https://www.statpearls.com/point-of-care/20603 "patients may present with relatively mild symptoms...")

@@ -1,0 +1,55 @@
+## Summary
+- 35F presenting with fatigue, bloating, loose stools.
+- Exam: pallor, mild abdominal distension.
+- Labs: microcytic anemia (Hb 9.8, MCV 70), low ferritin.
+- Positive anti-TTG IgA; negative stool cultures.
+- Diagnostic impression: Celiac disease with iron deficiency anaemia.
+
+----
+
+## Problems and Assessments
+
+1. Newly Diagnosed Celiac Disease
+   - Autoimmune enteropathy, confirmed by anti-TTG positivity and consistent symptoms; likely causing malabsorption and anemia [1](https://www.statpearls.com/point-of-care/33958).
+
+2. Iron Deficiency Anaemia
+   - Microcytic anemia and low ferritin due to malabsorption from celiac enteropathy [1](https://www.statpearls.com/point-of-care/33958).
+
+3. (Possible) Other Micronutrient Deficiencies
+   - At risk for further deficiencies (calcium, folate, B12) due to ongoing malabsorption [2](https://www.statpearls.com/point-of-care/24657).
+
+4. Symptomatic Malabsorption (fatigue, bloating, loose stools)
+   - Symptoms consistent with impaired nutrient absorption, requiring symptomatic management and confirmatory assessment [1](https://www.statpearls.com/point-of-care/33958).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Duodenal biopsy to confirm villous atrophy and crypt hyperplasia, per guidelines—required for diagnosis of celiac disease [1](https://www.statpearls.com/point-of-care/33958).
+- Screen for other autoimmune conditions (e.g., thyroid function tests), as associated with celiac disease [1](https://www.statpearls.com/point-of-care/33958).
+- Assess micronutrient levels (iron studies already done; add calcium, vitamin D, folate, B12), as celiac results in broad malabsorption [2](https://www.statpearls.com/point-of-care/24657).
+- Bone density evaluation (DEXA scan) if risk factors for osteopenia/osteoporosis or longstanding celiac disease [1](https://www.statpearls.com/point-of-care/33958).
+
+**Treatment and Supportive Management:**
+- Initiate strict lifelong gluten-free diet (GFD)—the cornerstone of therapy for celiac disease; exclude all wheat, rye, barley [1](https://www.statpearls.com/point-of-care/33958), [2](https://www.statpearls.com/point-of-care/24657).
+- Oral iron supplementation to correct deficiency, monitor response and ferritin levels [1](https://www.statpearls.com/point-of-care/33958).
+- Supplement other identified deficiencies (calcium, vitamin D, folate, B12) according to laboratory findings [2](https://www.statpearls.com/point-of-care/24657).
+- Symptomatic therapies for diarrhea and bloating can be considered (e.g., loperamide short-term); but focus on correcting underlying cause [2](https://www.statpearls.com/point-of-care/24657).
+- Supportive dietary advice to optimize nutritional intake with exclusion diet; recommend referral to dietitian.
+- Regular follow-up to monitor for clinical and laboratory response (symptoms, hemoglobin, serology, micronutrients).
+
+**Referrals:**
+- Refer to gastroenterology for biopsy confirmation, GFD education, and management of refractory symptoms/complications; also for screening family members if indicated [1](https://www.statpearls.com/point-of-care/33958).
+- Refer to dietitian for detailed advice on gluten-free nutrition and adequate replacement of all micronutrients [1](https://www.statpearls.com/point-of-care/33958).
+
+**Preventative and Lifestyle Measures:**
+- Education on lifelong gluten-free diet adherence, label reading, and cross-contamination risk [1](https://www.statpearls.com/point-of-care/33958).
+- Advise on bone health (weight-bearing exercise, calcium and vitamin D intake) due to increased risk of osteoporosis [1](https://www.statpearls.com/point-of-care/33958).
+- Discuss family member screening if first-degree relatives have symptoms or autoimmune history [1](https://www.statpearls.com/point-of-care/33958).
+
+----
+
+References:
+[1]: [Duodenal Biopsy](https://www.statpearls.com/point-of-care/33958 "enteropathy is largely undiagnosed and estimated to...")
+[2]: [Malabsorption Syndromes](https://www.statpearls.com/point-of-care/24657 "or obstructed bile secretion and flow due...")

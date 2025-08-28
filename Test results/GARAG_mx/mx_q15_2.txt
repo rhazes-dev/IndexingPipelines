@@ -1,0 +1,58 @@
+## Summary
+- 50-year-old man with worsening SOB and dry cough.
+- Clubbing and upper lobe crepitations noted.
+- Long history as a sandblaster.
+- CXR: upper zone fibrosis.
+- Occupational exposure highly suggestive of chronic silicosis (a pneumoconiosis).
+
+----
+
+## Problems and Assessments
+
+1. Silicosis (chronic occupational pneumoconiosis)
+   - Classic clinical, radiological, and occupational features consistent with silicosis. Upper lobe fibrosis and sandblaster exposure are key. Disease is progressive and irreversible; risk of complications is high.[1](https://www.statpearls.com/point-of-care/29026)
+
+2. Progressive massive fibrosis (Possible)
+   - Worsening symptoms and upper zone fibrosis may signal advanced stage with formation of conglomerated nodules.[2](https://www.statpearls.com/point-of-care/29026)
+
+3. Increased risk of tuberculosis and nontuberculous mycobacteriosis
+   - Silicosis markedly raises risk for TB due to impaired macrophage function.[1](https://www.statpearls.com/point-of-care/29026)
+
+4. Respiratory impairment, hypoxaemia, and decreased exercise tolerance
+   - Worsening breathlessness, clubbing signal chronic hypoxaemia and limited pulmonary reserve; very likely reduced quality of life.[3](https://www.statpearls.com/point-of-care/81556)
+
+5. Risk of further occupational exposure
+   - Continued sandblasting or similar work may worsen disease progression.[1](https://www.statpearls.com/point-of-care/29026)
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Sputum for acid-fast bacilli (AFB) and culture: Rule out active TB due to high risk; indicated for any chronic cough or new infiltrates.[1](https://www.statpearls.com/point-of-care/29026)
+- HRCT chest: Further characterisation of fibrotic changes, nodularity, and exclusion of progressive massive fibrosis or atypical infection.[2](https://www.statpearls.com/point-of-care/29026)
+- Routine labs (FBC, renal, LFTs): Baseline for future reference and general assessment.
+- Serial CXR or CT scans: Monitor for progression and complications (e.g. malignancy, massive fibrosis, mycobacterial infection).[3](https://www.statpearls.com/point-of-care/81556)
+
+**Treatment and Supportive Management:**
+- Permanently avoid further exposure to silica: This is the only intervention proven to slow disease progression.[1](https://www.statpearls.com/point-of-care/29026)
+- Pulmonary rehabilitation (community/home-based): Breathing retraining, exercise therapy, endurance and strength training to improve function and QoL.[3](https://www.statpearls.com/point-of-care/81556)
+- Symptomatic treatment of breathlessness: Consider bronchodilators for co-existent COPD, low-flow oxygen for hypoxaemia (if indicated), optimise comorbidities.[3](https://www.statpearls.com/point-of-care/81556)
+- Monitor for TB and lung malignancy: Serial evaluation, prompt treatment if detected.[2](https://www.statpearls.com/point-of-care/29026)
+- In end-stage disease, consider referral for lung transplantation if candidate.[3](https://www.statpearls.com/point-of-care/81556)
+- Smoking cessation advice (if applicable): Further reduces risk of respiratory decline and malignancy.[3](https://www.statpearls.com/point-of-care/81556)
+
+**Referrals:**
+- Respiratory specialist (pulmonologist): For multidisciplinary disease management and ongoing monitoring.
+- TB/infectious diseases specialist: If active infection diagnosed or TB exposure suspected.
+- Transplant centre (conditional): Only for patients with end-stage irreversible respiratory failure assessed as transplant candidates.[3](https://www.statpearls.com/point-of-care/81556)
+
+**Preventative and Lifestyle Measures:**
+- Occupational health notification/advice: Formal documentation and guidance for workplace safety and avoidance.
+- Nutrition and psychosocial support: Part of pulmonary rehab, supports general health and coping.[3](https://www.statpearls.com/point-of-care/81556)
+- Vaccinations: Annual influenza and pneumococcal vaccines to reduce morbidity from superimposed infections.[3](https://www.statpearls.com/point-of-care/81556)
+
+References:
+[1]: [Silica-Induced Pneumoconiosis (Archived)](https://www.statpearls.com/point-of-care/29026 "Silica-Induced Pneumoconiosis (Archived) Mlika Mouna University of...")
+[2]: [Silica-Induced Pneumoconiosis (Archived) Part 2](https://www.statpearls.com/point-of-care/29026 "nodules are firm, discrete, rounded lesions that...")
+[3]: [Pneumoconiosis](https://www.statpearls.com/point-of-care/81556 "The most important complications are pulmonary fibrosis...")

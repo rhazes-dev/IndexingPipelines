@@ -1,0 +1,57 @@
+## Summary
+- 62-year-old man with cough, haemoptysis, weight loss, arthralgia, saddle-nose deformity, purpuric rash, cavitating lung lesions on CXR, and impaired renal function (creatinine 180).
+- This is highly suggestive of Granulomatosis with Polyangiitis (GPA, formerly Wegener's granulomatosis), an ANCA-associated vasculitis affecting the upper and lower respiratory tract and kidneys, commonly associated with PR3-ANCA positivity and frequent renal and pulmonary involvement[1](https://www.statpearls.com/point-of-care/32717). 
+
+----
+
+## Problems and Assessments
+
+1. Granulomatosis with Polyangiitis (GPA) (Possible)
+   - The constellation of findings—upper airway (saddle-nose), pulmonary (cavitating lesions, haemoptysis), skin (purpura), constitutional symptoms, renal involvement (acute kidney injury)—is classic for GPA[1](https://www.statpearls.com/point-of-care/32717).
+   - Urgent diagnosis is needed given the risk of rapidly progressive glomerulonephritis and pulmonary hemorrhage.
+
+2. Rapidly progressive glomerulonephritis (RPGN) / Acute kidney injury
+   - Raised creatinine (180) and systemic features likely reflect RPGN secondary to vasculitis, requiring immediate action to prevent irreversible renal damage[1](https://www.statpearls.com/point-of-care/32717).
+   
+3. Pulmonary vasculitis/Alveolar hemorrhage (Possible)
+   - Haemoptysis and cavitating lesions suggest severe pulmonary involvement, which can be life-threatening[1](https://www.statpearls.com/point-of-care/32717).
+   
+4. Cutaneous vasculitis
+   - Purpuric rash and possible skin involvement are typical of systemic vasculitis[1](https://www.statpearls.com/point-of-care/32717).
+   
+5. Systemic inflammatory syndrome
+   - Constitutional symptoms (weight loss, arthralgia) indicate significant systemic inflammation.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Urgent ANCA serology (PR3/c-ANCA and MPO/p-ANCA): To confirm diagnosis of ANCA-associated vasculitis, especially GPA[1](https://www.statpearls.com/point-of-care/32717).
+- Basic labs: Full blood count, renal panel, urinalysis (look for active urinary sediment: hematuria, proteinuria, RBC casts)[1](https://www.statpearls.com/point-of-care/32717).
+- Autoantibody panel: Include anti-GBM antibodies to exclude overlap/dual antibody disease[1](https://www.statpearls.com/point-of-care/32717).
+- Imaging: CT chest if not yet done—characterise cavitating lesions, exclude infection/malignancy, assess severity[1](https://www.statpearls.com/point-of-care/32717).
+- Tissue biopsy (preferably lung or kidney): For definitive diagnosis and exclusion of infection. Lung: evidence of vasculitis, necrotising granulomas. Kidney: crescentic glomerulonephritis with paucity of immune deposits[1](https://www.statpearls.com/point-of-care/32717).
+- Urine cultures, blood cultures and infectious screen: To exclude differential diagnoses for cavitary lung lesions and haemoptysis[1](https://www.statpearls.com/point-of-care/32717).
+- Additional tests: Consider viral hepatitis, HIV serology if clinically indicated.
+
+**Treatment and Supportive Management:**
+- Immediate induction immunosuppression: High-dose IV methylprednisolone for 3 days (e.g., 500–1000 mg/day) followed by oral prednisone (1 mg/kg/day)[1](https://www.statpearls.com/point-of-care/32717).
+- Cyclophosphamide (IV or oral) or rituximab for remission induction: Both are first-line options based on severity, comorbidities, and patient suitability[1](https://www.statpearls.com/point-of-care/32717).
+- Plasmapheresis: Consider if there is severe alveolar hemorrhage, rapidly progressive renal failure, or dual antibody (anti-GBM+) disease[1](https://www.statpearls.com/point-of-care/32717).
+- Supportive therapy: Control hypertension, monitor fluid status, renal dosing for medications, VTE prophylaxis unless contraindicated[1](https://www.statpearls.com/point-of-care/32717).
+- Treat and monitor for infections: Immunosuppressive therapy increases risk for opportunistic infections—give PJP prophylaxis (e.g., co-trimoxazole) when on cyclophosphamide or high-dose steroids[1](https://www.statpearls.com/point-of-care/32717).
+- Manage complications: Consider dialysis if there is severe renal failure; transfusion if severe anemia from pulmonary hemorrhage[1](https://www.statpearls.com/point-of-care/32717).
+
+**Referrals:**
+- Nephrology: For renal biopsy, assessment and management of RPGN and consideration for dialysis[1](https://www.statpearls.com/point-of-care/32717).
+- Rheumatology: For systemic vasculitis and immunosuppressive management[1](https://www.statpearls.com/point-of-care/32717).
+- Respiratory/Chest physician: For management of pulmonary lesions, haemoptysis, bronchoscopy if indicated[1](https://www.statpearls.com/point-of-care/32717).
+
+**Preventative and Lifestyle Measures:**
+- Smoking cessation: Smoking predisposes to vasculitic syndromes and worsens pulmonary hemorrhage risk[1](https://www.statpearls.com/point-of-care/32717).
+- Vaccination: Immunise against influenza and pneumococcus prior to immunosuppression where possible[1](https://www.statpearls.com/point-of-care/32717).
+- Education and close follow-up: Warn about infection risks and monitor side effects of immunosuppressive therapies[1](https://www.statpearls.com/point-of-care/32717).
+
+References:
+[1]: [ANCA-Associated Vasculitis](https://www.statpearls.com/point-of-care/32717 "virus, and parvovirus, have been reported. Drugs...")

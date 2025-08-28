@@ -1,0 +1,53 @@
+## Summary
+- 50-year-old man with progressive breathlessness, dry cough, clubbing, upper lobe crepitations.
+- Decades-long occupational exposure as a sandblaster.
+- CXR shows upper zone fibrosis.
+- Classic clinical and radiologic picture of chronic silicosis.
+
+----
+
+## Problems and Assessments
+
+1. Chronic Silicosis (progressive upper lobe pulmonary fibrosis)
+   - Long-term exposure to silica as a sandblaster with radiographic and clinical findings highly characteristic of silicosis; disease is irreversible and progressive[1](https://www.statpearls.com/point-of-care/147416).
+2. Symptom Burden (breathlessness, reduced exercise tolerance)
+   - Dyspnoea and cough reflecting restrictive lung disease and possible superimposed COPD/emphysema[2](https://www.statpearls.com/point-of-care/81556).
+3. Risk of Complications (TB, progressive massive fibrosis, lung malignancy, autoimmune disease)
+   - Silicosis increases risk of tuberculosis, lung cancer, scleroderma, glomerulonephritis, and progressive massive fibrosis; upper zone preponderance and chronicity raise concern for active complications[1](https://www.statpearls.com/point-of-care/147416), [3](https://www.statpearls.com/point-of-care/29026).
+4. Potential for Accelerated/Complicated Fibrosis
+   - Persistent fibrosis may lead to respiratory failure and cor pulmonale; end-stage patients may require advanced therapies[1](https://www.statpearls.com/point-of-care/147416), [2](https://www.statpearls.com/point-of-care/81556).
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Tuberculosis screen (CXR, sputum AFB/culture, IGRA/TST): to assess for mycobacterial infection, which is a frequent and serious complication of silicosis[1](https://www.statpearls.com/point-of-care/147416), [3](https://www.statpearls.com/point-of-care/29026).
+- Spirometry and lung function tests: to characterize degree of restrictive disease, detect concomitant COPD/emphysema[1](https://www.statpearls.com/point-of-care/147416), [2](https://www.statpearls.com/point-of-care/81556).
+- HRCT chest: to assess extent of fibrosis, exclude malignancy, identify progressive massive fibrosis; also helpful for differentiating other causes of upper lobe fibrosis[3](https://www.statpearls.com/point-of-care/29026), [1](https://www.statpearls.com/point-of-care/147416).
+- Autoimmune screen (ANA, ENA, renal function): silica exposure linked to autoimmune diseases including scleroderma, glomerulonephritis, rheumatoid arthritis; important in unexplained findings[1](https://www.statpearls.com/point-of-care/147416).
+- Routine bloods (CBC, renal, liver, calcium): assess for end-organ dysfunction.
+
+**Treatment and Supportive Management:**
+- Complete cessation of further silica exposure: fundamental step to halt disease progression[3](https://www.statpearls.com/point-of-care/29026).
+- Pulmonary rehabilitation program: structured exercise and education to improve breathlessness, functional status, and quality of life[2](https://www.statpearls.com/point-of-care/81556).
+- Symptomatic relief (e.g., supplemental O2 for hypoxaemia): as indicated by clinical and respiratory status[2](https://www.statpearls.com/point-of-care/81556).
+- Monitor for and treat respiratory infections promptly, especially TB[1](https://www.statpearls.com/point-of-care/147416).
+- Consideration of transplantation (lung) in advanced/end-stage disease; evaluate suitability if severe respiratory failure develops[2](https://www.statpearls.com/point-of-care/81556).
+- Smoking cessation advice and interventions: smoking potentiates risk of malignancy and COPD in silica-exposed patients[1](https://www.statpearls.com/point-of-care/147416), [2](https://www.statpearls.com/point-of-care/81556).
+- No disease-specific drug therapy is currently available for silicosis; management is symptom-based and preventative[3](https://www.statpearls.com/point-of-care/29026).
+ 
+**Referrals:**
+- Respiratory/pulmonology specialist: for comprehensive assessment, pulmonary rehab coordination, and monitoring for complications[1](https://www.statpearls.com/point-of-care/147416).
+- Infectious diseases specialist: if concern for TB or atypical mycobacterial infection[1](https://www.statpearls.com/point-of-care/147416).
+- Occupational medicine: evaluation for worker’s comp, prevention of exposure in others[2](https://www.statpearls.com/point-of-care/81556).
+
+**Preventative and Lifestyle Measures:**
+- Patient and family education regarding condition, prognosis, exposure risks, and symptom management strategies[1](https://www.statpearls.com/point-of-care/147416), [2](https://www.statpearls.com/point-of-care/81556).
+- Nutrition optimization to support general health and activity.
+- Psychosocial support as needed to address chronic disease impact[2](https://www.statpearls.com/point-of-care/81556).
+
+
+References:
+[1]: [Silicosis](https://www.statpearls.com/point-of-care/147416 "trials to assess the efficacy and safety...")
+[2]: [Pneumoconiosis](https://www.statpearls.com/point-of-care/81556 "The most important complications are pulmonary fibrosis...")
+[3]: [Silica-Induced Pneumoconiosis (Archived)](https://www.statpearls.com/point-of-care/29026 "Complications of silicosis are represented by: Progressive...")

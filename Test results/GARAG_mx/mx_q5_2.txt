@@ -1,0 +1,53 @@
+## Summary
+- 6-year-old child with classic nephrotic syndrome: progressive periorbital and lower limb edema, heavy proteinuria (>3.5g/day), hypoalbuminaemia (20 g/L), hyperlipidaemia.
+- Normal renal function and BP.
+- Presentation most consistent with idiopathic nephrotic syndrome secondary to minimal change disease (MCD).
+
+----
+
+## Problems and Assessments
+
+1. Nephrotic Syndrome (presumed Minimal Change Disease)
+   - Fits typical paediatric profile: heavy proteinuria, hypoalbuminaemia, hyperlipidaemia, marked edema, normal renal function and BP—MCD is the most common cause in this age group[1](https://www.statpearls.com/point-of-care/25713).
+
+2. Oedema (Fluid overload)
+   - Significant periorbital and peripheral pitting edema, risk of complications (ascites, effusions)[2](https://www.statpearls.com/point-of-care/25707).
+
+3. Immunological Dysfunction, Thromboembolic Risk
+   - Urinary loss of proteins (immunoglobulins, antithrombotic proteins) increases infection and thromboembolism risk[1](https://www.statpearls.com/point-of-care/25713).
+
+4. Relapse/Medication adverse effects (Possible)
+   - Paediatric nephrotic syndrome has risk of frequent relapse, steroid-resistance/dependence, and steroid-related side effects[3](https://www.statpearls.com/point-of-care/25713).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Baseline tests before steroids: Confirm weight, height, BP, screen for infection, underlying systemic disorders[3](https://www.statpearls.com/point-of-care/25713).
+- Monitor: Height, weight, urine protein excretion, serum albumin, renal function, BP as ongoing assessment of disease activity and therapy response[3](https://www.statpearls.com/point-of-care/25713).
+- Serologic testing: Only if atypical features, suspicion for secondary causes (e.g., SLE, hepatitis) [3](https://www.statpearls.com/point-of-care/25713).
+- Renal biopsy: Only indicated if age >8 at onset, steroid resistance, frequent relapses, significant nephritic features (e.g., hematuria, hypertension), or systemic signs[3](https://www.statpearls.com/point-of-care/25713).
+
+**Treatment and Supportive Management:**
+- 1st-line: Prednisolone 2 mg/kg/day PO (max 60 mg) until remission of proteinuria, then taper per standard protocol per KDIGO guidelines[3](https://www.statpearls.com/point-of-care/25713).
+- Monitor urine protein, serum albumin, and symptoms for response/remission[3](https://www.statpearls.com/point-of-care/25713).
+- Management of edema:
+    - Salt restriction and fluid restriction (tailored to severity)[2](https://www.statpearls.com/point-of-care/25707).
+    - Consider gentle diuretic therapy for symptomatic/significant fluid overload—use with caution to avoid hypovolaemia[2](https://www.statpearls.com/point-of-care/25707).
+- Infection prevention: Ensure up-to-date immunisations (including pneumococcal, influenza, varicella), monitor for infection[1](https://www.statpearls.com/point-of-care/25713).
+- Thrombosis prevention: Maintain mobility, avoid central lines unless clinically indicated; routine anticoagulation not recommended unless clinical risk/extensive immobilisation[1](https://www.statpearls.com/point-of-care/25713).
+- If steroid-resistant, frequent relapse/steroid dependent: Consider alternative immunosuppressants (cyclophosphamide, calcineurin inhibitors, mycophenolate mofetil, or rituximab per KDIGO)[3](https://www.statpearls.com/point-of-care/25713).
+
+**Referrals:**
+- Paediatric nephrology: For diagnostic confirmation, management guidance, especially if features atypical for MCD, steroid resistance/dependence, frequent relapse, or need for second-line agents[3](https://www.statpearls.com/point-of-care/25713).
+
+**Preventative and Lifestyle Measures:**
+- Dietary advice: Moderate salt restriction; ensure adequate caloric and protein intake (within recommendations for age/renal status)[2](https://www.statpearls.com/point-of-care/25707).
+- Education for family: Relapse recognition, sick-day planning, medication adherence, and infection/vaccine precautions[1](https://www.statpearls.com/point-of-care/25713).
+- Growth/development: Monitor regularly, consider psychosocial support if chronic disease.
+
+References:
+[1]: [Nephrotic Syndrome](https://www.statpearls.com/point-of-care/25713 "Secondary causes of nephrotic syndrome include the...")
+[2]: [Histology, Nephron](https://www.statpearls.com/point-of-care/25707 "membranous nephropathy often progresses to chronic renal...")
+[3]: [Nephrotic Syndrome Part 2](https://www.statpearls.com/point-of-care/25713 "the normal range of 3.5 to 4.5...")

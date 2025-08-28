@@ -1,0 +1,53 @@
+## Summary
+- 39-year-old woman developed amenorrhoea, cold intolerance, and weight gain 6 months after a complicated post-partum haemorrhage.
+- Biochemistry: Low TSH, low T4, mildly elevated prolactin.
+- Clinical context and findings are highly suggestive of Sheehan syndrome (post-partum hypopituitarism) with resultant pan- or partial hypopituitarism, specifically secondary hypothyroidism, hypogonadism, and hyperprolactinaemia.
+----
+
+## Problems and Assessments
+
+1. Sheehan Syndrome (Post-partum Hypopituitarism)
+   - The patient has classic features: onset following significant post-partum haemorrhage, amenorrhoea, symptoms of hypothyroidism, and biochemistry indicating secondary hypothyroidism and hyperprolactinaemia. Sheehan syndrome may present months to years later and presents with symptoms of hormone deficiencies[1](https://www.statpearls.com/point-of-care/28964).
+
+2. Secondary hypothyroidism and hypogonadism due to pituitary insufficiency
+   - Laboratory findings of low T4 with inappropriately low TSH indicate central (secondary) hypothyroidism. Amenorrhoea and symptoms of hypogonadism are likely related to gonadotropin deficiency[1](https://www.statpearls.com/point-of-care/28964).
+
+3. Potential secondary adrenal insufficiency (Possible)
+   - ACTH/cortisol status not given, but this is a life-threatening deficit and must be evaluated in all patients with panhypopituitarism[1](https://www.statpearls.com/point-of-care/28964).
+
+4. Mildly elevated prolactin
+   - Reflects loss of dopamine inhibition from hypothalamic-pituitary disruption; partial lactotroph function may persist, but agalactorrhea is common in Sheehan syndrome[2](https://www.statpearls.com/point-of-care/692).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Assess morning (8am) cortisol and ACTH: To evaluate for secondary adrenal insufficiency, which is critical to identify prior to commencing thyroid hormone replacement as it may trigger adrenal crisis if present[1](https://www.statpearls.com/point-of-care/28964).
+- Gonadotropins (LH, FSH), estradiol: To determine degree of hypogonadism and pituitary dysfunction[3](https://www.statpearls.com/point-of-care/28964).
+- Full anterior pituitary screen: Including IGF-1 or GH as indicated, as growth hormone is often affected[3](https://www.statpearls.com/point-of-care/28964).
+- Basic metabolic panel ± fasting glucose, electrolytes, CBC: To look for other features of panhypopituitarism, e.g., anemia, hyponatremia, hypoglycemia[3](https://www.statpearls.com/point-of-care/28964).
+- MRI pituitary: To assess pituitary size and morphology, look for atrophy or empty sella, exclude other structural lesions[4](https://www.statpearls.com/point-of-care/28964).
+
+**Treatment and Supportive Management:**
+- Commence hydrocortisone (or equivalent glucocorticoid replacement) if adrenal insufficiency is confirmed or suspected, before any thyroid replacement to avoid precipitating adrenal crisis[1](https://www.statpearls.com/point-of-care/28964).
+- Start levothyroxine (thyroxine) once adrenal axis is secured, titrate to clinical effect and normal free T4 (do not use TSH to guide replacement due to central hypothyroidism)[1](https://www.statpearls.com/point-of-care/28964).
+- Oestrogen-progestin replacement if uterus present (or oestrogen alone if uterus absent): To address hypogonadism, amenorrhoea, and reduce osteoporosis risk. Consider risks and benefits individually (e.g., VTE/cancer risks)[1](https://www.statpearls.com/point-of-care/28964).
+- If GH deficiency confirmed and patient is symptomatic or young, consider growth hormone replacement under specialized guidance[1](https://www.statpearls.com/point-of-care/28964).
+- Manage any additional pituitary hormone deficiencies as indicated.
+- Patient education: Lifelong hormone replacement is required. Advise about sick-day rules (stress dosing steroids), compliance, and symptoms that require urgent medical attention[1](https://www.statpearls.com/point-of-care/28964).
+
+**Referrals:**
+- Endocrinology: Urgent referral for confirmation of diagnosis, dynamic endocrine testing, development of a tailored lifelong hormone replacement, and monitoring plan. Endocrinologist input is required for hormone titration and long-term management[1](https://www.statpearls.com/point-of-care/28964).
+
+**Preventative and Lifestyle Measures:**
+- Medical alert bracelet/identification to alert healthcare providers to steroid dependence and pituitary insufficiency[1](https://www.statpearls.com/point-of-care/28964).
+- Education on infection/illness-related stress-dose steroid escalation[1](https://www.statpearls.com/point-of-care/28964).
+- Smoking cessation, exercise, calcium/vitamin D supplementation where indicated, and bone density monitoring to reduce long-term osteoporosis risk.
+- Lifelong regular follow-up for adjustment of hormone therapy and surveillance for complications[1](https://www.statpearls.com/point-of-care/28964).
+
+References:
+[1]: [Sheehan Syndrome](https://www.statpearls.com/point-of-care/28964 "Sheehan Syndrome Schury Mark P. McLaren Oakland...")
+[2]: [Anatomy, Head and Neck, Pituitary Gland](https://www.statpearls.com/point-of-care/692 "gland enlarges during pregnancy, which causes the...")
+[3]: [Sheehan Syndrome Part 2](https://www.statpearls.com/point-of-care/28964 "gland as a whole, but the blood...")
+[4]: [Sheehan Syndrome Part 3](https://www.statpearls.com/point-of-care/28964 "along with a history and physical suggestive...")

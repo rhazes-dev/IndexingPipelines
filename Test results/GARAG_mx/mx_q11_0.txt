@@ -1,0 +1,54 @@
+## Summary
+- 40-year-old male with 3 days of progressive bilateral lower limb weakness following diarrhoea 2 weeks ago.
+- Neurological exam: flaccid weakness (power 3/5), absent reflexes in legs, reduced tone, preserved sensation, downgoing plantars.
+- No upper motor neuron signs or sensory level.
+- Clinical scenario suggestive of an acute peripheral neuropathy, most likely Guillain-Barre Syndrome (GBS).
+
+----
+
+## Problems and Assessments
+
+1. Acute Flaccid Paralysis (Possible Guillain-Barre Syndrome)
+   - Subacute symmetrical lower limb weakness, areflexia, hypotonia, and recent diarrhoeal illness are typical features of GBS, usually post-infectious; sensory function intact, consistent with the most common GBS presentations [1](https://www.statpearls.com/point-of-care/28765) [2](https://www.statpearls.com/point-of-care/22461).
+
+2. Risk of Respiratory Compromise
+   - GBS may progress rapidly and cause respiratory failure due to weakness of respiratory muscles; needs close monitoring [2](https://www.statpearls.com/point-of-care/22461).
+
+3. Autonomic Dysfunction (Possible)
+   - GBS can cause autonomic instability (arrhythmias, blood pressure fluctuations), which can be life-threatening and often warrants close surveillance [2](https://www.statpearls.com/point-of-care/22461).
+
+4. Potential Complications (Deep vein thrombosis, infection, pressure injury)
+   - Immobility due to weakness places the patient at elevated risk for bedsores, VTE, and secondary infection.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Lumbar puncture for CSF analysis: look for albuminocytologic dissociation (raised protein, normal WBC). Classically present in >80% of cases at 2 weeks; absence does not exclude GBS [2](https://www.statpearls.com/point-of-care/22461).
+- Nerve conduction studies/EMG: to confirm demyelinating polyradiculoneuropathy, differentiate GBS from mimics [1](https://www.statpearls.com/point-of-care/28765).
+- Serial spirometry (e.g., negative inspiratory force, vital capacity): monitor for impending respiratory failure, as GBS may progress suddenly to respiratory muscle involvement [2](https://www.statpearls.com/point-of-care/22461).
+- Basic bloods: FBC, renal function, LFTs, CRP, blood cultures as per clinical context.
+- Consider additional tests to exclude mimics if atypical features present (e.g., HIV serology, MRI spine if concern for myelopathy or to exclude compressive causes) [2](https://www.statpearls.com/point-of-care/22461).
+
+**Treatment and Supportive Management:**
+- First-line: IV immunoglobulin (IVIG) 2 g/kg over 5 days or plasma exchange (5 exchanges over 2 weeks); both equally effective and superior to steroids or supportive care alone if administered within 4 weeks of onset [2](https://www.statpearls.com/point-of-care/22461).
+- Supportive: Admit for close monitoring, especially for respiratory muscle strength and autonomic symptoms [2](https://www.statpearls.com/point-of-care/22461).
+  - Regular monitoring of respiratory function for risk of ventilatory failure; early intubation if declining NIF/vital capacity.
+  - Strict pressure area care, DVT prophylaxis if not contraindicated (e.g., LMWH—enoxaparin SC/heparin).
+  - Catheter care and infection prevention.
+  - Physical therapy and rehabilitation to maintain mobility and prevent contractures.
+- Avoid steroids (oral prednisone or IV methylprednisolone), as they do not improve GBS outcomes and can increase risk of complications [2](https://www.statpearls.com/point-of-care/22461).
+
+**Referrals:**
+- Neurology—urgent referral for diagnosis confirmation, consideration of plasma exchange/IVIG, and ongoing management [2](https://www.statpearls.com/point-of-care/22461).
+- Intensive Care—if respiratory function deteriorates or autonomic instability develops.
+- Physiotherapy and rehabilitation for ongoing care after acute phase.
+
+**Preventative and Lifestyle Measures:**
+- Patient/family counselling regarding disease course, expected recovery, possible relapses, and rehabilitation.
+- Early mobilisation and physiotherapy initiation once stable to reduce long-term disability.
+
+References:
+[1]: [Histology, Schwann Cells](https://www.statpearls.com/point-of-care/28765 "trauma, and autoimmune processes can trigger this...")
+[2]: [Guillain-Barre Syndrome](https://www.statpearls.com/point-of-care/22461 "motor and sensory axonal neuropathy (AMSAN) would...")

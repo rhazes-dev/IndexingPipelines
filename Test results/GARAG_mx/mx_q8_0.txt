@@ -1,0 +1,52 @@
+## Summary
+- 72-year-old man with 12-month history of progressive memory impairment, repetitive questioning, misplacing objects, getting lost in familiar places, now with impaired daily functioning.
+- Exam unremarkable; MRI: bilateral hippocampal atrophy.
+- Bloods: B12, folate, TFTs, calcium all WNL—excludes reversible metabolic causes.
+- Clinical features and imaging most consistent with Alzheimer’s disease.
+
+----
+
+## Problems and Assessments
+
+1. Alzheimer’s Disease (probable)
+   - Progressive memory loss and functional decline over 1 year in elderly male, with MRI showing bilateral hippocampal atrophy. Most common dementia in this age group; clinical course and neuroimaging are classic [1](https://www.statpearls.com/point-of-care/17423).
+
+2. Safety, Functional Impairment, and Risk of Harm
+   - Wandering, repetitive behavior, and loss of orientation imply risk of accidental harm or getting lost. Decline in ability to perform daily tasks; at risk for self-neglect and safety threats [2](https://www.statpearls.com/point-of-care/20337).
+
+3. Need for Ongoing Assessment and Support for Patient and Caregivers
+   - Dementia is progressive; requires ongoing reassessment, caregiver education, and psychosocial support [2](https://www.statpearls.com/point-of-care/20337).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Repeat formal cognitive assessment using validated tools (e.g. MMSE, MoCA, ACE-R) at baseline and regular intervals to document progression and specific domains affected [3](https://www.statpearls.com/articlelibrary/nursingarticle/20337).
+- Consider repeat MRI or neuroimaging only if there is a rapid progression, new focal deficits, or diagnostic uncertainty [3](https://www.statpearls.com/articlelibrary/nursingarticle/20337).
+- Routine labs (already performed and normal). No further investigations unless new clinical indicators arise [3](https://www.statpearls.com/articlelibrary/nursingarticle/20337).
+
+**Treatment and Supportive Management:**
+- Consider acetylcholinesterase inhibitors (donepezil, rivastigmine, galantamine) as first-line to slow cognitive decline unless contraindicated [1](https://www.statpearls.com/point-of-care/17423).
+- Add memantine for moderate-to-severe disease or if monotherapy insufficient [1](https://www.statpearls.com/point-of-care/17423).
+- Nonpharmacological management: Initiate and maintain regular aerobic exercise to slow disease progression [1](https://www.statpearls.com/point-of-care/17423).
+- Cognitive stimulation therapy and engagement in meaningful activities [2](https://www.statpearls.com/point-of-care/20337).
+- Assess and address behavioral and psychological symptoms (delusions, agitation, etc.); optimize environment, routine, and caregiver support [2](https://www.statpearls.com/point-of-care/20337).
+- Avoid antipsychotics unless severe behavioral disturbance or risk to self/others; use lowest dose, short duration, monitor closely [2](https://www.statpearls.com/point-of-care/20337).
+
+**Referrals:**
+- Refer to specialist memory clinic or geriatric psychiatry for diagnostic confirmation, multidisciplinary assessment, and ongoing management [3](https://www.statpearls.com/articlelibrary/nursingarticle/20337).
+- Engage social services for home safety assessment and support with daily living if functional impairment is significant [2](https://www.statpearls.com/point-of-care/20337).
+
+**Preventative and Lifestyle Measures:**
+- Counsel caregivers about safety: remove tripping hazards, consider door alarms, ID bracelets for patients at risk of wandering [2](https://www.statpearls.com/point-of-care/20337).
+- Advance care planning discussion (legal capacity, power of attorney, future wishes) early in disease course [2](https://www.statpearls.com/point-of-care/20337).
+- Encourage a structured daily routine and social engagement to preserve function [1](https://www.statpearls.com/point-of-care/17423).
+- Provide information about local dementia support groups and respite options for caregivers [2](https://www.statpearls.com/point-of-care/20337).
+
+----
+
+References:
+[1]: [Alzheimer Disease](https://www.statpearls.com/point-of-care/17423 "aerobic exercise has been shown to slow...")
+[2]: [Major Neurocognitive Disorder (Dementia)](https://www.statpearls.com/point-of-care/20337 "on the subtype. Huntington disease is caused...")
+[3]: [Major Neurocognitive Disorder (Dementia) (Nursing)](https://www.statpearls.com/articlelibrary/nursingarticle/20337 "behavior changes including disinhibition and apathy, and...")

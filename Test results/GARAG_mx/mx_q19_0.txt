@@ -1,0 +1,58 @@
+## Summary
+- 39-year-old woman, 6 months postpartum, history of complicated postpartum haemorrhage
+- Presents with amenorrhoea, cold intolerance, weight gain
+- Labs: TSH low, T4 low, prolactin mildly raised
+- Clinical context and biochemical profile consistent with panhypopituitarism secondary to Sheehan syndrome
+
+----
+
+## Problems and Assessments
+
+1. (Possible) Sheehan Syndrome (Postpartum anterior pituitary necrosis)
+   - Classic history of significant postpartum haemorrhage with subsequent failure of pituitary hormonal axes (secondary hypothyroidism, hypogonadism, and mild hyperprolactinaemia).
+   - Sheehan syndrome typically presents with failure to lactate, amenorrhoea, hypothyroid symptoms, and can have variable onset after the inciting event; lab findings of low TSH and T4 are consistent with secondary hypothyroidism[1](https://www.statpearls.com/point-of-care/28964),[2](https://www.statpearls.com/point-of-care/27245).
+   
+2. Secondary Hypothyroidism
+   - Biochemically confirmed by low T4 and inappropriately low TSH; this is due to deficiency in TSH production rather than a primary thyroid pathology (central mechanism)[1](https://www.statpearls.com/point-of-care/28964).
+
+3. Secondary Hypogonadism
+   - Amenorrhoea and possible disruption in secretion of LH/FSH support diagnosis; requires formal confirmation but is very likely[1](https://www.statpearls.com/point-of-care/28964).
+
+4. Mild Hyperprolactinaemia
+   - Raised prolactin in post-pituitary injury may reflect disruption of stalk function or loss of dopaminergic inhibition; also frequently seen in Sheehan syndrome due to lactotroph hyperplasia/infarction[1](https://www.statpearls.com/point-of-care/28964).
+
+5. (Possible) Other Pituitary Hormone Deficiencies
+   - Risk of secondary adrenal insufficiency; clinical vigilance needed as this may present with fatigue, hypotension, hyponatraemia, or hypoglycaemia[1](https://www.statpearls.com/point-of-care/28964).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Pituitary hormonal profile: ACTH, cortisol (8am), LH, FSH, GH, IGF-1, TSH, free T4, prolactin to map out extent of pituitary deficiency[1](https://www.statpearls.com/point-of-care/28964),[2](https://www.statpearls.com/point-of-care/27245).
+- Electrolytes, fasting glucose: Screen for hyponatraemia, hypoglycaemia as features of adrenal insufficiency[1](https://www.statpearls.com/point-of-care/28964).
+- MRI pituitary: Evaluate for empty sella, infarction, or other structural lesions[1](https://www.statpearls.com/point-of-care/28964).
+- Baseline renal and liver function: Prior to commencement of hormone replacement.
+- Consider short Synacthen test if morning cortisol is equivocal; assesses for adrenal insufficiency[1](https://www.statpearls.com/point-of-care/28964).
+
+**Treatment and Supportive Management:**
+- Immediate management of any adrenal insufficiency BEFORE thyroid replacement: Start hydrocortisone or equivalent glucocorticoid if clinically or biochemically indicated (prevents adrenal crisis)[1](https://www.statpearls.com/point-of-care/28964).
+- Levothyroxine (thyroxine) replacement once adrenal axis is secure: Dose titrated to normalise free T4, not TSH (use T4 to monitor efficacy due to central origin)[1](https://www.statpearls.com/point-of-care/28964).
+- Oestrogen and progestogen replacement if hypogonadism confirmed and no contraindications (especially in premenopausal women desiring symptom control or bone protection)[1](https://www.statpearls.com/point-of-care/28964).
+- Consider growth hormone (GH) replacement if evidence of GH deficiency and there are ongoing significant symptoms or impaired quality of life[1](https://www.statpearls.com/point-of-care/28964).
+- Correct underlying electrolyte disturbances and hypoglycaemia supportively.
+- Patient education regarding lifelong hormone replacement and need for ‘sick day rules’ for steroid therapy.
+
+**Referrals:**
+- Endocrinology: For confirmatory diagnosis, guidance on dynamic testing, and ongoing multidisciplinary management of panhypopituitarism[1](https://www.statpearls.com/point-of-care/28964).
+- Reproductive medicine if fertility is desired.
+
+**Preventative and Lifestyle Measures:**
+- Education on stress dose steroids during illness/surgery for adrenal insufficiency[1](https://www.statpearls.com/point-of-care/28964).
+- Medical alert identification for secondary adrenal insufficiency.
+- Bone health optimisation: baseline DEXA scan, calcium and vitamin D supplementation if oestrogen deficient.
+- Regular follow-up for adjustment of hormone replacement therapy and monitoring for complications.
+
+References:
+[1]: [Sheehan Syndrome](https://www.statpearls.com/point-of-care/28964 "Sheehan Syndrome Schury Mark P. McLaren Oakland...")
+[2]: [Physiology, Pituitary Issues During Pregnancy](https://www.statpearls.com/point-of-care/27245 "in the process of secretory differentiation to...")

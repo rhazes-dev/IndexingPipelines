@@ -1,0 +1,60 @@
+## Summary
+- 40-year-old man with advanced HIV (CD4 count 50 cells/mm³), poor ART compliance
+- Presents with subacute onset headaches, confusion, and personality changes, without fever or neck stiffness
+- MRI: multiple ring-enhancing brain lesions
+- Highly consistent with HIV-associated cerebral toxoplasmosis
+
+----
+
+## Problems and Assessments
+
+1. Cerebral toxoplasmosis (probable)
+   - HIV with severe immunosuppression and classic imaging/clinical features strongly suggest cerebral toxoplasmosis; delay in treatment risks severe morbidity/mortality [1](https://www.statpearls.com/point-of-care/22945).
+
+2. Advanced HIV/immunosuppression
+   - CD4 <100, at very high risk for opportunistic infections, requires rapid re-initiation of ART but with timing considerations [1](https://www.statpearls.com/point-of-care/22945).
+
+3. Long-term prophylaxis/relapse prevention
+   - High relapse rate if secondary prophylaxis is not instituted even after symptom resolution [2](https://www.statpearls.com/point-of-care/22945).
+
+4. Risk of other CNS pathology (Possible)
+   - CNS lymphoma and other opportunistic infections can mimic toxoplasmosis; nonresponse to empiric therapy requires further evaluation [1](https://www.statpearls.com/point-of-care/22945).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Toxoplasma serology (IgG): Supports diagnosis if positive in context of compatible clinical/imaging features [1](https://www.statpearls.com/point-of-care/22945).
+- Repeat brain MRI/CT in 10–14 days: To assess radiologic response to therapy; lack of improvement should prompt reconsideration of diagnosis, e.g. lymphoma, abscess [1](https://www.statpearls.com/point-of-care/22945).
+- Consider lumbar puncture if diagnosis uncertain or if there are features atypical for toxoplasmosis (e.g., rapid progression, no radiologic response) [1](https://www.statpearls.com/point-of-care/22945).
+- If still uncertain after 2 weeks or clinical/radiologic deterioration, consider brain biopsy [1](https://www.statpearls.com/point-of-care/22945).
+- Baseline laboratory and monitoring: FBC, renal/liver function, electrolytes, particularly with pyrimethamine therapy [1](https://www.statpearls.com/point-of-care/22945).
+
+**Treatment and Supportive Management:**
+- Begin empiric anti-toxoplasmosis treatment:
+    - 1st line: Pyrimethamine + sulfadiazine + leucovorin for 6 weeks (induction); adjust for renal/hepatic dysfunction [1](https://www.statpearls.com/point-of-care/22945).
+    - If sulfa allergy/intolerance: Pyrimethamine + clindamycin + leucovorin [1](https://www.statpearls.com/point-of-care/22945).
+    - Alternative: TMP-SMX (trimethoprim-sulfamethoxazole, co-trimoxazole) high dose can be considered if standard agents unavailable/tolerated [1](https://www.statpearls.com/point-of-care/22945).
+    - Leucovorin (folinic acid) mandatory with pyrimethamine to prevent bone marrow toxicity [1](https://www.statpearls.com/point-of-care/22945).
+- Monitor for response (clinical and radiologic) and adverse drug effects [1](https://www.statpearls.com/point-of-care/22945).
+- Commence ART (antiretroviral therapy) but **delay initiation until 2 weeks after starting anti-toxoplasmosis therapy** to reduce risk of IRIS (immune reconstitution inflammatory syndrome) [1](https://www.statpearls.com/point-of-care/22945).
+- Start maintenance (secondary prophylaxis) after initial response: Pyrimethamine + sulfadiazine + leucovorin, until CD4 >200 for >6 months on ART [2](https://www.statpearls.com/point-of-care/22945).
+- Anticonvulsant therapy if seizures occur [1](https://www.statpearls.com/point-of-care/22945).
+- Supportive care: hydration, electrolyte correction, manage increased intracranial pressure if present [1](https://www.statpearls.com/point-of-care/22945).
+
+**Referrals:**
+- Infectious disease/HIV specialist: For comprehensive management of HIV, opportunistic infections, ART regimen, and drug interactions [1](https://www.statpearls.com/point-of-care/22945).
+- Neurology: For ongoing neurocognitive monitoring, or if seizures/complications develop [1](https://www.statpearls.com/point-of-care/22945).
+- Pharmacy: To assist drug interaction checks and compliance support, especially with ART and complex anti-toxoplasma regimens [1](https://www.statpearls.com/point-of-care/22945).
+
+**Preventative and Lifestyle Measures:**
+- Lifelong secondary prophylaxis unless immune reconstitution achieved [2](https://www.statpearls.com/point-of-care/22945).
+- Educate patient: Avoid raw/undercooked meat, potential sources of Toxoplasma (cat litter, contaminated soil); hand hygiene [1](https://www.statpearls.com/point-of-care/22945).
+- Adherence counseling: ART and prophylaxis compliance are critical to prevent relapse and other opportunistic infections [1](https://www.statpearls.com/point-of-care/22945).
+
+----
+
+References:
+[1]: [HIV-1–Associated Toxoplasmosis](https://www.statpearls.com/point-of-care/22945 "by days 10 to 14 of therapy,...")
+[2]: [HIV-1–Associated Toxoplasmosis Part 2](https://www.statpearls.com/point-of-care/22945 "lowered in patients with HIV. The prognosis...")

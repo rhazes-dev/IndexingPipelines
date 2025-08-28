@@ -1,0 +1,52 @@
+## Summary
+- 35-year-old woman with bloating, fatigue, loose stools, pallor, and mild abdominal distension.
+- Investigations: Microcytic anemia (Hb 9.8, MCV 70), low ferritin, anti-TTG IgA positive, negative stool cultures.
+- Clinical features and investigations are consistent with celiac disease causing iron deficiency anemia.
+
+----
+
+## Problems and Assessments
+
+1. Celiac Disease (confirmed)
+   - Presents with classical symptoms and iron deficiency anemia; positive anti-TTG IgA supports diagnosis; negative stool cultures exclude common infectious causes.
+
+2. Iron Deficiency Anemia secondary to malabsorption
+   - Microcytic anemia with low ferritin points to chronic iron deficiency due to malabsorption from celiac disease.
+
+3. Nutritional Deficiencies (Possible: folate, vitamin D, calcium, others)
+   - Celiac disease predisposes to multiple deficiencies beyond iron, including folate, vitamin D, and calcium, increasing risk for long-term complications.
+
+4. Symptomatic GI complaints (bloating, loose stools, abdominal distension)
+   - Likely due to active celiac-related malabsorption and small bowel inflammation.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Duodenal biopsy if not already done: Required for definitive celiac diagnosis before starting a gluten-free diet; identifies classic histological changes such as villous atrophy and increased intraepithelial lymphocytes [1](https://www.statpearls.com/point-of-care/24657), [2](https://www.statpearls.com/point-of-care/33958).
+- Check for other micronutrient deficiencies: Assess folate, vitamin B12, calcium, vitamin D, and albumin levels (deficiencies are common in celiac disease and should be corrected) [1](https://www.statpearls.com/point-of-care/24657).
+- TFTs (Thyroid Function Tests): Higher association of thyroid autoimmune disease in celiac patients [2](https://www.statpearls.com/point-of-care/33958).
+- Repeat anti-TTG IgA (or other serologies) after 6–12 months on gluten-free diet to monitor response.
+
+**Treatment and Supportive Management:**
+- Strict lifelong gluten-free diet (GFD): Mainstay of treatment; adherence leads to symptom resolution and reversal of mucosal damage [1](https://www.statpearls.com/point-of-care/24657), [2](https://www.statpearls.com/point-of-care/33958).
+- Iron supplementation (oral or IV depending on severity and tolerance): To correct iron deficiency anemia [1](https://www.statpearls.com/point-of-care/24657).
+- Supplement other identified deficiencies (folate, vitamin D, calcium, B12): As indicated by laboratory results.
+- Dietetic review: Specialist dietary advice is crucial for adequate nutrition and avoidance of gluten-containing foods [1](https://www.statpearls.com/point-of-care/24657).
+- Support symptom control: Antidiarrhoeal agents may be considered short-term but should not replace addressing underlying disease.
+
+**Referrals:**
+- Gastroenterology: For confirmation of diagnosis (if not already done), management, follow-up of mucosal healing, and complications (e.g., refractory symptoms, suspicion of associated malignancy or other GI pathologies).
+- Dietitian: For education and ongoing support regarding a gluten-free diet and nutritional adequacy.
+
+**Preventative and Lifestyle Measures:**
+- Educate about gluten-free diet, hidden sources of gluten, and label reading [1](https://www.statpearls.com/point-of-care/24657).
+- Encourage regular follow-up to monitor disease control, nutritional status, and screen for long-term complications such as osteoporosis and malignancy.
+- Advise patient to inform first-degree relatives about increased risk of celiac disease and consider screening if symptomatic [2](https://www.statpearls.com/point-of-care/33958).
+
+----
+
+References:
+[1]: [Malabsorption Syndromes](https://www.statpearls.com/point-of-care/24657 "duodenal folds or mucosal scalloping. Jejunoileitis Colonoscopies...")
+[2]: [Duodenal Biopsy](https://www.statpearls.com/point-of-care/33958 "enteropathy is largely undiagnosed and estimated to...")

@@ -1,0 +1,48 @@
+## Summary
+- 55-year-old man with abrupt severe, tearing chest pain radiating to back, hypertension (190/110), tachycardia (110 bpm), pulse deficit, BP differential between arms, widened mediastinum on CXR, ECG without ischaemia.
+- Classic constellation for acute aortic dissection (Stanford type A most likely).
+- Haemodynamically stable but extremely high risk for rapid decompensation and mortality.
+----
+
+## Problems and Assessments
+
+1. Acute Aortic Dissection (Stanford Type A — Possible)
+   - Sudden onset, severe "tearing" chest pain radiating to the back, unequal pulses, BP differential, widened mediastinum, and hypertension are pathognomonic for aortic dissection (proximal/Stanford A involves the ascending aorta and is a surgical emergency)[1](https://www.statpearls.com/point-of-care/135228), [2](https://www.statpearls.com/point-of-care/17034).
+   - Profound hypertension and tachycardia aggravate risk of extension or rupture.
+
+2. Hypertension and Tachycardia (in context of Aortic Dissection)
+   - Extremely elevated BP and pulse rate increase shearing stress on aortic wall and promote progression/rupture[1](https://www.statpearls.com/point-of-care/135228).
+
+3. Risk of End-Organ Ischaemia/Malperfusion
+   - Dissection compromises arterial branches; risk for end-organ damage, aortic rupture, cardiac tamponade, or death is high unless treated urgently[1](https://www.statpearls.com/point-of-care/135228).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Immediate CT angiogram of the aorta (preferred, if haemodynamically stable): Gold standard to confirm diagnosis, define extent/classification, and direct management. If unstable, proceed with bedside transesophageal echocardiography (TOE/TEE)[2](https://www.statpearls.com/point-of-care/17034).
+- Baseline troponin, renal and liver function, lactate, group and save (in case surgery is required), and crossmatch.
+- Continuous cardiac and haemodynamic monitoring to detect worsening or complications[3](https://www.statpearls.com/point-of-care/20603).
+
+**Treatment and Supportive Management:**
+- Urgent blood pressure and heart rate control to target SBP <120 mmHg and HR <60 bpm (unless contraindicated):
+    - IV beta-blockers (e.g., labetalol, esmolol): mainstay; reduce both BP and dP/dt (shear stress)[1](https://www.statpearls.com/point-of-care/135228).
+    - Add vasodilators (e.g., IV sodium nitroprusside) if BP remains elevated despite adequate beta-blockade, but only after HR control is achieved[1](https://www.statpearls.com/point-of-care/135228).
+    - Nondihydropyridine CCBs (verapamil, diltiazem) if beta-blockers contraindicated[1](https://www.statpearls.com/point-of-care/135228).
+- Strongly avoid anticoagulation or thrombolytics unless acute MI or other indication is proven, as this may worsen bleeding or rupture risk.
+- Strict bed rest; provide oxygen as needed for hypoxia.
+- Nil by mouth (NPO) in anticipation of need for emergent intervention.
+- IV access (large bore), collect bloods, prepare for possible rapid decompensation/surgical intervention.
+
+**Referrals:**
+- Immediate referral to cardiothoracic/cardiovascular surgery — ascending aortic dissection is a surgical emergency requiring prompt operative intervention[1](https://www.statpearls.com/point-of-care/135228).
+- ICU/critical care team for haemodynamic instability and perioperative management[3](https://www.statpearls.com/point-of-care/20603).
+
+**Preventative and Lifestyle Measures:**
+- Not appropriate in the acute phase; defer until post-acute recovery for secondary prevention workup and lifestyle intervention.
+
+References:
+[1]: [Acute Aortic Syndrome](https://www.statpearls.com/point-of-care/135228 "Acute Aortic Syndrome Vignaraja Vikramman Basildon and...")
+[2]: [Chest and Mediastinal Imaging](https://www.statpearls.com/point-of-care/17034 "highly suggests a teratoma. The differential would,...")
+[3]: [Aortic Dissection](https://www.statpearls.com/point-of-care/20603 "patients may present with relatively mild symptoms...")

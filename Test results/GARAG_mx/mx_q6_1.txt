@@ -1,0 +1,60 @@
+## Summary
+- 40-year-old man with known HIV (CD4 50 cells/mm³) and poor ART compliance.
+- Presents with 2 weeks of worsening headache, confusion, personality change.
+- No fever or neck stiffness.
+- MRI: multiple ring-enhancing brain lesions.
+- High suspicion for cerebral toxoplasmosis on background of severe immunosuppression.
+
+----
+
+## Problems and Assessments
+
+1. Cerebral toxoplasmosis (probable)
+   - Classic presentation in advanced HIV: subacute-onset CNS symptoms, multiple ring-enhancing lesions on imaging, CD4 <100, no ART compliance. Most common CNS mass lesion in AIDS[1](https://www.statpearls.com/point-of-care/22945).
+
+2. Advanced HIV infection with poor ART adherence
+   - High risk for multiple opportunistic infections (OIs) including toxoplasmosis, with very low CD4 count[2](https://www.statpearls.com/point-of-care/22941).
+
+3. Risk of recurrence and complications
+   - Toxoplasmosis may relapse if treatment discontinued; profound immunosuppression increases risk of further OIs and complications[3](https://www.statpearls.com/point-of-care/22945).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Serum Toxoplasma gondii IgG and IgM: To support the diagnosis in conjunction with clinical and radiological findings (serology not always positive in severe immunosuppression)[1](https://www.statpearls.com/point-of-care/22945).
+- Consider repeat MRI or CT brain after 10–14 days of therapy: To assess radiological response to empiric treatment[3](https://www.statpearls.com/point-of-care/22945).
+- If poor response or diagnosis uncertain, consider brain biopsy: Reserved for cases unresponsive to empiric therapy, or if lymphoma or other diagnosis is suspected[1](https://www.statpearls.com/point-of-care/22945).
+- Routine labs (CBC, renal/liver function, electrolytes): For medication dosing and monitoring toxicity[1](https://www.statpearls.com/point-of-care/22945).
+- Screen for other OIs (e.g., CMV, tuberculosis) as clinically indicated, due to immunosuppression[2](https://www.statpearls.com/point-of-care/22941).
+
+**Treatment and Supportive Management:**
+- Start empiric therapy for cerebral toxoplasmosis:
+    - Pyrimethamine + sulfadiazine + leucovorin (folinic acid) is first-line therapy[1](https://www.statpearls.com/point-of-care/22945).
+        - Pyrimethamine: loading dose then daily.
+        - Sulfadiazine: weight-based dosing.
+        - Leucovorin to prevent hematologic toxicity.
+    - If sulfa allergy: Substitute clindamycin for sulfadiazine[1](https://www.statpearls.com/point-of-care/22945).
+    - Alternatives: atovaquone-based regimens (for intolerance)[1](https://www.statpearls.com/point-of-care/22945).
+- Dexamethasone or other corticosteroids: Only if substantial mass effect or cerebral edema; otherwise avoid due to risk of masking response[1](https://www.statpearls.com/point-of-care/22945).
+- Anticonvulsants if seizures occur; avoid for prophylaxis unless clinical seizures[1](https://www.statpearls.com/point-of-care/22945).
+- Begin ART (antiretroviral therapy) as soon as feasible, typically within 2 weeks after starting anti-toxoplasma therapy to limit risk of IRIS (immune reconstitution inflammatory syndrome), balancing OI management and ART benefit[3](https://www.statpearls.com/point-of-care/22945).
+- Monitor for and manage medication side effects, cytopenias, hepatic/renal impairment[1](https://www.statpearls.com/point-of-care/22945).
+
+**Referrals:**
+- Infectious diseases: For co-management of OI treatment, ART initiation, prophylaxis planning.
+- Neurology: For further workup or if alternative diagnoses, ongoing neurological deficits, or diagnostic uncertainty[1](https://www.statpearls.com/point-of-care/22945).
+
+**Preventative and Lifestyle Measures:**
+- Secondary prophylaxis (long-term, usually with TMP-SMX/trimethoprim-sulfamethoxazole) is needed after acute therapy until CD4 >200 for >6 months on ART[3](https://www.statpearls.com/point-of-care/22945).
+- Educate on ART compliance to prevent future OIs[1](https://www.statpearls.com/point-of-care/22945).
+- Avoid undercooked meats, unfiltered water, contact with cat litter/soil; reinforce kitchen and personal hygiene[3](https://www.statpearls.com/point-of-care/22945).
+- Counsel about the importance of regular follow-up and adherence to both prophylaxis and ART regimens to reduce relapse and new OIs[3](https://www.statpearls.com/point-of-care/22945).
+
+----
+
+References:
+[1]: [HIV-1–Associated Toxoplasmosis](https://www.statpearls.com/point-of-care/22945 "HIV-1–Associated Toxoplasmosis Ayoade Folusakin University of Miami...")
+[2]: [HIV-1–Associated Opportunistic Infections](https://www.statpearls.com/point-of-care/22941 "presents with mucosal burning and itching. CD4+...")
+[3]: [HIV-1–Associated Toxoplasmosis Part 2](https://www.statpearls.com/point-of-care/22945 "by days 10 to 14 of therapy,...")

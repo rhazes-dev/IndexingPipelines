@@ -1,0 +1,53 @@
+## Summary
+- 35-year-old woman with pleuritic chest pain and breathlessness post long-haul flight.
+- Tachycardic (HR 112), hypoxic (SpO₂ 90%), tachypnoeic (RR 22).
+- Anxious and haemodynamically stable; CXR is clear.
+- D-dimer elevated; ECG: sinus tachycardia.
+- Recent immobility and clinical findings highly suspicious for acute pulmonary embolism (PE).
+
+----
+
+## Problems and Assessments
+
+1. Acute Pulmonary Embolism (Possible)
+   - Classic risk factors (recent long-haul flight), clinical presentation (pleuritic chest pain, dyspnoea, tachycardia, hypoxia), and elevated D-dimer support a high pre-test probability for PE. Clear CXR and sinus tachycardia on ECG further support this diagnosis in absence of localising lung or cardiac findings [1](https://www.statpearls.com/point-of-care/42576), [2](https://www.statpearls.com/point-of-care/19382), [3](https://www.statpearls.com/point-of-care/20071).
+   
+2. Hypoxia
+   - SpO₂ 90% indicates significant hypoxaemia, likely secondary to V/Q mismatch from PE.
+
+3. Anxiety (Possible)
+   - Likely secondary to cardiorespiratory distress and perception of severe, sudden symptoms.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- CT Pulmonary Angiogram (CTPA): Gold standard to confirm PE in a high-risk, haemodynamically stable patient [2](https://www.statpearls.com/point-of-care/19382), [3](https://www.statpearls.com/point-of-care/20071).
+- Lower limb Doppler ultrasound: If CTPA contraindicated/unavailable or if suspicion of DVT is high, to detect proximal lower limb DVT as potential source [1](https://www.statpearls.com/point-of-care/42576).
+- ABG: Assess the severity of hypoxaemia and rule out significant CO₂ retention [1](https://www.statpearls.com/point-of-care/42576).
+- Routine labs (CBC, coagulation profile, U&E, LFT): Baseline before anticoagulation, identify coagulopathy or other organ dysfunction [2](https://www.statpearls.com/point-of-care/19382).
+
+**Treatment and Supportive Management:**
+- Oxygen therapy: Titrate SpO₂ to >94% using nasal cannula or face mask as required [2](https://www.statpearls.com/point-of-care/19382).
+- Anticoagulation: Initiate empirical therapeutic anticoagulation in the absence of major contraindications while awaiting confirmation, as per guideline for patients with high clinical suspicion of PE [2](https://www.statpearls.com/point-of-care/19382), [3](https://www.statpearls.com/point-of-care/20071). Options:
+  - LMWH (e.g., enoxaparin), or
+  - Unfractionated heparin IV infusion (consider especially if renal function is impaired or if rapid reversal may be needed).
+- Thrombolysis: Not indicated unless haemodynamically unstable/massive PE [2](https://www.statpearls.com/point-of-care/19382).
+- Analgesia: Paracetamol (acetaminophen) preferred; avoid NSAIDs due to potential risk of renal injury and bleeding if on anticoagulants [2](https://www.statpearls.com/point-of-care/19382).
+- Cardiac monitoring and early warning score: Monitor for clinical deterioration or arrhythmia [1](https://www.statpearls.com/point-of-care/42576).
+
+**Referrals:**
+- Urgent referral to internal medicine/respiratory team for further management and disposition planning [2](https://www.statpearls.com/point-of-care/19382).
+- Consider haematology consult if underlying coagulopathy or thrombophilia suspected (e.g., young, unprovoked event, family history).
+
+**Preventative and Lifestyle Measures:**
+- Patient education on VTE risk reduction: Mobilisation on future flights, consideration of compression stockings for high-risk extended travel [1](https://www.statpearls.com/point-of-care/42576), [3](https://www.statpearls.com/point-of-care/20071).
+- Long-term anticoagulation: Duration determined by clinical risk factors and specialist assessment; arrange follow-up.
+
+----
+
+References:
+[1]: [Acute Pulmonary Embolism](https://www.statpearls.com/point-of-care/42576 "leads to more robust bronchial vascular collateralization,...")
+[2]: [Chest Pain](https://www.statpearls.com/point-of-care/19382 "of this paper; however, initial steps should...")
+[3]: [Costochondritis](https://www.statpearls.com/point-of-care/20071 "by asymmetric limb blood pressures. Risk factors...")

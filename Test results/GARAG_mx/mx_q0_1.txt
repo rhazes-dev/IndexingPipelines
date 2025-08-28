@@ -1,0 +1,59 @@
+## Summary
+- 86-year-old male with known congestive cardiac failure (CCF)
+- Presents with pulmonary oedema on chest X-ray
+- Ejection fraction (EF) 30% (i.e., HFrEF)
+- Advanced renal dysfunction with eGFR 10 (CKD G5, likely ESRD)
+----
+
+## Problems and Assessments
+
+1. Acute decompensated heart failure with pulmonary oedema
+   - Life-threatening; pulmonary oedema evident on imaging with markedly reduced EF. Requires urgent management to relieve congestion and reduce mortality risk. Underlying chronic CCF is present, now acutely decompensated.
+2. Severe chronic kidney disease (CKD) / End-stage renal disease (ESRD)
+   - eGFR 10 denotes advanced CKD (Stage G5), which severely limits fluid/electrolyte handling and restricts usual heart failure pharmacotherapy. May require renal replacement therapy. Impacts both fluid management and medication safety.
+3. Fluid overload
+   - Manifesting as pulmonary oedema, largely due to combination of CCF and impaired renal function. Loop diuretics may be less effective due to renal dysfunction.
+4. Polypharmacy/Medication risks
+   - Significant risk of adverse drug events with impaired renal excretion; many standard heart failure drugs are nephrotoxic or require dose adjustment/omission.
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Daily weights and strict input/output charting: To monitor response to therapy and fluid status.
+- Serum electrolytes, creatinine, urea: To monitor solute control, metabolic derangements, and guide therapy.
+- ECG and cardiac monitoring: Screen for arrhythmias, myocardial ischaemia, or QT prolongation.
+- Echocardiogram if not recent: To confirm EF and assess for other cardiac issues (valve disease, worsening function).
+- Monitor for complications of severe hyperkalaemia, acidosis, or uraemia: Prompt detection is necessary for early dialysis.
+
+**Treatment and Supportive Management:**
+
+- Oxygen supplementation as required: To correct hypoxaemia due to pulmonary oedema[1](https://www.statpearls.com/point-of-care/19880).
+- Upright positioning: To improve pulmonary mechanics and symptom relief[1](https://www.statpearls.com/point-of-care/19880).
+- Loop diuretics IV (e.g., furosemide): Cautiously, as effectiveness diminishes with severe renal failure, but still first-line for acute pulmonary oedema. Titrate to effect and monitor response. Higher doses are often required; may not be effective in eGFR ~10[2](https://www.statpearls.com/point-of-care/28013).
+- Consider ultrafiltration (renal replacement therapy): If diuresis fails or severe volume overload persists, ultrafiltration is more effective than loop diuretics for sodium/water removal and is often necessary in decompensated heart failure with ESRD[3](https://www.statpearls.com/point-of-care/28020).
+- Avoid ACE inhibitors/ARBs and mineralocorticoid receptor antagonists: Contraindicated (or require extreme caution) in advanced CKD due to risk of worsening hyperkalaemia and renal function[4](https://www.statpearls.com/point-of-care/91960).
+- Vasodilators (e.g., nitrates): May be helpful for symptom relief in cases without hypotension; dose cautiously as renal failure can prolong effects[2](https://www.statpearls.com/point-of-care/28013).
+- Beta-blockers: Continue only if already established and the patient is haemodynamically stable; do not initiate or uptitrate during acute decompensation.
+- Careful fluid restriction: Balance fluid restriction with avoidance of hypotension and hypoperfusion.
+- Monitor for indications for urgent dialysis: Severe, refractory fluid overload, hyperkalaemia, metabolic acidosis, or uraemia not responding to medical therapy[4](https://www.statpearls.com/point-of-care/91960).
+- Avoid nephrotoxic drugs (NSAIDs, aminoglycosides, IV contrast, etc.): These will exacerbate renal failure[4](https://www.statpearls.com/point-of-care/91960).
+- Nutritional support: Avoid protein overload, but prevent catabolism; consider enteral route where possible, monitor for malnutrition[4](https://www.statpearls.com/point-of-care/91960).
+
+**Referrals:**
+- Nephrology (Renal) for urgent review: For assessment of need/timing of renal replacement therapy (dialysis/ultrafiltration)[3](https://www.statpearls.com/point-of-care/28020).
+- Cardiology: For input on advanced HF management, echocardiogram review, and optimisation where possible.
+
+**Preventative and Lifestyle Measures:**
+- Low sodium diet: To limit fluid overload and reduce hypertension.
+- Education of patient/family re: fluid and salt restriction, daily weights, and early signs of decompensation (if appropriate).
+- Avoidance of nephrotoxic medications and over-the-counter drugs.
+- Review and optimise chronic CCF and ESRD management after acute phase.
+
+----
+
+References:
+[1]: [Congestive Heart Failure and Pulmonary Edema](https://www.statpearls.com/point-of-care/19880 "Congestive Heart Failure and Pulmonary Edema King...")
+[2]: [Physiology, Pulmonary Circulatory System](https://www.statpearls.com/point-of-care/28013 "and causing an exudative edema as compared...")
+[3]: [Cardiogenic Pulmonary Edema](https://www.statpearls.com/point-of-care/28020 "also have to be added. For patients...")
+[4]: [Prerenal Kidney Failure](https://www.statpearls.com/point-of-care/91960 "sulfate) and calcium resonium (calcium polystyrene sulphonate)...")

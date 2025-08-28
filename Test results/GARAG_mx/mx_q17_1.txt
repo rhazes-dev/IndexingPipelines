@@ -1,0 +1,56 @@
+## Summary
+- 57-year-old woman with fatigue, postural dizziness, hyperpigmentation, salt craving, and abdominal discomfort.
+- Hypotension (BP 85/50), hyponatraemia (Na⁺ 122), hyperkalaemia (K⁺ 5.8), hypoglycaemia (glucose 3.1 mmol/L).
+- Low early morning cortisol and markedly elevated ACTH.
+- Features strongly suggest acute primary adrenal insufficiency (Addisonian crisis).
+
+----
+
+## Problems and Assessments
+
+1. Addisonian Crisis (Acute Primary Adrenal Insufficiency)
+   - Acute adrenal insufficiency with hypotension, electrolyte abnormalities (hyponatraemia, hyperkalaemia), hypoglycaemia, and classical symptoms (fatigue, hyperpigmentation, salt craving) with laboratory confirmation (low cortisol, high ACTH) [1](https://www.statpearls.com/point-of-care/17184).
+   - Life-threatening and requires urgent management due to risk of shock and death [1](https://www.statpearls.com/point-of-care/17184).
+
+2. Electrolyte Imbalance (Hyponatraemia, Hyperkalaemia)
+   - Consequence of mineralocorticoid deficiency and cortisol deficiency leading to aldosterone loss, salt loss, and potassium retention [2](https://www.statpearls.com/point-of-care/17183).
+
+3. Hypoglycaemia
+   - Secondary to lack of cortisol, which impairs gluconeogenesis and increases insulin sensitivity [2](https://www.statpearls.com/point-of-care/17183).
+
+4. Underlying Etiology (Possible Autoimmune/Other Causes)
+   - Autoimmune adrenalitis is the most common etiology, but other causes like infections, hemorrhage, or infiltrative disease should be considered and evaluated [3](https://www.statpearls.com/point-of-care/17241).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- ACTH stimulation test: To definitively confirm primary adrenal insufficiency if not already performed (should not delay acute management) [2](https://www.statpearls.com/point-of-care/17183).
+- Serum renin and aldosterone: To further assess mineralocorticoid status [2](https://www.statpearls.com/point-of-care/17183).
+- Adrenal antibodies (21-hydroxylase): To evaluate for autoimmune adrenalitis [3](https://www.statpearls.com/point-of-care/17241).
+- Additional workup as clinically indicated (e.g., TB screen, HIV, abdominal imaging): If infectious or infiltrative causes are suspected based on history/clinical risk [3](https://www.statpearls.com/point-of-care/17241).
+
+**Treatment and Supportive Management:**
+- Immediate IV hydrocortisone (100 mg): Bolus dose, followed by 100 mg IV every 6-8 hours or continuous infusion; hydrocortisone is preferred for its combined glucocorticoid and some mineralocorticoid activity [1](https://www.statpearls.com/point-of-care/17184).
+- Large volume IV isotonic saline (0.9% NaCl): Rapid fluid resuscitation to correct hypovolaemia and hypotension; add dextrose if hypoglycaemia present [1](https://www.statpearls.com/point-of-care/17184).
+- IV dextrose as needed: To correct hypoglycaemia [2](https://www.statpearls.com/point-of-care/17183).
+- Correct hyperkalaemia: Usually resolves with fluid, steroid, and sodium replacement; if refractory/severe, consider standard hyperkalaemia protocols [2](https://www.statpearls.com/point-of-care/17183).
+- Fludrocortisone: After the acute crisis resolves and oral intake tolerated, initiate mineralocorticoid replacement (especially if hydrocortisone doses are tapered to maintenance) [2](https://www.statpearls.com/point-of-care/17183).
+- Monitor vitals, electrolytes, and glucose: Continue frequent monitoring until stable [2](https://www.statpearls.com/point-of-care/17183).
+
+**Referrals:**
+- Endocrinology: For acute management guidance, long-term follow-up, and assessment for etiological workup [3](https://www.statpearls.com/point-of-care/17241).
+
+**Preventative and Lifestyle Measures:**
+- Educate on life-long steroid therapy: Mandatory compliance with glucocorticoid and (if needed) mineralocorticoid replacement [2](https://www.statpearls.com/point-of-care/17183).
+- Educate on stress dose steroids: Double/triple dose during illness, surgery, or stress [2](https://www.statpearls.com/point-of-care/17183).
+- Medic alert bracelet/carrier: Advise wearing/ carrying identification indicating adrenal insufficiency [2](https://www.statpearls.com/point-of-care/17183).
+- Sick-day rules and emergency hydrocortisone injection kit: Patient and family need training on recognition of symptoms and emergency actions [1](https://www.statpearls.com/point-of-care/17184).
+
+----
+
+References:
+[1]: [Addisonian Crisis(Archived)](https://www.statpearls.com/point-of-care/17184 "Addisonian Crisis(Archived) Rathbun Kimberly M. Augusta University...")
+[2]: [Addison Disease](https://www.statpearls.com/point-of-care/17183 "of adrenal insufficiency depends on the rate...")
+[3]: [Adrenal Insufficiency](https://www.statpearls.com/point-of-care/17241 "adrenal insufficiency/Addison disease relates to the autoimmune...")

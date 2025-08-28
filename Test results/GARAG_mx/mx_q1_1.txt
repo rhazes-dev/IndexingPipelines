@@ -1,0 +1,57 @@
+## Summary
+- 30-year-old male, no significant PMH, presents with acute SOB, productive cough, fever.
+- Hypoxic (SpO2 80% on room air), tachycardic (HR 120), tachypneic (RR 28), hypotensive (BP 90/50), febrile (39°C), responsive.
+- Labs: markedly elevated CRP (300), leukocytosis (WCC 18).
+- CXR: left lower lobe consolidation; ECG: sinus tachycardia.
+- Highly suggestive of severe community-acquired pneumonia (likely sepsis), complicated by hypoxemia and possibly developing ARDS.
+
+----
+
+## Problems and Assessments
+
+1. Hypoxemic Respiratory Failure (Possible ARDS)
+   - Profound hypoxemia (SpO2 80% on room air); clinical and radiologic findings (left lower lobe consolidation) are suggestive of evolving ARDS secondary to severe pneumonia[1](https://www.statpearls.com/point-of-care/17172).
+
+2. Septic Shock
+   - Hypotension, tachycardia, fever, leukocytosis, and raised CRP indicate sepsis; hypotension suggests progression to septic shock[2](https://www.statpearls.com/point-of-care/28412).
+
+3. Severe Community-Acquired Pneumonia
+   - Productive cough, fever, and left lower lobe consolidation with systemic inflammatory response and end-organ effects (hypoxia, hypotension) are consistent with severe lower respiratory tract infection[2](https://www.statpearls.com/point-of-care/28412).
+
+4. Multi-Organ Dysfunction Risk
+   - Patient is hypotensive, hypoxic, and may quickly develop further organ dysfunction if not promptly treated; at high risk due to ongoing shock and hypoxemia[2](https://www.statpearls.com/point-of-care/28412).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- ABG: To accurately assess hypoxemia and acid-base status[2](https://www.statpearls.com/point-of-care/28412).
+- Blood cultures, sputum culture: Identify causative organism and guide antibiotics[2](https://www.statpearls.com/point-of-care/28412).
+- Repeat chest imaging (once stabilized): Assess for progression to ARDS (bilateral infiltrates) or other complications[1](https://www.statpearls.com/point-of-care/17172).
+- Lactate: Assess severity of sepsis/shock and adequacy of perfusion[2](https://www.statpearls.com/point-of-care/28412).
+- Renal and hepatic function, coags: Detect developing organ dysfunction[2](https://www.statpearls.com/point-of-care/28412).
+- Consider echocardiogram if suspicion for cardiogenic component or unclear etiology[2](https://www.statpearls.com/point-of-care/28412).
+
+**Treatment and Supportive Management:**
+- Immediate supplemental oxygen therapy: Target SpO2 ≥ 92% (via high-flow O2, non-rebreather mask, or NIV as initial step if not intubating immediately)[2](https://www.statpearls.com/point-of-care/28412).
+- Prepare for urgent intubation and mechanical ventilation if persistent severe hypoxemia or altered mental status; employ lung-protective ventilation: low tidal volume (4–8 ml/kg IBW), plateau pressure <30 cm H2O[2](https://www.statpearls.com/point-of-care/28412).
+- Apply PEEP as needed if ARDS confirmed; titrate to maintain oxygenation but avoid barotrauma[3](https://www.statpearls.com/point-of-care/28412).
+- Prone positioning if severe ARDS and persistent hypoxemia (PaO2/FiO2 < 150 mmHg)[2](https://www.statpearls.com/point-of-care/28412).
+- IV empirical broad-spectrum antibiotics as soon as possible after cultures taken[2](https://www.statpearls.com/point-of-care/28412).
+- Early IV fluid resuscitation with crystalloid bolus for hypotension, reassess hemodynamics frequently; avoid fluid overload[2](https://www.statpearls.com/point-of-care/28412).
+- Initiate vasopressors (e.g., noradrenaline) if hypotension persists after adequate fluid resuscitation[2](https://www.statpearls.com/point-of-care/28412).
+- Stress ulcer and VTE prophylaxis (LMWH or heparin unless contraindicated)[2](https://www.statpearls.com/point-of-care/28412).
+- Consider enteral nutrition as soon as feasible[2](https://www.statpearls.com/point-of-care/28412).
+- Closely monitor urine output, electrolytes, and organ function[2](https://www.statpearls.com/point-of-care/28412).
+
+**Referrals:**
+- Urgent referral to ICU/critical care for ongoing monitoring and advanced respiratory/hemodynamic support and consideration for organ support[2](https://www.statpearls.com/point-of-care/28412).
+
+**Preventative and Lifestyle Measures:**
+- No specific preventative/lifestyle measures are relevant at this acute stage; address as appropriate after recovery.
+
+References:
+[1]: [Acute Respiratory Distress Syndrome](https://www.statpearls.com/point-of-care/17172 "Acute Respiratory Distress Syndrome Diamond Matthew Zucker...")
+[2]: [Respiratory Distress Syndrome (Archived)](https://www.statpearls.com/point-of-care/28412 "by other condition such as lobar or...")
+[3]: [Respiratory Distress Syndrome (Archived) Part 2](https://www.statpearls.com/point-of-care/28412 "ARDS correlates with 90-day survival without increasing...")

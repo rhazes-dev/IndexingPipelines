@@ -1,0 +1,56 @@
+## Summary
+- 28-year-old previously healthy woman with acute onset of descending, symmetrical flaccid paralysis, bilateral ptosis, mydriasis, absent deep tendon reflexes, and bulbar involvement (dysphagia, diplopia).
+- No fever, no sensory deficits.
+- Strong history of recent ingestion of homemade preserved vegetables.
+- Examination: cranial nerve palsies, progressive descending paralysis, respiratory risk.
+- Findings suggest classical presentation of foodborne botulism.
+
+----
+
+## Problems and Assessments
+
+1. Acute Foodborne Botulism (confirmed)
+   - Classic features: descending flaccid paralysis, prominent cranial nerve involvement (diplopia, ptosis, mydriasis, dysphagia), symmetrical weakness, preserved sensation, and areflexia following ingestion of home-preserved foods. Life-threatening due to risk of respiratory muscle paralysis and autonomic instability [1](https://www.statpearls.com/point-of-care/25815), [2](https://www.statpearls.com/point-of-care/25817), [3](https://www.statpearls.com/point-of-care/161699).
+
+2. Impending Respiratory Failure (probable)
+   - Rapidly progressive bulbar and respiratory muscle weakness in botulism—requires immediate respiratory monitoring and potential ventilatory support due to risk of respiratory arrest [1](https://www.statpearls.com/point-of-care/25815), [2](https://www.statpearls.com/point-of-care/25817), [3](https://www.statpearls.com/point-of-care/161699).
+
+3. Autonomic Dysfunction (possible)
+   - Botulism often associated with autonomic instability (pupillary abnormalities, GI dysmotility, cardiovascular lability); requires close monitoring [1](https://www.statpearls.com/point-of-care/25815), [2](https://www.statpearls.com/point-of-care/25817), [3](https://www.statpearls.com/point-of-care/161699).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Serum, stool, and gastric aspirate for C. botulinum toxin and organism detection: Confirms diagnosis and guides public health action [2](https://www.statpearls.com/point-of-care/25817).
+- Routine labs (CBC, U&Es, LFTs) and arterial blood gas (ABG): Monitor for complications of paralysis (e.g., hypoventilation, aspiration).
+- Serial bedside spirometry (vital capacity, NIF): Assess for respiratory muscle involvement and guide need for ventilatory support [3](https://www.statpearls.com/point-of-care/161699).
+- Blood cultures if fever or sepsis suspected, but not typical in pure botulism.
+- ECG and continuous monitoring: Evaluate for cardiac dysautonomia [1](https://www.statpearls.com/point-of-care/25815).
+
+**Treatment and Supportive Management:**
+- Admit to ICU/monitored bed: Need for close observation owing to risk of rapid respiratory decline [3](https://www.statpearls.com/point-of-care/161699).
+- Early administration of botulinum antitoxin (heptavalent equine or human depending on availability): Most effective if given as early as possible; reduces disease progression and duration [2](https://www.statpearls.com/point-of-care/25817), [3](https://www.statpearls.com/point-of-care/161699).
+- Supportive care:
+    - Early elective intubation/ventilatory support if vital capacity <30% predicted, NIF < -30 cm H2O, or rapid progression—anticipate need for prolonged ventilation [2](https://www.statpearls.com/point-of-care/25817), [3](https://www.statpearls.com/point-of-care/161699).
+    - Monitor airway protection and initiate feeding support (e.g., NG tube or parenteral nutrition) due to dysphagia [1](https://www.statpearls.com/point-of-care/25815).
+    - Manage secretions, provide aspiration precautions [1](https://www.statpearls.com/point-of-care/25815).
+- Avoid aminoglycosides, neuromuscular-blocking agents, or magnesium sulfate as they worsen neuromuscular blockade [2](https://www.statpearls.com/point-of-care/25817).
+- Deep vein thrombosis (DVT) and pressure ulcer prophylaxis due to immobility [3](https://www.statpearls.com/point-of-care/161699).
+- Monitor for and treat secondary infections and complications of prolonged ICU stay [3](https://www.statpearls.com/point-of-care/161699).
+
+**Referrals:**
+- Urgent neurology consult: Confirmation of diagnosis, neurophysiological testing if required, management oversight [1](https://www.statpearls.com/point-of-care/25815), [2](https://www.statpearls.com/point-of-care/25817).
+- Infectious disease/public health: For case reporting, epidemiological tracking, antitoxin release, and food investigation [2](https://www.statpearls.com/point-of-care/25817).
+
+**Preventative and Lifestyle Measures:**
+- Patient and family education regarding safe food handling and the avoidance of home-preserved foods unless proper technique is confirmed [2](https://www.statpearls.com/point-of-care/25817).
+- Information on signs of recurrence or persistent weakness; consideration of rehabilitation referral post-ICU for neuromuscular sequelae [3](https://www.statpearls.com/point-of-care/161699).
+
+----
+
+References:
+[1]: [Physiology, Neuromuscular Junction](https://www.statpearls.com/point-of-care/25815 "an anti-CD20 B cell monoclonal antibody may...")
+[2]: [Physiology, Neuromuscular Transmission](https://www.statpearls.com/point-of-care/25817 "patients, especially with MuSK. Plasmapheresis is used...")
+[3]: [Acute Flaccid Myelitis](https://www.statpearls.com/point-of-care/161699 "An estimated 95% of all infections are...")

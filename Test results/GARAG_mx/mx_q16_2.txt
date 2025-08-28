@@ -1,0 +1,55 @@
+## Summary
+- 35-year-old woman presents with bloating, fatigue, loose stools.
+- Examination: pallor, mild abdominal distension.
+- Laboratory findings: microcytic anemia (Hb 9.8, MCV 70), low ferritin, anti-TTG IgA positive.
+- Negative stool cultures.
+- Likely diagnosis: celiac disease with resultant iron deficiency anemia and malabsorption.
+
+----
+
+## Problems and Assessments
+
+1. Celiac Disease
+   - Strongly suggested by loose stools, bloating, positive anti-TTG IgA, and iron deficiency anemia with low ferritin. Classic findings of malabsorption in an adult woman. Likely underlying cause of current symptoms and nutrient deficiencies [1](https://www.statpearls.com/point-of-care/812).
+
+2. Iron Deficiency Anemia (secondary to malabsorption)
+   - Microcytic anemia with low ferritin. Malabsorption from celiac disease is a common cause of iron deficiency in adults [1](https://www.statpearls.com/point-of-care/812).
+
+3. Ongoing Malabsorption
+   - Symptoms (fatigue, loose stools, bloating, abdominal distension) and lab findings (anemia) point to generalized malabsorption, with risk of further deficiencies (e.g., folate, B12, fat-soluble vitamins) [1](https://www.statpearls.com/point-of-care/812).
+
+4. Nutritional and Lifestyle Risk
+   - Risk for osteoporosis (secondary to calcium/vitamin D malabsorption), additional micronutrient deficiencies, and chronic disease complications [1](https://www.statpearls.com/point-of-care/812).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Upper GI endoscopy with duodenal biopsies to confirm celiac disease diagnosis and assess degree of mucosal damage [2](https://www.statpearls.com/point-of-care/812).
+- Screen for additional deficiencies: folate, B12, calcium, vitamin D, magnesium, and fat-soluble vitamins (A, E, K) as per malabsorption workup [1](https://www.statpearls.com/point-of-care/812).
+- Consider DEXA scan for bone mineral density to screen for osteoporosis (if diagnosis of celiac is confirmed) [1](https://www.statpearls.com/point-of-care/812).
+- Repeat iron studies after initial treatment to monitor response.
+- Coeliac serology (anti-TTG IgA previously done; consider total IgA to exclude selective IgA deficiency) [2](https://www.statpearls.com/point-of-care/812).
+
+**Treatment and Supportive Management:**
+- Initiate lifelong strict gluten-free diet (GFD), with referral to a dietitian experienced in coeliac disease for education and support [2](https://www.statpearls.com/point-of-care/812).
+- Oral iron supplementation (ferrous sulfate or equivalent) for iron deficiency anemia, monitoring for GI side effects and response [1](https://www.statpearls.com/point-of-care/812).
+- Supplement additional micronutrient deficiencies as needed based on laboratory evaluation (e.g., folic acid, B12, calcium, vitamin D).
+- Monitor for symptom improvement and repeat serology after 6-12 months on GFD to assess for dietary adherence and mucosal healing [2](https://www.statpearls.com/point-of-care/812).
+
+**Referrals:**
+- Gastroenterology: for endoscopic confirmation, assessment of celiac-related complications, and management oversight [2](https://www.statpearls.com/point-of-care/812).
+- Dietitian: expert advice in gluten-free diet, nutritional adequacy, and patient education [2](https://www.statpearls.com/point-of-care/812).
+
+**Preventative and Lifestyle Measures:**
+- Patient education on need for strict lifelong gluten avoidance and risks of inadvertent exposure.
+- Encourage regular follow-up for monitoring of nutritional status, symptom recurrence, and long-term complications (including osteoporosis) [2](https://www.statpearls.com/point-of-care/812).
+- Advise on reading labels, preventing cross-contamination, and seeking support groups for individuals with celiac disease.
+- Counsel regarding vaccination for pneumococcus and other encapsulated organisms if hyposplenism is suspected/confirmed (later stage risk in longstanding coeliac disease) [1](https://www.statpearls.com/point-of-care/812).
+
+----
+
+References:
+[1]: [Physiology, Small Bowel](https://www.statpearls.com/point-of-care/812 "an inability to absorb fluids and vital...")
+[2]: [Physiology, Small Bowel Part 2](https://www.statpearls.com/point-of-care/812 "as celiac and Crohn disease, and colonoscopy,...")

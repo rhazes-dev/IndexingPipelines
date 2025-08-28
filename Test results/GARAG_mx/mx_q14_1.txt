@@ -1,0 +1,59 @@
+## Summary
+- 72-year-old man with progressive memory loss and slowness over one year
+- Resting tremor, rigidity, shuffling gait, reduced arm swing, and hypophonic speech
+- MRI brain unremarkable
+- Features point to parkinsonism with cognitive decline
+
+----
+
+## Problems and Assessments
+
+1. Parkinsonism with Dementia
+   - Presents with bradykinesia, resting tremor, rigidity, postural and gait instability, hypophonia, and shuffling gait; cognitive decline is significant.
+   - Unremarkable MRI supports diagnosis of an idiopathic neurodegenerative disorder (likely Parkinson disease or a Parkinson-plus syndrome), and absence of structural pathology makes secondary causes less likely[1](https://www.statpearls.com/point-of-care/26681).
+   - Reduced response to dopaminergic medications and rapid progression would raise possibility of a Parkinson-plus syndrome, but this is not specified at this stage[2](https://www.statpearls.com/point-of-care/143125).
+
+2. Functional Decline and Fall Risk
+   - Slowness, rigidity, shuffling gait, and reduced arm swing increase falls risk and impact activities of daily living.
+
+3. Cognitive Impairment/Dementia
+   - Progressive memory loss suggests concomitant dementia (e.g., Parkinson’s disease dementia or Lewy body dementia)[2](https://www.statpearls.com/point-of-care/143125).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Routine bloods: CBC, chemistry panel, thyroid function, vitamin B12 to rule out reversible cognitive contributors and co-morbidities[2](https://www.statpearls.com/point-of-care/143125).
+- Formal cognitive assessment (e.g., MoCA or MMSE) to document baseline cognitive impairment[2](https://www.statpearls.com/point-of-care/143125).
+- Consider dopamine transporter (DAT) imaging (SPECT/PET), if available, to distinguish degenerative parkinsonism from non-degenerative causes or if diagnosis is unclear[1](https://www.statpearls.com/point-of-care/26681).
+- Continued symptom monitoring and periodic reassessment to clarify syndrome progression and response to management[1](https://www.statpearls.com/point-of-care/26681),[2](https://www.statpearls.com/point-of-care/143125).
+
+**Treatment and Supportive Management:**
+- Trial of levodopa/carbidopa for motor symptoms; monitor for response as it supports a diagnosis of idiopathic Parkinson’s disease but may have limited effect in Parkinson-plus syndromes[2](https://www.statpearls.com/point-of-care/143125).
+- If levodopa is ineffective or only partially effective, add or trial monoamine oxidase type B (MAO-B) inhibitor (e.g., selegiline), dopamine agonist (e.g., pramipexole), or amantadine, as per symptom burden and tolerance[2](https://www.statpearls.com/point-of-care/143125).
+- For disabling tremor, consider propranolol or clonazepam if not contraindicated and with careful monitoring for side effects[2](https://www.statpearls.com/point-of-care/143125).
+- Initiate physical therapy focusing on gait, balance, strength, and fall prevention[2](https://www.statpearls.com/point-of-care/143125).
+- Occupational therapy referral to address activity of daily living limitations and home modifications for safety[2](https://www.statpearls.com/point-of-care/143125).
+- Speech and language therapy for hypophonia and screening for dysphagia[2](https://www.statpearls.com/point-of-care/143125).
+- Cognitive impairment: trial cholinesterase inhibitor (e.g., rivastigmine) if dementia is clinically significant and no contraindications exist[2](https://www.statpearls.com/point-of-care/143125).
+- Address neuropsychiatric symptoms as indicated (e.g., manage mood, agitation, psychosis—with extreme caution using antipsychotics if required, as these can worsen parkinsonism)[2](https://www.statpearls.com/point-of-care/143125).
+- Regular medication review to minimise drugs that exacerbate parkinsonism or delirium.
+
+**Referrals:**
+- Neurology for diagnostic clarification, optimisation of pharmacological and multidisciplinary management, and follow-up[2](https://www.statpearls.com/point-of-care/143125).
+- Geriatrician or memory clinic for further cognitive workup and multidisciplinary dementia care[2](https://www.statpearls.com/point-of-care/143125).
+- Physical, occupational, and speech therapy as above.
+
+**Preventative and Lifestyle Measures:**
+- Home safety assessment and fall prevention strategies as the patient is at high risk of falls.
+- Encourage regular, supervised exercise as tolerated.
+- Educate patient and caregivers on disease, medication schedule, and signs of deterioration.
+- Advanced care planning discussions recommended given the progressive nature of disorder[2](https://www.statpearls.com/point-of-care/143125).
+- Nutritional support/dietician referral if weight loss or swallowing concerns develop.
+
+----
+
+References:
+[1]: [Parkinsonism](https://www.statpearls.com/point-of-care/26681 "tremor, occurring primarily at rest when the...")
+[2]: [Parkinson-Plus Syndrome](https://www.statpearls.com/point-of-care/143125 "PPS is also notable for its rapid...")

@@ -1,0 +1,45 @@
+## Summary
+- 28-year-old previously healthy woman with acute onset of diplopia, dysphagia, and progressive descending symmetrical flaccid paralysis, starting with cranial nerves (bilateral ptosis, fixed dilated pupils) and spreading downward.
+- No fever or sensory deficits.
+- History of ingestion of homemade preserved vegetables.
+- Exam: Bilateral ptosis, fixed dilated pupils, symmetrical flaccid paralysis, areflexia.
+- Classic for foodborne botulism with risk of respiratory compromise.
+----
+
+## Problems and Assessments
+
+1. Foodborne Botulism (Confirmed/Most Likely)
+   - Presents with acute bilateral descending flaccid paralysis, bulbar palsy, diplopia, fixed dilated pupils, after ingesting a high-risk food (preserved vegetables) [1](https://www.statpearls.com/point-of-care/18469).
+   - High risk of rapid progression to respiratory failure due to diaphragmatic/paraspinal muscle involvement [1](https://www.statpearls.com/point-of-care/18469).
+
+2. Impending/Actual Respiratory Failure (Possible)
+   - Symmetrical descending paralysis with bulbar involvement and risk of diaphragmatic weakness due to toxin action [2](https://www.statpearls.com/point-of-care/25817).
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Clinical diagnosis should precede confirmatory tests due to urgency; therapy must not be delayed while awaiting lab results [1](https://www.statpearls.com/point-of-care/18469).
+- Send for laboratory confirmation: detection of botulinum toxin in serum, stool, or remaining food (supports diagnosis and surveillance) [2](https://www.statpearls.com/point-of-care/25817).
+- Consider electrophysiological studies (EMG/nerve conduction): small evoked potentials, post-tetanic facilitation supportive but not required for management [1](https://www.statpearls.com/point-of-care/18469).
+- Blood gases and vital sign monitoring: assess for developing respiratory acidosis or hypoventilation [1](https://www.statpearls.com/point-of-care/18469).
+
+**Treatment and Supportive Management:**
+- Admit to ICU for continuous cardiorespiratory monitoring given risk of rapid deterioration [2](https://www.statpearls.com/point-of-care/25817).
+- Early administration of botulinum antitoxin (heptavalent equine or trivalent human, depending on availability): reduces morbidity and mortality if given early [2](https://www.statpearls.com/point-of-care/25817).
+- Supportive care:
+  - Intubation and mechanical ventilation if there are any signs of respiratory compromise or reduced vital capacity [1](https://www.statpearls.com/point-of-care/18469).
+  - Nasogastric feeding/hydration if swallowing impaired; risk of aspiration [1](https://www.statpearls.com/point-of-care/18469).
+- Avoid aminoglycosides and other neuromuscular blocking agents (contraindicated as these potentiate paralysis) [2](https://www.statpearls.com/point-of-care/25817).
+
+**Referrals:**
+- Infectious Diseases/Microbiology for antitoxin access and public health notification [2](https://www.statpearls.com/point-of-care/25817).
+- Neurology for diagnostic confirmation and ongoing management [1](https://www.statpearls.com/point-of-care/18469).
+- ICU referral immediately for close monitoring and airway management.
+
+**Preventative and Lifestyle Measures:**
+- After recovery, educate regarding safe food preservation and avoidance of home-canned/preserved foods not prepared under proper guidelines to prevent recurrence [1](https://www.statpearls.com/point-of-care/18469).
+
+References:
+[1]: [Botulism](https://www.statpearls.com/point-of-care/18469 "descending weakness of the trunk, extremities, and...")
+[2]: [Physiology, Neuromuscular Transmission](https://www.statpearls.com/point-of-care/25817 "patients, especially with MuSK. Plasmapheresis is used...")

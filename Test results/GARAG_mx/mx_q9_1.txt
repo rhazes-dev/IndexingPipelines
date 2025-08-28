@@ -1,0 +1,54 @@
+## Summary
+- 54-year-old male with sudden-onset, severe ("worst-ever") occipital headache during exertion (weightlifting).
+- Associated features: vomiting, photophobia, pain exacerbated by bright lights, neck stiffness.
+- Findings: photophobia, neck stiffness, fully alert, hypertension (BP 165/90).
+- Initial CT head negative (performed at 6 hours); lumbar puncture positive for xanthochromia.
+- Clinical features most consistent with subarachnoid hemorrhage (SAH), but in the absence of CT findings, high suspicion for a secondary cause (e.g., Reversible Cerebral Vasoconstriction Syndrome (RCVS)).
+
+----
+
+## Problems and Assessments
+
+1. Subarachnoid Hemorrhage (most likely due to RCVS)
+   - Acute onset "thunderclap headache" with normal initial CT but xanthochromic CSF is diagnostic for SAH. RCVS is a critical cause to consider, especially in this context of exertional trigger, hypertension, and marked pain with photophobia and neck stiffness. RCVS is strongly associated with thunderclap headache, may have normal early imaging (CT) but features develop over time, and is associated with exertional triggers [1](https://www.statpearls.com/point-of-care/28500).
+
+2. Risk of complications: ischemic stroke, rebleed, cerebral edema, and further neurological deterioration
+   - RCVS and SAH both confer risk of secondary cerebral events including infarction, rebleed, and ongoing vasoconstriction, especially within the first days to weeks after onset [1](https://www.statpearls.com/point-of-care/28500), [2](https://www.statpearls.com/point-of-care/28500).
+
+3. Hypertension
+   - Elevated BP which may contribute both to hemorrhagic events and worsening cerebral dysregulation [3](https://www.statpearls.com/point-of-care/28500).
+
+4. Pain and symptom management
+   - Severe headache, photophobia, neck stiffness, vomiting require symptomatic, supportive care [3](https://www.statpearls.com/point-of-care/28500).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Cerebral vascular imaging (CT angiography or MR angiography, or catheter cerebral angiography): To assess for vasoconstriction ("sausage on a string" appearance) and exclude aneurysm or other vascular malformations, as classic for RCVS and to rule out secondary causes of SAH. MRI including FLAIR and diffusion-weighted imaging may be helpful for detecting early infarcts or other complications [1](https://www.statpearls.com/point-of-care/28500), [2](https://www.statpearls.com/point-of-care/28500).
+- Continuous neurological monitoring: To identify early signs of deterioration, such as focal deficit, decreased consciousness, or seizures, which may suggest complications like infarct, hemorrhage, or raised ICP [2](https://www.statpearls.com/point-of-care/28500).
+
+**Treatment and Supportive Management:**
+- Admit to high-dependency or intensive/step-down neuro care: Appropriate for monitoring complications in early high-risk phase of SAH/RCVS [2](https://www.statpearls.com/point-of-care/28500).
+- Avoid all vasoactive migraine therapies (triptans, ergots): These are contraindicated as they may worsen vasoconstriction and risk ischemia or hemorrhage [3](https://www.statpearls.com/point-of-care/28500).
+- Avoid empiric steroids unless alternate diagnosis confirmed: Steroids do not improve outcomes in RCVS and may worsen prognosis; only use if clear, alternate indication [3](https://www.statpearls.com/point-of-care/28500).
+- Control hypertension: Maintain BP in recommended range, typically <140 mmHg systolic to prevent rebleeding but avoid hypotension that could worsen cerebral ischemia. Titrate antihypertensives carefully [1](https://www.statpearls.com/point-of-care/28500), [2](https://www.statpearls.com/point-of-care/28500).
+- Symptom management: Use antiemetics, analgesia (but avoid non-steroidal anti-inflammatory drugs and agents that increase bleeding risk), dark environment to minimize photophobia, and ensure normoglycemia [3](https://www.statpearls.com/point-of-care/28500).
+- Identify and remove possible triggers: Review and discontinue any vasoconstrictive/serotonergic medications or recreational drugs, advise on avoidance of exertion and other potential physiological triggers [1](https://www.statpearls.com/point-of-care/28500).
+
+**Referrals:**
+- Neurology: For diagnostic confirmation, guidance on vascular imaging, and specialist management of RCVS and SAH complications [1](https://www.statpearls.com/point-of-care/28500), [2](https://www.statpearls.com/point-of-care/28500).
+- Neurosurgery: If aneurysm or other structural vascular lesion is detected, or if patient develops evidence of raised intracranial pressure, hydrocephalus, or catastrophic hemorrhage [1](https://www.statpearls.com/point-of-care/28500).
+- Consider referral to multidisciplinary rehabilitation if neurological morbidity develops.
+
+**Preventative and Lifestyle Measures:**
+- Counsel patient to avoid vasoactive substances including illicit drugs, adrenergic/serotonergic prescriptions, excessive caffeine, and overexertion post-acute phase [1](https://www.statpearls.com/point-of-care/28500).
+- Standard risk factor modification after recovery: Address hypertension, promote regular cardiovascular/exercise assessment (once medically safe).
+
+----
+
+References:
+[1]: [Reversible Cerebral Vasoconstriction Syndromes](https://www.statpearls.com/point-of-care/28500 "Reversible Cerebral Vasoconstriction Syndromes Nesheiwat Omar Riverside...")
+[2]: [Reversible Cerebral Vasoconstriction Syndromes Part 2](https://www.statpearls.com/point-of-care/28500 "condition among clinicians and the widespread use...")
+[3]: [Reversible Cerebral Vasoconstriction Syndromes Part 3](https://www.statpearls.com/point-of-care/28500 "have been recognized. RCVS is almost always...")

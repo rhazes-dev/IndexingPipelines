@@ -1,0 +1,55 @@
+## Summary
+- 72-year-old man with one year of progressive memory loss, slowness, resting tremor, rigidity, shuffling gait with reduced arm swing, and hypophonic speech.
+- MRI brain is unremarkable.
+- Clinical features consistent with parkinsonism, with cognitive impairment suggestive of possible Parkinson’s Disease Dementia or a Parkinson-plus syndrome.
+- No features suggesting an atypical cause (no early falls, no supranuclear gaze palsy, no autonomic dysfunction reported).
+
+----
+
+## Problems and Assessments
+
+1. Parkinsonism
+   - Presents with classic motor features: bradykinesia, rigidity, resting tremor, shuffling gait, reduced arm swing, and hypophonic speech; unremarkable MRI rules out structural causes. Most consistent with idiopathic Parkinson's disease, but must consider Parkinson-plus and secondary causes[1](https://www.statpearls.com/point-of-care/26681).
+2. Cognitive Impairment/Dementia (Possible Parkinson's Disease Dementia or Lewy Body Dementia)
+   - Progressive memory loss with parkinsonism may represent Parkinson's Disease Dementia or a Parkinson-plus syndrome (e.g. Lewy Body Dementia)[2](https://www.statpearls.com/point-of-care/143125).
+3. Functional Decline and Fall Risk
+   - Gait disturbance, rigidity and bradykinesia increase risk of disability and falls[1](https://www.statpearls.com/point-of-care/26681).
+4. Differential Diagnosis/Secondary Parkinsonism
+   - Need to exclude Parkinson-plus syndromes, vascular, drug-induced, or toxin-induced parkinsonism given age and presentation[1](https://www.statpearls.com/point-of-care/26681).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Initiate cognitive assessment (MMSE/MoCA) to evaluate the degree and pattern of cognitive impairment, which helps differentiate Parkinson’s Disease Dementia from other Parkinson-plus syndromes[2](https://www.statpearls.com/point-of-care/143125).
+- Routine laboratory workup: CBC, chemistry panel, thyroid function, vitamin B12 to exclude reversible causes of cognitive decline and secondary parkinsonism[2](https://www.statpearls.com/point-of-care/143125).
+- Review drug history for dopamine-blocking medications or toxins that could cause secondary parkinsonism[1](https://www.statpearls.com/point-of-care/26681).
+- Consider SPECT/PET imaging with dopamine transporter ligands if diagnostic uncertainty persists, particularly to support a presynaptic dopaminergic deficit[3](https://www.statpearls.com/point-of-care/26681).
+- MRI already performed and unremarkable; no further structural imaging needed unless new focal/atypical neurology develops.
+
+**Treatment and Supportive Management:**
+- Trial of levodopa/carbidopa (first-line) for symptomatic management of parkinsonian motor symptoms, as response can help differentiate idiopathic Parkinson’s disease from atypical syndromes[1](https://www.statpearls.com/point-of-care/26681).
+- If insufficient, consider adding a dopamine agonist (pramipexole, ropinirole) or MAO-B inhibitor (selegiline, rasagiline) as second-line, noting increased risk of neuropsychiatric adverse effects in the elderly[1](https://www.statpearls.com/point-of-care/26681).
+- Address cognitive impairment with cholinesterase inhibitors (e.g., rivastigmine) if Parkinson's Disease Dementia or Lewy Body Dementia is confirmed and interfering with daily function[2](https://www.statpearls.com/point-of-care/143125).
+- Physiotherapy and gait training to improve mobility, reduce falls, and maintain independence[1](https://www.statpearls.com/point-of-care/26681).
+- Speech therapy for hypophonic speech and possible dysphagia[2](https://www.statpearls.com/point-of-care/143125).
+- Occupational therapy for assessment of home safety and ADL support[1](https://www.statpearls.com/point-of-care/26681).
+- Avoid/stop dopamine antagonist medications (e.g., certain antipsychotics, metoclopramide) if present[1](https://www.statpearls.com/point-of-care/26681).
+
+**Referrals:**
+- Neurology referral to confirm diagnosis, optimize management, and rule out atypical/secondary parkinsonism[1](https://www.statpearls.com/point-of-care/26681).
+- Geriatrician or memory clinic for comprehensive cognitive assessment, especially if marked cognitive symptoms or dual diagnosis is suspected[2](https://www.statpearls.com/point-of-care/143125).
+- Allied health referrals: physiotherapy, occupational therapy, and speech therapy as above.
+
+**Preventative and Lifestyle Measures:**
+- Fall prevention strategies: home hazard assessment, walking aids as indicated, medication review, and family education[1](https://www.statpearls.com/point-of-care/26681).
+- Encourage regular physical activity as tolerated to maintain mobility and function[1](https://www.statpearls.com/point-of-care/26681).
+- Educate patient and carer regarding disease course, medication adherence, and red flags for complications (falls, aspiration, hallucinations)[1](https://www.statpearls.com/point-of-care/26681).
+
+----
+
+References:
+[1]: [Parkinsonism](https://www.statpearls.com/point-of-care/26681 "ataxias, may initially present clinically as a...")
+[2]: [Parkinson-Plus Syndrome](https://www.statpearls.com/point-of-care/143125 "PPS is also notable for its rapid...")
+[3]: [Parkinsonism Part 2](https://www.statpearls.com/point-of-care/26681 "tremor, occurring primarily at rest when the...")

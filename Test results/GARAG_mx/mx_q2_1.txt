@@ -1,0 +1,51 @@
+## Summary
+- 24-year-old woman with fatigue, pallor, exertional SOB, and heavy menstrual bleeding (7 days/cycle).
+- Exam: conjunctival pallor.
+- Labs: Hb 7.5 g/dL, MCV 70 fL, markedly decreased ferritin.
+- PBS: hypochromic microcytic RBCs.
+- Diagnosis: Severe iron deficiency anaemia secondary to chronic heavy menstrual blood loss.
+
+----
+
+## Problems and Assessments
+
+1. Iron Deficiency Anemia (secondary to menorrhagia)
+   - Severe microcytic, hypochromic anemia with low ferritin and PBS findings highly suggest iron deficiency due to chronic blood loss from heavy menstruation[1](https://www.statpearls.com/point-of-care/25104).
+   
+2. Heavy Menstrual Bleeding (menorrhagia)
+   - Ongoing blood loss is the primary driver of iron deficiency. Needs investigation for underlying gynecologic cause and management to prevent recurrence[2](https://www.statpearls.com/point-of-care/17532).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Pelvic ultrasound to investigate for anatomic causes of menorrhagia (e.g., fibroids, polyps)[2](https://www.statpearls.com/point-of-care/17532).
+- Thyroid function tests and coagulation profile to assess for other contributors to abnormal uterine bleeding[2](https://www.statpearls.com/point-of-care/17532).
+- Repeat CBC and reticulocyte count after 2–4 weeks of iron therapy to monitor response and rule out other causes if inadequate response is seen[1](https://www.statpearls.com/point-of-care/25104).
+- Consider endometrial sampling if indicated by clinical suspicion (age, risk factors; not universally needed).
+
+**Treatment and Supportive Management:**
+- Initiate oral iron replacement: Ferrous sulfate 325 mg PO TID (or maximum tolerated dose) as first-line therapy; usually takes effect in 3 weeks with full response by 2 months[1](https://www.statpearls.com/point-of-care/25104).
+  - Gradually increase dose to improve tolerance; monitor for GI side effects (nausea, constipation)[1](https://www.statpearls.com/point-of-care/25104).
+- Parenteral iron (e.g., IV iron sucrose/ferric carboxymaltose) if: oral intolerance, malabsorption, or ongoing bleeding prevents response[1](https://www.statpearls.com/point-of-care/25104).
+- Treat anemia acutely if hemodynamically unstable, or if cardiovascular compromise present (e.g., transfusion for Hb <7 or symptomatic)[1](https://www.statpearls.com/point-of-care/25104).
+- Manage heavy menses: trial of medical therapy (e.g., combined oral contraceptive pill, tranexamic acid, NSAIDs) as appropriate for symptom control and bleeding reduction—coordinate with gynaecology team[2](https://www.statpearls.com/point-of-care/17532).
+- Address underlying gynecologic pathology if identified.
+
+**Referrals:**
+- Gynecology for assessment and definitive management of menorrhagia (e.g., fibroids, endometrial pathology, hormonal options, surgical management if indicated)[2](https://www.statpearls.com/point-of-care/17532).
+- Hematology referral only if anemia does not respond to iron after 4–8 weeks or if diagnosis unclear[1](https://www.statpearls.com/point-of-care/25104).
+
+**Preventative and Lifestyle Measures:**
+- Advise a diet rich in iron (red meats, leafy green vegetables, beans); vitamin C intake can aid iron absorption[3](https://www.statpearls.com/point-of-care/17532).
+- Counsel about the importance of adherence to iron therapy and regular follow-up for monitoring.
+- Women of childbearing age require close monitoring for anemia; recommend periodic CBC at least annually if risks persist[3](https://www.statpearls.com/point-of-care/17532).
+- Educate about avoiding NSAIDs unless medically indicated, as they may exacerbate bleeding.
+
+----
+
+References:
+[1]: [Microcytic Hypochromic Anemia](https://www.statpearls.com/point-of-care/25104 "from git, particularly from gastric and duodenal...")
+[2]: [Chronic Anemia](https://www.statpearls.com/point-of-care/17532 "(aplastic anemia and myelophthisic anemia) Anemia of...")
+[3]: [Chronic Anemia Part 2](https://www.statpearls.com/point-of-care/17532 "to eat a healthy and balanced diet...")

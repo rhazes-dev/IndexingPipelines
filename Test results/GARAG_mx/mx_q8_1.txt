@@ -1,0 +1,46 @@
+## Summary
+- 72-year-old man with 12 months’ progressive memory decline, impaired daily functioning, repetitiveness, disorientation, and object misplacement.
+- Physical examination unremarkable.
+- MRI: Bilateral hippocampal atrophy.
+- Blood tests (B12, folate, TFTs, calcium) normal.
+- Clinical picture and MRI suggest Alzheimer’s disease (AD)[1](https://www.statpearls.com/point-of-care/17423).
+
+----
+
+## Problems and Assessments
+
+1. Alzheimer’s Disease—Probable
+   - Progressive memory impairment (especially episodic), repetitive questioning, functional decline, and disorientation over a year, with bilateral hippocampal atrophy and unrevealing metabolic workup, are classic for AD[1](https://www.statpearls.com/point-of-care/17423).
+2. Loss of ability to perform activities of daily living (ADLs)
+   - Progressive cognitive deterioration impacting independence and safety; significant for further care planning[2](https://www.statpearls.com/point-of-care/20337).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- No further diagnostic workup is indicated at this stage; reversible causes (B12, folate, TFTs, calcium) have been excluded, and MRI supports AD[1](https://www.statpearls.com/point-of-care/17423).
+
+**Treatment and Supportive Management:**
+- Initiate cholinesterase inhibitor (e.g., donepezil, rivastigmine, galantamine) as first-line symptomatic therapy; may modestly slow cognitive decline and improve function in mild-to-moderate AD[1](https://www.statpearls.com/point-of-care/17423).
+- Consider memantine (NMDA receptor antagonist) add-on in moderate to severe stages for additional symptomatic benefit[1](https://www.statpearls.com/point-of-care/17423).
+- Regular cognitive stimulation: Encourage engagement in mentally stimulating activities and socialisation to maintain function[1](https://www.statpearls.com/point-of-care/17423).
+- Recommend aerobic exercise: Evidence suggests this can slow functional/cognitive decline in AD[1](https://www.statpearls.com/point-of-care/17423).
+- Review current medications for anticholinergic burden or agents that could worsen cognition; avoid polypharmacy if possible[1](https://www.statpearls.com/point-of-care/17423).
+- Provide functional/occupational therapy input to optimise independence and safety with ADLs[2](https://www.statpearls.com/point-of-care/20337).
+- Advise on implementation of home safety modifications (e.g., removal of hazards, installation of alarms/locks, use of reminders)[2](https://www.statpearls.com/point-of-care/20337).
+- Educate and support family/caregiver, monitoring for carer strain and ensuring resources are available for respite if needed[2](https://www.statpearls.com/point-of-care/20337).
+- Regularly reassess for behavioural and psychological symptoms of dementia (BPSD; e.g., depression, psychosis, agitation); treat if they emerge[2](https://www.statpearls.com/point-of-care/20337).
+
+**Referrals:**
+- Refer to specialist memory clinic or neurologist for confirmation of diagnosis, ongoing monitoring, and access to multidisciplinary support[2](https://www.statpearls.com/point-of-care/20337).
+- Social worker/community services for evaluation of support needs, eligibility for home help or day care, and advance care planning discussion[2](https://www.statpearls.com/point-of-care/20337).
+
+**Preventative and Lifestyle Measures:**
+- Encourage ongoing physical activity, social interaction, and cognitive engagement to preserve function[1](https://www.statpearls.com/point-of-care/17423).
+- Provide advice to patient/family regarding driving safety and, where appropriate, notify relevant authorities/services[2](https://www.statpearls.com/point-of-care/20337).
+- Discuss and document wishes regarding future care decisions (advance directives, lasting power of attorney)[2](https://www.statpearls.com/point-of-care/20337).
+
+References:
+[1]: [Alzheimer Disease](https://www.statpearls.com/point-of-care/17423 "aerobic exercise has been shown to slow...")
+[2]: [Major Neurocognitive Disorder (Dementia)](https://www.statpearls.com/point-of-care/20337 "on the subtype. Huntington disease is caused...")

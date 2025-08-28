@@ -1,0 +1,52 @@
+## Summary
+- 72-year-old male with 12-month history of progressive memory impairment, repetition, object misplacement, and getting lost in familiar places.
+- Impairment of daily activities (instrumental ADLs).
+- Exam unremarkable.
+- MRI: bilateral hippocampal atrophy.
+- Blood tests (B12, folate, TFTs, calcium) normal.
+- Clinical picture consistent with probable Alzheimer’s disease (AD).
+
+----
+
+## Problems and Assessments
+
+1. Alzheimer’s disease (probable)
+   - Gradual onset and progression of memory difficulties, executive dysfunction, and loss of independence.
+   - Neuroimaging with hippocampal atrophy supports diagnosis.
+   - Secondary and reversible causes excluded by lab workup [1](https://www.statpearls.com/articlelibrary/nursingarticle/20337).
+
+2. Loss of independence/safety concerns
+   - Difficulties with daily activities and getting lost raise concerns regarding safety and capacity for self-care [2](https://www.statpearls.com/point-of-care/20337).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Cognitive screening assessment, e.g., MMSE or MoCA, to quantify baseline cognitive deficits and track progression [1](https://www.statpearls.com/articlelibrary/nursingarticle/20337).
+- Functional assessment to determine level of impairment and care needs [2](https://www.statpearls.com/point-of-care/20337).
+- Consider formal neuropsychological testing if diagnosis remains uncertain or for baseline documentation [1](https://www.statpearls.com/articlelibrary/nursingarticle/20337).
+- Assess for potential safety risks (e.g., driving, wandering), and evaluate need for home safety measures [2](https://www.statpearls.com/point-of-care/20337).
+
+**Treatment and Supportive Management:**
+- Initiate cholinesterase inhibitor therapy (e.g., donepezil, rivastigmine, or galantamine) as first-line for cognitive symptoms, barring contraindications (evidence for modest benefit in AD) [3](https://www.statpearls.com/point-of-care/17423).
+- Consider memantine as adjunct in moderate to severe disease or if intolerant to cholinesterase inhibitors [3](https://www.statpearls.com/point-of-care/17423).
+- Address non-cognitive symptoms (e.g., sleep disturbance, agitation) with non-pharmacological approaches; pharmacologic therapy only if distressing and non-pharmacological strategies fail [3](https://www.statpearls.com/point-of-care/17423).
+- Encourage regular aerobic physical activity, which may slow progression of cognitive decline [3](https://www.statpearls.com/point-of-care/17423).
+- Provide caregiver education and support about disease course, management of behavioral issues, and accessing community resources [2](https://www.statpearls.com/point-of-care/20337).
+- Review medications and eliminate agents with anticholinergic properties or those causing sedation that may worsen cognition [1](https://www.statpearls.com/articlelibrary/nursingarticle/20337).
+
+**Referrals:**
+- Refer to specialist memory clinic or geriatric psychiatry for diagnostic confirmation, management advice, and advanced care planning.
+- Occupational therapy for cognitive rehabilitation, ADL support, and home safety assessment.
+- Social services for assessment of support at home, carer needs, and eligibility for assistive services [2](https://www.statpearls.com/point-of-care/20337).
+
+**Preventative and Lifestyle Measures:**
+- Counsel on home modifications to reduce fall/wandering risk.
+- Advise advance care planning discussions early in disease course.
+- Support maintenance of social activity and engagement in mentally stimulating activities [3](https://www.statpearls.com/point-of-care/17423).
+
+References:
+[1]: [Major Neurocognitive Disorder (Dementia) (Nursing)](https://www.statpearls.com/articlelibrary/nursingarticle/20337 "behavior changes including disinhibition and apathy, and...")
+[2]: [Major Neurocognitive Disorder (Dementia)](https://www.statpearls.com/point-of-care/20337 "on the subtype. Huntington disease is caused...")
+[3]: [Alzheimer Disease](https://www.statpearls.com/point-of-care/17423 "aerobic exercise has been shown to slow...")

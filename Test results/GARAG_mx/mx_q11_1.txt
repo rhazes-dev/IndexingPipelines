@@ -1,0 +1,54 @@
+## Summary
+- 40-year-old man with 3 days of progressive, symmetrical, bilateral leg weakness, areflexia, and hypotonia following diarrhoea 2 weeks prior.
+- Sensation and plantars are preserved; power 3/5 both legs.
+- Examination consistent with acute flaccid paralysis.
+- Likely diagnosis: Guillain-Barré syndrome (GBS), classic AIDP variant, post-infectious.
+
+----
+
+## Problems and Assessments
+
+1. Acute Inflammatory Demyelinating Polyradiculoneuropathy (AIDP) / Guillain-Barré Syndrome (Possible)
+   - Pattern of progressive symmetrical lower limb weakness, reduced tone, absent reflexes, preserved sensation with post-infective (diarrhoeal) prodrome is highly suggestive [1](https://www.statpearls.com/point-of-care/22461).
+   - Immediate risk: progression to involve respiratory muscles and autonomic dysfunction.
+
+2. Risk of Respiratory Failure (Possible)
+   - Progressive ascending weakness in GBS can compromise respiratory muscles; vigilant monitoring required [1](https://www.statpearls.com/point-of-care/22461).
+
+3. Autonomic Dysfunction (Possible)
+   - GBS may cause arrhythmias, blood pressure fluctuations; requires monitoring [1](https://www.statpearls.com/point-of-care/22461).
+
+4. Differentials (Possible)
+   - Acute cord, acute myelitis, spinal infarct, periodic paralysis, myopathies—less likely given findings and clinical context but must be considered and excluded.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Nerve conduction studies/electromyography: To support diagnosis of GBS and exclude mimics; GBS shows demyelination features [1](https://www.statpearls.com/point-of-care/22461).
+- Lumbar puncture for CSF: To look for albuminocytologic dissociation (high protein, normal cell count typical of GBS; can be absent early) [1](https://www.statpearls.com/point-of-care/22461).
+- Monitor serial vital capacity/negative inspiratory force (NIF): Assess for evolving respiratory compromise [1](https://www.statpearls.com/point-of-care/22461).
+- Baseline bloods: FBC, U&E, LFTs, CRP, cultures as indicated—exclude alternate diagnoses, monitor for complications.
+- Additional investigations if atypical features: MRI spine (to exclude myelitis/infarction/structural), serologies if relevant (HIV, Lyme, CMV, etc.), electrolytes to rule out periodic paralysis [1](https://www.statpearls.com/point-of-care/22461).
+
+**Treatment and Supportive Management:**
+- Admit to monitored or high-dependency unit.
+- IVIG (intravenous immunoglobulin) 2g/kg over 5 days OR plasma exchange: First-line therapies, equally efficacious; initiate as soon as possible, especially if unable to walk or rapidly deteriorating [1](https://www.statpearls.com/point-of-care/22461).
+- Do NOT use corticosteroids: No benefit in GBS and should not be combined with IVIG or plasma exchange [1](https://www.statpearls.com/point-of-care/22461).
+- Monitor for respiratory compromise: Serial vital capacity, bulbar function—intubate if declining.
+- DVT prophylaxis (mechanical or pharmacological if safe): Immobility increases risk.
+- Early physiotherapy: Prevent contractures, pressure areas.
+- Supportive care: Manage pain (neuropathic agents if needed), bowel/bladder care, nutrition.
+- Monitor and treat autonomic dysfunction: BP/HR fluctuations, arrhythmias.
+
+**Referrals:**
+- Neurology: For diagnostic confirmation, electrophysiology, and management.
+- Intensive care/critical care: If evidence of respiratory, bulbar, or severe autonomic involvement.
+
+**Preventative and Lifestyle Measures:**
+- Discuss post-acute rehabilitation: Early mobilisation, ongoing physiotherapy and occupational therapy as soon as safe.
+- Education and counselling: Relapse is uncommon but possible; discuss expected prognosis and timeframes.
+
+References:
+[1]: [Guillain-Barre Syndrome](https://www.statpearls.com/point-of-care/22461 "motor and sensory axonal neuropathy (AMSAN) would...")

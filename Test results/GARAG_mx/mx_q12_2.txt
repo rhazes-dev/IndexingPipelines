@@ -1,0 +1,48 @@
+## Summary
+- 35F presents with pleuritic chest pain, dyspnoea, tachycardia (HR 112), tachypnoea (RR 22), hypoxaemia (SpO₂ 90%) after recent long-haul flight.
+- CXR clear; ECG shows sinus tachycardia; D-dimer elevated.
+- Clinical picture is highly suspicious for acute pulmonary embolism (PE) with possible mild hypoxaemia but no clinical shock at present.
+
+----
+
+## Problems and Assessments
+
+1. Acute Pulmonary Embolism (Possible)
+   - Highly likely given recent immobility (flight), pleuritic pain, breathlessness, tachycardia, hypoxaemia, and elevated D-dimer; CXR excludes other acute chest pathologies[1](https://www.statpearls.com/point-of-care/42576).
+
+2. Hypoxaemia
+   - SpO₂ 90% indicates clinically significant impairment of gas exchange, commonly seen in PE due to ventilation/perfusion mismatch[2](https://www.statpearls.com/point-of-care/42576).
+
+3. Anxiety (secondary)
+   - Patient reported as anxious, which may exacerbate cardiorespiratory distress.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- CT pulmonary angiogram (CTPA) to confirm diagnosis of PE; gold standard in haemodynamically stable patients as per guideline recommendations[3](https://www.statpearls.com/point-of-care/19382).
+- Consider bedside echocardiography if clinical instability develops; can assess for right ventricular strain suggesting massive/submassive PE[1](https://www.statpearls.com/point-of-care/42576).
+- Baseline bloods: FBC, U&E, LFTs, clotting, troponin, BNP; assess for renal function (prior to contrast), rule out cardiac injury, guide anticoagulation[3](https://www.statpearls.com/point-of-care/19382).
+
+**Treatment and Supportive Management:**
+- Commence supplemental oxygen to maintain SpO₂ >94% (unless contraindicated)[3](https://www.statpearls.com/point-of-care/19382).
+- Immediate therapeutic anticoagulation unless contraindicated (e.g., active bleeding, very high bleeding risk): low molecular weight heparin (e.g., enoxaparin SC), or unfractionated heparin IV if renal impairment/severe PE and potential for thrombolysis.
+- In the event of haemodynamic instability (e.g., hypotension, shock): initiate thrombolytic therapy as per protocol—immediate indication in massive PE with shock[3](https://www.statpearls.com/point-of-care/19382).
+- Monitor for signs of clinical deterioration (hypotension, increasing tachycardia, decreased consciousness).
+- Analgesia as required for pain control, using paracetamol (acetaminophen) or opioid if severe.
+
+**Referrals:**
+- Refer to respiratory or acute medical team for specialist input and ongoing monitoring/treatment.
+- Escalate to intensive care unit (ICU) if any signs of cardiorespiratory compromise or if advanced therapies (e.g., thrombolysis) are indicated.
+
+**Preventative and Lifestyle Measures:**
+- Once stable and on long-term anticoagulation, provide advice regarding risk factor modification: maintain mobility, avoidance of dehydration on future long travel.
+- Assess for underlying thrombophilia or malignancy if unprovoked or recurrent PE.
+
+----
+
+References:
+[1]: [Acute Pulmonary Embolism](https://www.statpearls.com/point-of-care/42576 "Acute Pulmonary Embolism Vyas Vrinda SUNY Upstate...")
+[2]: [Acute Pulmonary Embolism Part 2](https://www.statpearls.com/point-of-care/42576 "per 100,000 population annually; for DVT, the...")
+[3]: [Chest Pain](https://www.statpearls.com/point-of-care/19382 "of this paper; however, initial steps should...")

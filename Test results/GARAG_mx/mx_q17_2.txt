@@ -1,0 +1,47 @@
+## Summary
+- 57-year-old woman with fatigue, postural dizziness, salt craving, abdominal discomfort, marked hyperpigmentation, and hypotension (BP 85/50).
+- Laboratory findings: hyponatraemia (Na⁺ 122), hyperkalaemia (K⁺ 5.8), hypoglycaemia (glucose 3.1).
+- Early morning cortisol low; ACTH markedly elevated.
+- Clinical features and labs suggest primary adrenal insufficiency (Addison disease) with current acute decompensation (Addisonian crisis).
+----
+
+## Problems and Assessments
+
+1. Acute Adrenal Crisis (Addisonian Crisis)
+   - Life-threatening emergency with severe hypotension, hypoglycaemia, hyponatraemia, hyperkalaemia, fatigue, and confusion. Immediate management required to prevent morbidity and mortality [1](https://www.statpearls.com/point-of-care/17183).
+
+2. Primary Adrenal Insufficiency (Addison Disease)
+   - Ongoing autoimmune destruction of adrenal cortex causing deficiencies in both glucocorticoids (cortisol) and mineralocorticoids (aldosterone), leading to chronic symptoms and biochemical derangements [2](https://www.statpearls.com/point-of-care/17183).
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Plasma renin and aldosterone: Assess degree of mineralocorticoid deficiency and guide replacement therapy [2](https://www.statpearls.com/point-of-care/17183).
+- Urea and creatinine: Evaluate for dehydration/renal impairment due to hypovolaemia [1](https://www.statpearls.com/point-of-care/17183).
+- FBC, CRP, blood cultures: Assess for infection; acute crisis may be triggered by infection or other stressors [1](https://www.statpearls.com/point-of-care/17183).
+- Repeat cortisol and ACTH, if diagnosis uncertain after stabilisation [1](https://www.statpearls.com/point-of-care/17183).
+- ECG: Monitor for arrhythmias due to hyperkalaemia [1](https://www.statpearls.com/point-of-care/17183).
+
+**Treatment and Supportive Management:**
+- Immediate IV hydrocortisone (Solu-Cortef), 100 mg IV bolus, then 50–100 mg IV/IM every 6 hours. No delay for test results [1](https://www.statpearls.com/point-of-care/17183).
+- Large-volume IV 0.9% sodium chloride (normal saline) for hypovolaemia and hyponatraemia; add dextrose if hypoglycaemia persists [1](https://www.statpearls.com/point-of-care/17183).
+- Correct hyperkalaemia if severe or arrhythmias present (calcium gluconate, insulin/glucose, beta-agonist, as per ACLS protocol) [1](https://www.statpearls.com/point-of-care/17183).
+- Monitor blood glucose, electrolytes, fluid balance, and vital signs closely [1](https://www.statpearls.com/point-of-care/17183).
+- Mineralocorticoid (fludrocortisone) replacement can be initiated after patient stabilises and is taking orally, aiming to maintain sodium, potassium, and hydration; omitted in the acute phase due to sufficient mineralocorticoid effect from high-dose hydrocortisone [1](https://www.statpearls.com/point-of-care/17183).
+- Treat any identified infections or precipitating causes empirically with antibiotics while awaiting results if infection is suspected [1](https://www.statpearls.com/point-of-care/17183).
+- Long-term, initiate maintenance dosing of oral hydrocortisone (split dose aiming to mimic circadian rhythm) and lifelong fludrocortisone [2](https://www.statpearls.com/point-of-care/17183).
+
+**Referrals:**
+- Endocrinology for ongoing management, education regarding lifelong steroid replacement, sick-day rules, and assessment for autoimmune polyglandular syndromes [2](https://www.statpearls.com/point-of-care/17183).
+
+**Preventative and Lifestyle Measures:**
+- Education regarding lifelong need for steroid replacement, recognition of adrenal crisis, and the 'steroid card/bracelet' for emergency identification [2](https://www.statpearls.com/point-of-care/17183).
+- Sick-day rules: double or triple glucocorticoid dose during intercurrent illness or stress [2](https://www.statpearls.com/point-of-care/17183).
+- Advise salt supplementation if persistent salt craving or hyponatraemia despite appropriate replacement [2](https://www.statpearls.com/point-of-care/17183).
+- Screen for associated autoimmune conditions (thyroid, diabetes, B12 deficiency, etc.) as part of regular follow-up [2](https://www.statpearls.com/point-of-care/17183).
+----
+
+References:
+[1]: [Addison Disease](https://www.statpearls.com/point-of-care/17183 "Certain pharmacologic etiologies can lead to adrenal...")
+[2]: [Addison Disease Part 2](https://www.statpearls.com/point-of-care/17183 "of adrenal insufficiency depends on the rate...")

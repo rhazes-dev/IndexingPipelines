@@ -1,0 +1,48 @@
+## Summary
+- 24-year-old woman with 1 month of fatigue, pallor, and exertional dyspnoea.
+- History of heavy, prolonged menstrual bleeding (7 days per cycle).
+- Exam: conjunctival pallor.
+- Labs: Hb 7.5 g/dL, MCV 70 fL, ferritin very low.
+- Smear: hypochromic microcytic red cells.
+- Impression: severe iron deficiency anaemia secondary to menorrhagia.
+
+----
+
+## Problems and Assessments
+
+1. Iron Deficiency Anaemia Secondary to Menorrhagia
+   - Severe symptomatic anaemia (Hb 7.5), hypochromic microcytic indices, low ferritin, with heavy menstrual losses as clear etiology.
+2. Ongoing Heavy Menstrual Bleeding
+   - Major contributor to iron loss and anaemia recurrence; needs evaluation and management.
+3. Fatigue, Shortness of Breath, and Reduced Functional Capacity
+   - Direct manifestation of severe anaemia affecting quality of life and daily activities.
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Pelvic US and/or gynaecological assessment to evaluate the cause of heavy menstrual bleeding (e.g., structural lesions, fibroids, polyps, coagulopathy)[1](https://www.statpearls.com/point-of-care/17527).
+- Iron studies if not already complete: serum iron, transferrin saturation, total iron binding capacity (TIBC) to confirm and monitor iron deficiency[2](https://www.statpearls.com/point-of-care/25104).
+- CBC monitoring every 2-4 weeks during treatment to assess response[3](https://www.statpearls.com/point-of-care/17532).
+- Exclude additional causes of anaemia if clinical suspicion exists (e.g., screening for GI blood loss if menorrhagia not fully explanatory).
+
+**Treatment and Supportive Management:**
+- Oral iron therapy: initiate with ferrous sulfate 325 mg PO TID (or maximum tolerated dose) as first-line; titrate up to minimise GI side effects[2](https://www.statpearls.com/point-of-care/25104).
+    - Continue at least 2-3 months after normalisation of Hb to replenish iron stores[2](https://www.statpearls.com/point-of-care/25104).
+    - Parenteral iron (IV) if oral iron is not tolerated, absorption is impaired, or if rapid repletion is required[2](https://www.statpearls.com/point-of-care/25104).
+- Blood transfusion only if patient is haemodynamically unstable, has symptomatic severe anaemia unresponsive to or cannot tolerate iron, or cardiac decompensation; otherwise, avoid routine transfusion[2](https://www.statpearls.com/point-of-care/25104).
+- Address and manage the underlying cause of menorrhagia (see referral below).
+- Dietary advice: encourage iron-rich foods (red meat, leafy greens, legumes), vitamin C to enhance absorption, avoid tea/coffee with iron doses[3](https://www.statpearls.com/point-of-care/17532).
+
+**Referrals:**
+- Gynaecology to assess and manage menorrhagia (diagnosis, medical or procedural interventions to reduce menstrual losses)[1](https://www.statpearls.com/point-of-care/17527).
+- Consider haematology referral if unclear aetiology, poor response to iron replacement, or suspicion for non-gynaecological cause of anaemia[3](https://www.statpearls.com/point-of-care/17532).
+
+**Preventative and Lifestyle Measures:**
+- Educate on importance of treatment adherence and dietary iron intake[3](https://www.statpearls.com/point-of-care/17532).
+- Counsel regarding monitoring for recurrent symptoms and the need for regular follow-up in women of childbearing age[3](https://www.statpearls.com/point-of-care/17532).
+
+References:
+[1]: [Anemia](https://www.statpearls.com/point-of-care/17527 "involved in anemia are listed below: 1...")
+[2]: [Microcytic Hypochromic Anemia](https://www.statpearls.com/point-of-care/25104 "from git, particularly from gastric and duodenal...")
+[3]: [Chronic Anemia](https://www.statpearls.com/point-of-care/17532 "to eat a healthy and balanced diet...")

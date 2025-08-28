@@ -1,0 +1,47 @@
+## Summary
+- 34F with heat intolerance, weight loss, anxiety, amenorrhoea.
+- Fine tremor, lid lag, diffuse goitre on exam.
+- TSH suppressed, free T4 elevated.
+- Positive TPO and TRAb antibodies.
+- Clinical and biochemical features are consistent with Graves disease (autoimmune hyperthyroidism) with thyrotoxic symptoms including menstrual disturbance and neuropsychiatric signs [1](https://www.statpearls.com/point-of-care/30167).
+
+----
+
+## Problems and Assessments
+
+1. Graves Disease (Autoimmune Hyperthyroidism)
+   - Leading cause of thyrotoxicosis in young women; TSHR antibodies mediate excess hormone production and diffuse goitre. Presents with typical thyrotoxic symptoms (heat intolerance, weight loss, anxiety, amenorrhoea, tremor, lid lag), positive TPO and TRAb[1](https://www.statpearls.com/point-of-care/30167).
+2. Thyrotoxic State (With Target Organ Effects)
+   - Manifestations include weight loss, anxiety, fine tremor, amenorrhoea, risk of cardiac (arrhythmia, heart failure) and bone (osteoporosis) complications if untreated[1](https://www.statpearls.com/point-of-care/30167).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Thyroid Ultrasound: Assess for nodularity, exclude other pathology, and document gland size/vascularity. Justification: Excludes other causes of goitre, supports Graves diagnosis, informs treatment planning [1](https://www.statpearls.com/point-of-care/30167).
+- Baseline ECG: Screen for arrhythmias, particularly AF, prior to starting beta-blocker therapy if indicated [1](https://www.statpearls.com/point-of-care/30167).
+- Full Blood Count, Liver and Renal Profile: Baseline prior to anti-thyroid drug therapy due to risk of agranulocytosis and hepatitis [1](https://www.statpearls.com/point-of-care/30167).
+- Corrected Calcium & Bone Profile: Screen for thyrotoxic bone disease (osteoporosis risk) [1](https://www.statpearls.com/point-of-care/30167).
+
+**Treatment and Supportive Management:**
+- First-line: Anti-thyroid drugs—carbimazole (preferred UK) or methimazole (US), titration or block-replace regimen. Rationale: Restores euthyroidism, indicated for initial management of Graves disease [1](https://www.statpearls.com/point-of-care/30167).
+- Alternate (if intolerant or contraindicated): Propylthiouracil, especially if first trimester of pregnancy. Note higher risk of hepatitis [1](https://www.statpearls.com/point-of-care/30167).
+- Beta-blocker (e.g., propranolol): Symptomatic relief of tremor, anxiety, palpitations, and heat intolerance as a bridge to definitive control [1](https://www.statpearls.com/point-of-care/30167).
+- Radioactive iodine ablation: Second-line if relapse on medical therapy; not suitable in pregnancy/lactation. Requires euthyroidism prior to procedure and monitoring for hypothyroidism post-treatment [1](https://www.statpearls.com/point-of-care/30167).
+- Thyroidectomy: Consider if large goitre, compressive symptoms, poor drug tolerance, relapse, or patient choice. Requires pre-operative euthyroid state [1](https://www.statpearls.com/point-of-care/30167).
+- Monitor for agranulocytosis/hepatotoxicity: Advise patient to report sore throat, fever, or jaundice promptly during antithyroid drug therapy [1](https://www.statpearls.com/point-of-care/30167).
+- Regular TFTs: Monitor response to therapy (every 4–6 weeks initially) [1](https://www.statpearls.com/point-of-care/30167).
+
+**Referrals:**
+- Endocrinology: Specialist input for establishing management (anti-thyroid regimen/radioiodine/surgical referral), education, and follow-up for remission/relapse monitoring [1](https://www.statpearls.com/point-of-care/30167).
+- Ophthalmology: If signs of orbitopathy develop (pain, diplopia, vision disturbance), consider urgent referral [1](https://www.statpearls.com/point-of-care/30167).
+
+**Preventative and Lifestyle Measures:**
+- Smoking Cessation: To reduce risk and severity of Graves orbitopathy [1](https://www.statpearls.com/point-of-care/30167).
+- Advise on contraception: Avoid pregnancy until euthyroid and stable, as anti-thyroid drugs and radioactive iodine contraindicated in pregnancy [1](https://www.statpearls.com/point-of-care/30167).
+- Dietary guidance: Adequate calcium/vitamin D intake to mitigate osteoporosis risk during thyrotoxic phase [1](https://www.statpearls.com/point-of-care/30167).
+- Patient education: Signs/symptoms of thyroid storm and drug adverse effects [1](https://www.statpearls.com/point-of-care/30167).
+
+References:
+[1]: [Thyrotoxicosis](https://www.statpearls.com/point-of-care/30167 "dysfunction, osteoporosis, and, in severe cases, thyroid...")

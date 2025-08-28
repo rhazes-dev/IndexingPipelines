@@ -1,0 +1,53 @@
+## Summary
+- 50-year-old male with progressive dyspnea, dry cough, clubbing, and upper lobe crepitations.
+- History: Long-term occupational silica (sandblasting) exposure.
+- Imaging: Chest X-ray shows upper lobe fibrosis.
+- Findings suggest chronic silicosis with fibrotic interstitial lung disease.
+
+----
+
+## Problems and Assessments
+
+1. Silicosis with Upper Lobe Pulmonary Fibrosis
+   - Chronic silica exposure (sandblaster), classic for silicosis.
+   - Symptoms (breathlessness, dry cough), exam (clubbing, crepitations), and imaging (upper lobe fibrosis) are consistent with fibrotic interstitial lung disease due to silicosis.
+   - High risk for progressive massive fibrosis, respiratory failure, increased risk of mycobacterial infection [1](https://www.statpearls.com/point-of-care/29026).
+2. Ongoing and Past Occupational Exposure
+   - Continued silica exposure may worsen disease; must be stopped to prevent further progression [2](https://www.statpearls.com/point-of-care/29026).
+3. Complications of Interstitial Lung Disease (ILD)
+   - Includes respiratory insufficiency/failure, cor pulmonale, pulmonary hypertension, increased tuberculosis risk, malignancy [3](https://www.statpearls.com/point-of-care/28028).
+4. Functional Impairment and Quality of Life
+   - Breathlessness and reduced exercise tolerance; potential need for support, education, rehabilitation [3](https://www.statpearls.com/point-of-care/28028).
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- High-resolution CT chest (HRCT) to confirm interstitial lung disease pattern, assess fibrosis, and exclude other pathology (e.g., malignancy, infection) [4](https://www.statpearls.com/point-of-care/28028).
+- Baseline and serial pulmonary function tests (spirometry, lung volumes, DLCO) to evaluate severity and monitor progression [4](https://www.statpearls.com/point-of-care/28028).
+- Pulse oximetry at rest and on exertion to assess for hypoxemia [4](https://www.statpearls.com/point-of-care/28028).
+- Tuberculosis screening (IGRA or Tuberculin Skin Test, sputum for AFB if indicated), as silicosis is associated with increased TB risk [1](https://www.statpearls.com/point-of-care/29026).
+- Consider testing for other complications (EKG, echocardiogram if features of pulmonary hypertension/cor pulmonale).
+
+**Treatment and Supportive Management:**
+- Immediate removal from further silica exposure; this is the only proven intervention to halt disease progression [2](https://www.statpearls.com/point-of-care/29026).
+- Influenza and pneumococcal vaccination to reduce risk of respiratory infection [4](https://www.statpearls.com/point-of-care/28028).
+- Pulmonary rehabilitation to optimize function and quality of life [3](https://www.statpearls.com/point-of-care/28028).
+- Supplemental oxygen if resting or exertional hypoxemia (PaO2 <55 mmHg or O2 sat ≤88%) develops [4](https://www.statpearls.com/point-of-care/28028).
+- Smoking cessation if applicable; reduces overall pulmonary risk [3](https://www.statpearls.com/point-of-care/28028).
+- No specific pharmacotherapy for chronic silicosis; corticosteroids reserved for acute/progressive ILD of other etiologies, not established for chronic silicosis [2](https://www.statpearls.com/point-of-care/29026), [4](https://www.statpearls.com/point-of-care/28028).
+
+**Referrals:**
+- Pulmonologist/interstitial lung disease specialist clinic for diagnostic confirmation, ongoing management, and consideration of advanced therapies or clinical trials [3](https://www.statpearls.com/point-of-care/28028).
+- Consider early lung transplant referral for progressive/refractory cases [4](https://www.statpearls.com/point-of-care/28028).
+
+**Preventative and Lifestyle Measures:**
+- Educate about strict avoidance of silica and other hazardous inhalants [2](https://www.statpearls.com/point-of-care/29026).
+- Optimize vaccinations (annual influenza, up-to-date COVID-19, pneumococcal) [4](https://www.statpearls.com/point-of-care/28028).
+- Encourage regular activity as tolerated; participation in pulmonary rehab [3](https://www.statpearls.com/point-of-care/28028).
+
+References:
+[1]: [Silica-Induced Pneumoconiosis (Archived) ](https://www.statpearls.com/point-of-care/29026 "Complications of silicosis are represented by: Progressive...")
+[2]: [Silica-Induced Pneumoconiosis (Archived) Part 2](https://www.statpearls.com/point-of-care/29026 "nodules are firm, discrete, rounded lesions that...")
+[3]: [Interstitial Pulmonary Fibrosis](https://www.statpearls.com/point-of-care/28028 "Aspiration pneumonitis/pneumonia Malignancy Pulmonary edema Pneumocystis pneumonia...")
+[4]: [Interstitial Pulmonary Fibrosis Part 2](https://www.statpearls.com/point-of-care/28028 "hypersensitivity pneumonitis. Imaging studies are key in...")

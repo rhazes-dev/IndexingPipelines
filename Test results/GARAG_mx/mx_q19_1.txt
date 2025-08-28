@@ -1,0 +1,50 @@
+## Summary
+- 39-year-old woman with cold intolerance, weight gain, and amenorrhoea 6 months after a complicated post-partum haemorrhage.
+- Biochemistry: low TSH, low T4, mildly raised prolactin.
+- Clinical context, history and labs suggest Sheehan syndrome (postpartum hypopituitarism).
+
+----
+
+## Problems and Assessments
+
+1. Sheehan Syndrome (Postpartum hypopituitarism)
+   - Secondary to pituitary infarction/necrosis caused by severe post-partum haemorrhage, presenting with multiple anterior pituitary hormone deficiencies (secondary hypothyroidism: low TSH/T4, hypogonadism: amenorrhoea, and mild hyperprolactinemia due to loss of dopaminergic inhibition)[1](https://www.statpearls.com/point-of-care/28964).
+
+2. Secondary Hypothyroidism
+   - Manifested as low TSH and T4, with symptoms of cold intolerance and weight gain[2](https://www.statpearls.com/point-of-care/28964).
+
+3. Hypogonadotropic Hypogonadism
+   - Amenorrhoea likely due to deficiency of pituitary gonadotropins; may be associated with decreased libido and other hypoestrogenic symptoms[1](https://www.statpearls.com/point-of-care/28964).
+
+4. (Possible) Other Anterior Pituitary Hormone Deficiencies
+   - Risk of concomitant deficiencies (ACTH-cortisol axis, growth hormone, others) not yet biochemically assessed; clinical features may overlap[1](https://www.statpearls.com/point-of-care/28964).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Measure serum cortisol and ACTH to assess for secondary adrenal insufficiency, as deficiency can be life-threatening and must be identified before initiating thyroid replacement[2](https://www.statpearls.com/point-of-care/28964).
+- Additional pituitary hormone profile: LH, FSH, estradiol, IGF-1 (for GH axis), and repeat prolactin to assess full pituitary function; aids in guiding definitive hormone replacement[2](https://www.statpearls.com/point-of-care/28964).
+- Electrolytes (especially sodium), fasting glucose, full blood count to evaluate for complications of hypopituitarism (hyponatremia, hypoglycemia, anemia)[1](https://www.statpearls.com/point-of-care/28964).
+- MRI pituitary (contrast-enhanced): confirm empty or partially empty sella, exclude other pituitary pathology[2](https://www.statpearls.com/point-of-care/28964).
+
+**Treatment and Supportive Management:**
+- Initiate hydrocortisone (or prednisolone) replacement if secondary adrenal insufficiency is confirmed or strongly suspected—must be started before any thyroid hormone therapy[2](https://www.statpearls.com/point-of-care/28964).
+- Start levothyroxine (levothyroxine sodium), titrate based on clinical response and free T4 if secondary hypothyroidism is confirmed (do not rely on TSH as a marker of replacement adequacy)[2](https://www.statpearls.com/point-of-care/28964).
+- Oestrogen and progesterone replacement (if uterus present) for hypogonadism/amenorrhoea to prevent premature menopausal complications, after risk/benefit discussion (individualise based on preferences and contraindications)[2](https://www.statpearls.com/point-of-care/28964).
+- Consider growth hormone replacement if severe symptoms or confirmed GH deficiency, under specialist guidance[2](https://www.statpearls.com/point-of-care/28964).
+- Monitor and educate about the need for lifelong hormone therapy, sick day rules (increase glucocorticoid dose during illness), and recognition of adrenal crisis[2](https://www.statpearls.com/point-of-care/28964).
+
+**Referrals:**
+- Endocrinology for assessment, confirmation of diagnosis, and guidance on ongoing endocrine replacement and monitoring[2](https://www.statpearls.com/point-of-care/28964).
+
+**Preventative and Lifestyle Measures:**
+- Provide written information on signs of adrenal insufficiency, sick day management with steroids, and need for medical alert identification[2](https://www.statpearls.com/point-of-care/28964).
+- Encourage regular follow-up for review of hormone replacement, bone health surveillance, and cardiovascular risk assessment[2](https://www.statpearls.com/point-of-care/28964).
+
+----
+
+References:
+[1]: [Sheehan Syndrome](https://www.statpearls.com/point-of-care/28964 "Sheehan Syndrome Schury Mark P. McLaren Oakland...")
+[2]: [Sheehan Syndrome Part 2](https://www.statpearls.com/point-of-care/28964 "along with a history and physical suggestive...")

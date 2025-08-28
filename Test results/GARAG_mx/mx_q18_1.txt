@@ -1,0 +1,52 @@
+## Summary
+- 68-year-old woman with longstanding, poorly controlled type 2 diabetes.
+- Presents with painless jaundice, significant weight loss, and a palpable, non-tender gallbladder.
+- Liver function tests (LFTs) show a cholestatic pattern.
+- Imaging (CT abdomen) pending.
+- Clinical scenario suggests a malignant obstructive process at the distal common bile duct, likely a periampullary malignancy (such as pancreatic head carcinoma, cholangiocarcinoma, or ampullary carcinoma).
+
+----
+
+## Problems and Assessments
+
+1. Painless Obstructive Jaundice (Possible Periampullary Malignancy)
+   - Progressive, painless jaundice, weight loss, and palpable gallbladder strongly suggest malignant biliary obstruction, most commonly due to tumors of the pancreatic head, ampulla of Vater, or distal bile duct. Her age and comorbidity increase the risk, with clinical findings consistent with periampullary carcinoma[1](https://www.statpearls.com/point-of-care/17482).
+
+2. Biliary Obstruction/Cholestasis
+   - Laboratory evidence of cholestatic pattern; clinical risk of cholangitis, hepatic dysfunction, and pruritus.
+
+3. Poorly Controlled Type 2 Diabetes Mellitus
+   - Increased perioperative risks and implications for wound healing, infection, and postoperative glycaemic management.
+
+4. Malnutrition/Rapid Weight Loss
+   - Suggests advanced disease and increases risk of poor surgical outcomes and complications.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Complete CT chest, abdomen, and pelvis to stage disease, assess resectability, and exclude metastatic spread[2](https://www.statpearls.com/point-of-care/17482).
+- Endoscopic ultrasound (EUS) and/or ERCP with fine-needle aspiration cytology (FNAC) for tissue diagnosis[2](https://www.statpearls.com/point-of-care/17482).
+- Laboratory assessment: CA 19-9, CEA, additional baseline bloods (CBC, PT/INR, albumin, renal function) to inform surgical candidacy and nutritional status.
+
+**Treatment and Supportive Management:**
+- If resectable/operable: plan for surgical resection (pancreaticoduodenectomy/Whipple procedure) as this is the only curative modality for periampullary tumors[2](https://www.statpearls.com/point-of-care/17482).
+- If locally advanced/unresectable/metastatic: initiate palliative biliary drainage (ERCP-guided stent) to relieve obstruction and symptoms[2](https://www.statpearls.com/point-of-care/17482).
+- Consider systemic chemotherapy for advanced disease per pancreaticobiliary and/or colorectal cancer regimens; radiotherapy may be used in selected cases with high recurrence risk post-surgery, though evidence is limited[2](https://www.statpearls.com/point-of-care/17482).
+- Manage pruritus with cholestyramine or similar agents; provide antiemetics and liver-supportive care as needed.
+- Optimise glycaemic control and insulin regimen in collaboration with endocrinology.
+
+**Referrals:**
+- Refer to hepatobiliary surgery for assessment of operability and surgical planning[2](https://www.statpearls.com/point-of-care/17482).
+- Oncology referral for perioperative and/or adjuvant therapy planning, particularly if high-risk or advanced disease[2](https://www.statpearls.com/point-of-care/17482).
+- Consider gastroenterology intervention for biliary drainage and nutritional support input, especially if oral intake is poor or obstructive symptoms worsen[2](https://www.statpearls.com/point-of-care/17482).
+
+**Preventative and Lifestyle Measures:**
+- Dietary consultation for high-protein, high-calorie intake to address malnutrition and support recovery.
+- Advise patient and caregivers on avoiding hepatotoxic medications and substances while jaundice persists.
+- Encourage physical activity as tolerated and ongoing diabetes self-management.
+
+References:
+[1]: [Periampullary Tumors](https://www.statpearls.com/point-of-care/17482 "Periampullary Tumors Paluri Ravi K. University of...")
+[2]: [Periampullary Tumors Part 2](https://www.statpearls.com/point-of-care/17482 "jaundice due to distal biliary ductal blockage,...")

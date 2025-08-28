@@ -1,0 +1,55 @@
+## Summary
+- 54-year-old man with sudden-onset, severe occipital "worst-ever" headache while lifting weights.
+- Associated symptoms: vomiting, photophobia, pain worsened by light, neck stiffness, but fully alert.
+- BP 165/90 mmHg.
+- CT head at 6h unremarkable; LP shows xanthochromia.
+- Classic features of subarachnoid hemorrhage (SAH) with evidence from CSF.
+
+----
+
+## Problems and Assessments
+
+1. Subarachnoid Hemorrhage (SAH)
+   - Abrupt, severe "thunderclap" headache, neck stiffness, photophobia, vomiting, and xanthochromia on LP with a normal head CT at 6h, consistent with SAH [1](https://www.statpearls.com/point-of-care/30123).
+
+2. Hypertension (Possible)
+   - BP elevated at 165/90 mmHg, likely stress or pain-induced, but needs further monitoring to rule out hypertensive emergency, which could worsen SAH outcomes.
+
+3. Risk of Rebleeding/Delayed Ischemic Complications
+   - SAH carries high risk of rebleed and vasospasm leading to delayed cerebral ischemia, particularly in the early phase post-bleed [1](https://www.statpearls.com/point-of-care/30123).
+
+4. Raised Intracranial Pressure or Other Complications (Possible)
+   - SAH can cause increased ICP and hydrocephalus; need for vigilance and neuro-monitoring.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Cerebral vascular imaging (CT angiography [CTA] or digital subtraction angiography): Identify aneurysmal or vascular source for SAH; necessary for planning definitive intervention [1](https://www.statpearls.com/point-of-care/30123).
+- ECG and cardiac monitoring: Screen for arrhythmias, QT prolongation, or demand ischemia secondary to SAH [1](https://www.statpearls.com/point-of-care/30123).
+- Repeat BP monitoring: Assess for persistent hypertension, which increases risk of rebleeding [1](https://www.statpearls.com/point-of-care/30123).
+- Laboratory studies: CBC, clotting profile, renal function, electrolytes, and troponin to evaluate for complications/organ involvement [1](https://www.statpearls.com/point-of-care/30123).
+
+**Treatment and Supportive Management:**
+- Admit to a high-dependency or neurocritical care unit for close monitoring [1](https://www.statpearls.com/point-of-care/30123).
+- Bed rest with head of bed elevated 30° for optimal cerebral venous drainage and to help reduce ICP [1](https://www.statpearls.com/point-of-care/30123).
+- Nimodipine orally (60 mg q4h): Prophylaxis against cerebral vasospasm to reduce risk of delayed cerebral ischemia [1](https://www.statpearls.com/point-of-care/30123).
+- Blood pressure control: Lower SBP <140 mmHg with titratable IV antihypertensives (e.g., labetalol, nicardipine) while avoiding hypotension; prevents rebleeding [1](https://www.statpearls.com/point-of-care/30123).
+- Analgesia (avoid NSAIDs): Paracetamol (acetaminophen) or codeine for pain; NSAIDs contraindicated due to bleeding risk [1](https://www.statpearls.com/point-of-care/30123).
+- Antiemetics as needed for nausea/vomiting (e.g., ondansetron) [1](https://www.statpearls.com/point-of-care/30123).
+- DVT prophylaxis (mechanical > pharmacological initially): Sequential compression devices; pharmacological VTE prophylaxis only after securing aneurysm [1](https://www.statpearls.com/point-of-care/30123).
+- IV fluids: Maintain euvolemia; avoid hypo/hypervolemia as both can worsen cerebral perfusion/vasospasm [1](https://www.statpearls.com/point-of-care/30123).
+
+**Referrals:**
+- Immediate neurosurgical or interventional neuroradiology consult: For consideration of aneurysm securing (surgical clipping or endovascular coiling) [1](https://www.statpearls.com/point-of-care/30123).
+- Neurology for ongoing assessment and management [1](https://www.statpearls.com/point-of-care/30123).
+
+**Preventative and Lifestyle Measures:**
+- Smoking cessation counselling if relevant (smoking is a major aneurysm/SAH risk factor) [1](https://www.statpearls.com/point-of-care/30123).
+- Advice to avoid heavy lifting and other activities that increase intracranial pressure pending vascular intervention [1](https://www.statpearls.com/point-of-care/30123).
+
+----
+
+References:
+[1]: [Thunderclap Headache](https://www.statpearls.com/point-of-care/30123 "Thunderclap Headache Sekhon Sandeep Delhi University/Maulana Azad...")

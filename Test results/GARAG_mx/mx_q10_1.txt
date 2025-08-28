@@ -1,0 +1,52 @@
+## Summary
+- 22-year-old man with type 1 diabetes, presenting with abdominal pain, vomiting, confusion, tachypnoea, hypotension (90/60 mmHg), and dehydration.
+- VBG: severe metabolic acidosis (pH 7.10, bicarbonate 10 mmol/L), marked hyperglycaemia (24 mmol/L), and strongly positive ketones.
+- Highly suggestive of severe diabetic ketoacidosis (DKA) with associated hypovolaemic shock.
+----
+
+## Problems and Assessments
+
+1. Diabetic ketoacidosis (DKA)
+   - Confirmed by hyperglycaemia, severe metabolic acidosis, markedly raised ketones, and type 1 diabetes background. High risk for complications including cerebral oedema, arrhythmia, and AKI [1](https://www.statpearls.com/point-of-care/23877).
+2. Hypovolaemic shock secondary to DKA
+   - Clinical features of hypotension and dehydration indicate significant volume depletion requiring urgent resuscitation [1](https://www.statpearls.com/point-of-care/23877).
+3. Electrolyte disturbances (especially possible potassium imbalance)
+   - Potassium depletion is common due to transcellular shifts and renal/GI losses. Risk of rapid hypokalaemia with insulin therapy; actual serum potassium value is urgently required [2](https://www.statpearls.com/point-of-care/23877).
+4. Confusion (encephalopathy)
+   - Likely multifactorial: DKA, hypoperfusion, possible cerebral oedema.
+5. Risk of complications (infection, AKI, other organ dysfunction)
+   - Critically ill state; consider precipitating and complicating factors [1](https://www.statpearls.com/point-of-care/23877).
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Urgent monitoring of serum electrolytes (K⁺, Na⁺, Cl⁻), renal function, urea, creatinine, calcium, phosphate, and magnesium: To guide safe insulin therapy, identify renal impairment, and manage potential complications [2](https://www.statpearls.com/point-of-care/23877).
+- Venous and/or arterial blood gas: For ongoing monitoring of pH, bicarbonate, and anion gap to assess response to therapy [2](https://www.statpearls.com/point-of-care/23877).
+- Serum osmolality and lactate: Differentiate causes of acidosis, assess overall severity, and detect lactic acidosis as contributor [3](https://www.statpearls.com/articlelibrary/nursingarticle/24002).
+- ECG monitoring: To screen for electrolyte-induced arrhythmias, especially as potassium and pH shift rapidly during treatment [2](https://www.statpearls.com/point-of-care/23877).
+- Blood cultures, CXR, urinalysis: Consider if infective precipitant suspected [1](https://www.statpearls.com/point-of-care/23877).
+
+**Treatment and Supportive Management:**
+- Immediate IV fluid resuscitation: Start with isotonic saline to restore circulating volume; adjust rate based on haemodynamic response and comorbidities [2](https://www.statpearls.com/point-of-care/23877).
+- Potassium replacement protocol: Measure serum potassium before insulin. If <3.3 mmol/L, delay insulin and give K⁺ replacement first; 3.3–5.0 mmol/L, add K⁺ to IV fluids; >5.0 mmol/L, withhold K⁺ but monitor closely. Aim to maintain K⁺ 4–5 mmol/L [2](https://www.statpearls.com/point-of-care/23877).
+- Start continuous IV insulin infusion after electrolytes checked and potassium ≥3.3 mmol/L: Titrate to gradually lower glucose and resolve acidosis. Continue insulin until ketosis and acidosis resolve, not just until glucose normalizes. Target reduction in glucose by 3–5 mmol/L/h [2](https://www.statpearls.com/point-of-care/23877).
+- When plasma glucose falls to 14 mmol/L (250 mg/dL), add dextrose to IV fluids to avoid hypoglycaemia while continuing insulin [2](https://www.statpearls.com/point-of-care/23877).
+- Monitor and correct other electrolytes (phosphate, magnesium, calcium) as needed [2](https://www.statpearls.com/point-of-care/23877).
+- Bicarbonate therapy is generally not indicated unless pH <6.9, as it may worsen outcomes and is associated with adverse effects [2](https://www.statpearls.com/point-of-care/23877).
+- Strict fluid balance and regular assessment of vital signs, neurological status, and urine output [1](https://www.statpearls.com/point-of-care/23877).
+- Treat precipitating cause if identified (e.g., infection) with appropriate therapy [1](https://www.statpearls.com/point-of-care/23877).
+
+**Referrals:**
+- Urgent referral to critical care/high-dependency unit if haemodynamic instability, altered consciousness, or failure to improve [1](https://www.statpearls.com/point-of-care/23877).
+- Early involvement of endocrinology/diabetes team for ongoing management and education [1](https://www.statpearls.com/point-of-care/23877).
+
+**Preventative and Lifestyle Measures:**
+- Once acute episode resolves, provide diabetes self-management education and psychosocial support to reduce risk of recurrence [1](https://www.statpearls.com/point-of-care/23877).
+- Emphasize importance of sick day rules, frequent glucose/ketone monitoring, and prompt medical consultation for future illness [1](https://www.statpearls.com/point-of-care/23877).
+----
+
+References:
+[1]: [Ketoacidosis](https://www.statpearls.com/point-of-care/23877 "Ketoacidosis Ghimire Pranita Dhamoon Amit S. SUNY...")
+[2]: [Ketoacidosis Part 2](https://www.statpearls.com/point-of-care/23877 "This fluid has to be supplemented with...")
+[3]: [Lactic Acidosis (Nursing)](https://www.statpearls.com/articlelibrary/nursingarticle/24002 "Lactic Acidosis (Nursing) Foucher Chris D. McLaren...")

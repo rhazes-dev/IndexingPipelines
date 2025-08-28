@@ -1,0 +1,54 @@
+## Summary
+- 57-year-old woman with fatigue, postural dizziness, hyperpigmentation, salt craving, and abdominal discomfort.
+- BP 85/50 mmHg, Na⁺ 122 mmol/L (hyponatraemia), K⁺ 5.8 mmol/L (hyperkalaemia), glucose 3.1 mmol/L (hypoglycaemia).
+- Early morning cortisol low; ACTH markedly elevated.
+- Presentation and labs are consistent with primary adrenal insufficiency (Addison disease), currently in adrenal crisis.
+
+----
+
+## Problems and Assessments
+
+1. Adrenal crisis (primary adrenal insufficiency/Addison disease)
+   - Life-threatening acute presentation of Addison disease manifested by hypotension, severe electrolyte disturbances (hyponatraemia, hyperkalaemia), hypoglycaemia, and shock risk. Prompt recognition and management are critical[1](https://www.statpearls.com/point-of-care/17183).
+
+2. Chronic hormone deficiency (Addison disease)
+   - Lifelong glucocorticoid and mineralocorticoid deficiency due to autoimmune adrenal cortical destruction; requires ongoing hormone replacement to prevent further crises and morbidity[2](https://www.statpearls.com/point-of-care/17183).
+
+3. Electrolyte derangements (hyponatraemia, hyperkalaemia)
+   - Consequence of mineralocorticoid deficiency causing ongoing risk for cardiac and neurological complications[3](https://www.statpearls.com/point-of-care/17242).
+
+4. Hypoglycaemia
+   - Due to cortisol deficiency impairing gluconeogenesis and glucose mobilisation[3](https://www.statpearls.com/point-of-care/17242).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Morning serum cortisol and ACTH (already performed; pattern confirms primary insufficiency)[2](https://www.statpearls.com/point-of-care/17183).
+- Renin and aldosterone levels: To confirm mineralocorticoid deficiency and establish chronic management needs[2](https://www.statpearls.com/point-of-care/17183).
+- Screen for other autoimmune endocrinopathies (TSH, anti-thyroid antibodies, B12, fasting glucose): Identify possible polyglandular autoimmune syndrome[2](https://www.statpearls.com/point-of-care/17183).
+- ECG: Assess for hyperkalaemia-related cardiac changes[3](https://www.statpearls.com/point-of-care/17242).
+
+**Treatment and Supportive Management:**
+- Immediate IV fluid resuscitation: 0.9% saline bolus to reverse hypovolaemia and correct hyponatraemia[1](https://www.statpearls.com/point-of-care/17183).
+- IV hydrocortisone (initial 100 mg bolus, then 50-100 mg IV q6h or 200 mg/24h continuous infusion): Glucocorticoid replacement is critical in acute crisis; switch to oral regimen as soon as stable[3](https://www.statpearls.com/point-of-care/17242).
+- Glucose correction: IV dextrose as needed for hypoglycaemia[3](https://www.statpearls.com/point-of-care/17242).
+- Correct hyperkalaemia: IV fluids and steroid treatment will lower potassium; monitor serial potassium and ECG[3](https://www.statpearls.com/point-of-care/17242).
+- Mineralocorticoid replacement (fludrocortisone acetate) if hypotension and/or hyperkalaemia persist after initial stabilisation and when on oral steroids[1](https://www.statpearls.com/point-of-care/17183).
+- Monitor and treat underlying precipitating illness/infection if present[1](https://www.statpearls.com/point-of-care/17183).
+
+**Referrals:**
+- Endocrinology: For ongoing management, assessment for other autoimmune conditions, and education regarding chronic and emergency management[2](https://www.statpearls.com/point-of-care/17183).
+
+**Preventative and Lifestyle Measures:**
+- Patient education: Importance of lifelong steroid therapy, warning signs of adrenal crisis, and need for increased steroid ‘stress dosing’ during illness/surgery/trauma[3](https://www.statpearls.com/point-of-care/17242).
+- Medical alert identification/adrenal insufficiency card: Ensure rapid recognition and treatment in emergencies[3](https://www.statpearls.com/point-of-care/17242).
+- Routine immunisations and infection preventive strategies (as steroid therapy increases infection risk)[3](https://www.statpearls.com/point-of-care/17242).
+
+----
+
+References:
+[1]: [Addison Disease](https://www.statpearls.com/point-of-care/17183 "Certain pharmacologic etiologies can lead to adrenal...")
+[2]: [Addison Disease Part 2](https://www.statpearls.com/point-of-care/17183 "of adrenal insufficiency depends on the rate...")
+[3]: [Physiology, Adrenocorticotropic Hormone (ACTH)](https://www.statpearls.com/point-of-care/17242 "in ACTH. Pituitary insufficiency is usually the...")

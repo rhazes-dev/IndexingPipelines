@@ -1,0 +1,47 @@
+## Summary
+- 34-year-old woman with symptoms and signs of thyrotoxicosis: heat intolerance, weight loss, anxiety, amenorrhoea.
+- Examination: fine tremor, lid lag, diffuse goitre.
+- Labs: suppressed TSH, elevated free T4, positive TPO and TRAb antibodies.
+- Clinical picture most consistent with Graves disease causing hyperthyroidism.
+
+----
+
+## Problems and Assessments
+
+1. Graves Disease (Autoimmune Hyperthyroidism)
+   - Most likely diagnosis given young age, gender, clinical features, suppressed TSH, raised free T4, and positive TRAb antibodies. Graves is the most common cause of hyperthyroidism in this demographic and typically presents with diffuse goitre and ophthalmic signs (e.g., lid lag)[1](https://www.statpearls.com/point-of-care/30167).
+   
+2. Thyrotoxic Symptoms (Anxiety, Heat Intolerance, Weight Loss, Amenorrhoea)
+   - Result of hypermetabolic state induced by excess thyroid hormone. Amenorrhoea is a common consequence of hyperthyroidism in reproductive-age women[1](https://www.statpearls.com/point-of-care/30167).
+   
+3. Risk of Complications
+   - Untreated Graves/hyperthyroidism can lead to cardiovascular complications (e.g., atrial fibrillation, heart failure), bone loss, and (rarely) thyroid storm[1](https://www.statpearls.com/point-of-care/30167).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Thyroid function tests (TFTs): Repeat TSH and free T4 in 4–6 weeks to monitor treatment response and titrate therapy[1](https://www.statpearls.com/point-of-care/30167).
+- Baseline full blood count and liver function prior to antithyroid drug initiation (to monitor for rare but serious side effects).
+- Consider ECG if palpitations, tachycardia, or underlying cardiac disease (to assess for arrhythmia or conduction disturbance)[1](https://www.statpearls.com/point-of-care/30167).
+- Consider thyroid ultrasound if nodularity suspected or unclear diagnosis.
+
+**Treatment and Supportive Management:**
+- First-line: Antithyroid drug (ATD) therapy with carbimazole (or methimazole—USA). Propylthiouracil (PTU) is reserved for the first trimester of pregnancy and thyroid storm due to risk of hepatotoxicity[1](https://www.statpearls.com/point-of-care/30167). Titrate dose to normalize TFTs.
+- Beta-blocker (e.g., propranolol) for symptomatic control of tremor, anxiety, palpitations, and heat intolerance unless contraindicated[1](https://www.statpearls.com/point-of-care/30167).
+- Discuss definitive treatment options: radioactive iodine ablation or total thyroidectomy, particularly in those with large goitre, relapse, poor response or intolerance to medical therapy, pregnancy planning, or preference[1](https://www.statpearls.com/point-of-care/30167).
+- Monitor for complications of hyperthyroidism (arrhythmia, bone loss).
+- Advise to avoid excess dietary iodine (e.g., kelp/seaweed) as this can worsen hyperthyroidism.
+- Advise on signs of agranulocytosis (sore throat, fever) and hepatotoxicity—urgent medical attention if suspected when on antithyroid drugs.
+
+**Referrals:**
+- Endocrinology referral for guidance on medical management, suitability for definitive therapy, and follow-up, especially if considering radioactive iodine or surgery[1](https://www.statpearls.com/point-of-care/30167).
+- Ophthalmology if eye symptoms emerge or worsen (risk of Graves orbitopathy)[1](https://www.statpearls.com/point-of-care/30167).
+
+**Preventative and Lifestyle Measures:**
+- Smoking cessation advised as smoking increases the risk and severity of Graves ophthalmopathy[1](https://www.statpearls.com/point-of-care/30167).
+- Encourage regular weight-bearing exercise to minimize bone loss associated with hyperthyroidism[1](https://www.statpearls.com/point-of-care/30167).
+
+References:
+[1]: [Thyrotoxicosis](https://www.statpearls.com/point-of-care/30167 "dysfunction, osteoporosis, and, in severe cases, thyroid...")

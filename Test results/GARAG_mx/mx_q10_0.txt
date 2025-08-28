@@ -1,0 +1,62 @@
+## Summary
+- 22-year-old male with type 1 diabetes presenting with abdominal pain, vomiting, confusion.
+- Examination: tachypnoea, hypotension (90/60 mmHg), dry (dehydrated).
+- VBG: pH 7.10 (acidosis), glucose 24 mmol/L (hyperglycaemia), ketones ++++, HCO₃ 10 mmol/L (metabolic acidosis).
+- High suspicion for severe diabetic ketoacidosis (DKA) with hypovolaemic shock.
+
+----
+
+## Problems and Assessments
+
+1. Diabetic Ketoacidosis (DKA) with severe metabolic acidosis
+   - Life-threatening complication of absolute insulin deficiency leading to increased ketone production, high anion gap acidosis, marked hyperglycaemia, and clinical decompensation (confusion, tachypnoea, hypotension) [1](https://www.statpearls.com/point-of-care/23877), [2](https://www.statpearls.com/point-of-care/26827).
+2. Hypovolaemic shock / Severe dehydration
+   - Due to profound fluid loss from osmotic diuresis and vomiting; evidenced by hypotension and clinical dryness [2](https://www.statpearls.com/point-of-care/26827).
+3. Electrolyte disturbances (possible hypokalaemia and others)
+   - Potassium may be depleted despite a possible initial "normal" or elevated reading, with risk of rapid drop on insulin therapy initiation. Phosphate and magnesium may also fall during treatment [2](https://www.statpearls.com/point-of-care/26827).
+4. Precipitating/provoking factor (Possible)
+   - Acute illness or omission/malfunction of insulin likely; identifying and treating any underlying cause is essential [1](https://www.statpearls.com/point-of-care/23877).
+5. Risk of complications: Cerebral oedema, acute kidney injury, arrhythmia
+   - Rapid correction, shifts in osmolality or potassium, and severe acidosis can all lead to significant morbidity or mortality [2](https://www.statpearls.com/point-of-care/26827).
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Blood gas and serial VBG/ABG: Monitor acid-base status and resolution of acidosis [2](https://www.statpearls.com/point-of-care/26827).
+- Bedside and laboratory capillary glucose: Ongoing monitoring for adequate control and to assess for need to add dextrose [1](https://www.statpearls.com/point-of-care/23877).
+- Renal profile and serum electrolytes (Na⁺, K⁺, Cl⁻, urea, creatinine), phosphate, and magnesium: Monitor for depletion as well as for acute kidney injury risk [2](https://www.statpearls.com/point-of-care/26827).
+- Full blood count, CRP, cultures (urine, blood), chest X-ray if respiratory symptoms: Evaluate for infection or other precipitants [1](https://www.statpearls.com/point-of-care/23877).
+- ECG monitoring: For detection of arrhythmias, especially if potassium is abnormal [2](https://www.statpearls.com/point-of-care/26827).
+- Consider amylase/lipase if abdominal pain is prominent: To exclude acute pancreatitis [3](https://www.statpearls.com/point-of-care/23877).
+
+**Treatment and Supportive Management:**
+- Immediate high-dependency or ICU-level care and close monitoring [2](https://www.statpearls.com/point-of-care/26827).
+- IV fluid resuscitation (0.9% sodium chloride): Rapid but cautious volume replacement to restore perfusion and correct dehydration—first priority. Initial bolus (e.g., 1 L over 15-30 min, titrate to response) [1](https://www.statpearls.com/point-of-care/23877), [2](https://www.statpearls.com/point-of-care/26827).
+- Fixed-rate intravenous insulin infusion (FRIII), ONLY after checking potassium:
+    - Start typically at 0.1 units/kg/hr after initial fluids provided potassium is ≥3.3 mmol/L [1](https://www.statpearls.com/point-of-care/23877).
+    - Hold insulin if K⁺ <3.3 mmol/L—replace potassium first to avoid arrhythmia [1](https://www.statpearls.com/point-of-care/23877).
+- Potassium replacement: Guided by serum level; add to IV fluids if K⁺ <5.0 mmol/L and ensure close monitoring [1](https://www.statpearls.com/point-of-care/23877), [2](https://www.statpearls.com/point-of-care/26827).
+- Glucose-containing fluids (5% dextrose in 0.45% or 0.9% NaCl) once plasma glucose <14 mmol/L (250 mg/dL): Prevent hypoglycaemia and allow continued insulin to resolve ketosis [1](https://www.statpearls.com/point-of-care/23877).
+- Address and treat any identified precipitant (e.g., antibiotics for proven infection) [1](https://www.statpearls.com/point-of-care/23877).
+- Phosphate and magnesium replacement only if significantly depleted or symptomatic—routine replacement not recommended unless severe [2](https://www.statpearls.com/point-of-care/26827).
+- Avoid bicarbonate therapy unless pH is <6.9 and refractory/severe compromise, as evidence shows no benefit at higher pH and risk of complications [1](https://www.statpearls.com/point-of-care/23877).
+- Hourly clinical assessment: GCS, vital signs, capillary glucose, fluid balance.
+- Strict input/output monitoring: Prevent fluid overload and identify complications.
+- Consider mannitol/hypertonic saline if signs of cerebral oedema develop [2](https://www.statpearls.com/point-of-care/26827).
+
+**Referrals:**
+- Urgent endocrinology/diabetes specialist involvement: For ongoing DKA management and to guide insulin transition [1](https://www.statpearls.com/point-of-care/23877).
+- High-dependency or ICU referral: Indicated by shock, severe acidosis, or altered mental status [2](https://www.statpearls.com/point-of-care/26827).
+
+**Preventative and Lifestyle Measures:**
+- Structured diabetes self-management education before discharge (DSME): Improves understanding, insulin management, sick-day guidance, and promotes adherence [3](https://www.statpearls.com/point-of-care/23877).
+- Individualised follow-up plan for diabetes (glucose monitoring, dietary advice, regular review with diabetes team) [3](https://www.statpearls.com/point-of-care/23877).
+- Continuous evaluation for psychological/social support needs [3](https://www.statpearls.com/point-of-care/23877).
+
+----
+
+References:
+[1]: [Ketoacidosis](https://www.statpearls.com/point-of-care/23877 "Ketoacidosis Ghimire Pranita Dhamoon Amit S. SUNY...")
+[2]: [Pediatric Diabetic Ketoacidosis](https://www.statpearls.com/point-of-care/26827 "at presentation due to the shift of...")
+[3]: [Ketoacidosis Part 2](https://www.statpearls.com/point-of-care/23877 "can exceed 1200 mg/dL (66.6 mmol/L). The...")

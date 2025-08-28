@@ -1,0 +1,55 @@
+## Summary
+- 40-year-old man with 3 days of progressive symmetric bilateral leg weakness.
+- Preceded by diarrhoea 2 weeks ago (possible Campylobacter jejuni).
+- Examination: areflexia, reduced tone, preserved sensation, power 3/5 in both legs, plantars downgoing.
+- No mention of respiratory involvement, bulbar involvement, or autonomic instability yet.
+- Features highly suggestive of Guillain-Barré syndrome (GBS), likely acute inflammatory demyelinating polyneuropathy (AIDP).
+----
+
+## Problems and Assessments
+
+1. Guillain-Barré syndrome (probable AIDP subtype)
+   - Rapidly progressive, symmetric, ascending weakness with areflexia, preserved sensation, preceded by GI illness fits classical GBS; areflexia and flaccid paresis are typical. Immediate risk is respiratory failure, dysautonomia, and bulbar dysfunction[1](https://www.statpearls.com/point-of-care/22461),[2](https://www.statpearls.com/point-of-care/28765).
+   
+2. Risk of respiratory failure and autonomic instability
+   - GBS can rapidly affect respiratory muscles and result in life-threatening autonomic dysfunction (arrhythmias, BP lability), so high vigilance and monitoring are essential[1](https://www.statpearls.com/point-of-care/22461).
+
+3. Differential diagnosis of acute flaccid paralysis
+   - While GBS is most likely, other mimics (acute flaccid myelitis, transverse myelitis, spinal cord lesion), must be excluded, especially as imaging/investigations not done yet[1](https://www.statpearls.com/point-of-care/22461),[3](https://www.statpearls.com/point-of-care/161699).
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Admit to monitored setting (high-dependency or ICU) for close respiratory and autonomic monitoring given risk of rapid deterioration[1](https://www.statpearls.com/point-of-care/22461).
+- Serial forced vital capacity (FVC) and negative inspiratory force (NIF) measurements: to assess for impending respiratory failure (consider intubation if FVC <20 mL/kg, NIF < -20 cmH2O)[1](https://www.statpearls.com/point-of-care/22461).
+- Baseline ECG and continuous cardiac monitoring: due to risk of arrhythmias/BP lability[1](https://www.statpearls.com/point-of-care/22461).
+- Nerve conduction studies/electromyography (NCS/EMG): to confirm demyelinating neuropathy and rule out alternatives[1](https://www.statpearls.com/point-of-care/22461).
+- Lumbar puncture: for CSF analysis after ruling out raised intracranial pressure; classic finding is albuminocytologic dissociation (raised protein with normal WCC) but may be absent in first week; pleocytosis suggests alternative diagnosis[1](https://www.statpearls.com/point-of-care/22461).
+- MRI spine with contrast: consider to exclude transverse myelitis or compressive lesions if any sensory level or atypical features[1](https://www.statpearls.com/point-of-care/22461),[3](https://www.statpearls.com/point-of-care/161699).
+- Screen for infection (stool culture, serology if appropriate): especially Campylobacter jejuni[1](https://www.statpearls.com/point-of-care/22461).
+
+**Treatment and Supportive Management:**
+- Initiate disease-modifying therapy urgently (do not wait for diagnostic confirmation if high index of suspicion and progressive weakness):
+  - Intravenous immunoglobulin (IVIG) 2g/kg over 5 days or plasma exchange (plasmapheresis); both are equally efficacious—choose based on availability and contraindications; do not use both simultaneously[1](https://www.statpearls.com/point-of-care/22461).
+  - Steroids are NOT recommended as monotherapy or adjunct (no proven benefit)[1](https://www.statpearls.com/point-of-care/22461).
+- Supportive care:
+  - DVT prophylaxis with compression stockings ± anticoagulation if mobile impairment persists[1](https://www.statpearls.com/point-of-care/22461).
+  - Monitor for and treat autonomic dysfunction (BP, arrhythmias)[1](https://www.statpearls.com/point-of-care/22461).
+  - Meticulous skin care and pressure sore prevention[1](https://www.statpearls.com/point-of-care/22461).
+  - Fluid and nutritional support as per needs and dysphagia risk assessment[1](https://www.statpearls.com/point-of-care/22461).
+  - Monitor for aspiration, bowel and bladder function, and initiate supportive measures as needed[1](https://www.statpearls.com/point-of-care/22461).
+  - Physiotherapy and occupational therapy input early to prevent contractures and start rehabilitation[2](https://www.statpearls.com/point-of-care/28765).
+
+**Referrals:**
+- Urgent neurology referral: for workup, confirmation, and management guidance including NCS/EMG and initiation of IVIG/plasma exchange[1](https://www.statpearls.com/point-of-care/22461).
+- ICU referral if respiratory compromise or rapidly progressive weakness develops[1](https://www.statpearls.com/point-of-care/22461).
+
+**Preventative and Lifestyle Measures:**
+- Arrange for follow-up rehabilitation and multidisciplinary team for long-term outcomes, including neurology, PT/OT, and psychosocial support after acute phase[2](https://www.statpearls.com/point-of-care/28765).
+- Counselling and education regarding prognosis and potential for relapse or persistent weakness[1](https://www.statpearls.com/point-of-care/22461).
+
+References:
+[1]: [Guillain-Barre Syndrome](https://www.statpearls.com/point-of-care/22461 "Antecedent infections are reported in up to...")
+[2]: [Histology, Schwann Cells](https://www.statpearls.com/point-of-care/28765 "trauma, and autoimmune processes can trigger this...")
+[3]: [Acute Flaccid Myelitis](https://www.statpearls.com/point-of-care/161699 "An estimated 95% of all infections are...")

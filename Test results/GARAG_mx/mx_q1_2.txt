@@ -1,0 +1,54 @@
+## Summary
+- 30-year-old male with no significant past or family history.
+- Presents with acute SOB, productive cough, fever, tachycardia, tachypnea, hypotension, hypoxemia (SpO₂ 80%), and left lower lobe consolidation on CXR.
+- Labs with marked inflammatory response (WCC 18, CRP 300).
+- Verbally responsive but at risk of decompensation.
+- Impression: Severe community-acquired pneumonia (CAP) causing sepsis and hypoxemic respiratory failure; possible evolving acute respiratory distress syndrome (ARDS).
+
+----
+
+## Problems and Assessments
+
+1. Severe Community-acquired Pneumonia with Sepsis
+   - Clinical and radiological features (productive cough, fever, left lower lobe consolidation, elevated inflammatory markers) consistent with lobar pneumonia; hypotension, tachycardia, and hypoxemia indicate progression to severe sepsis[1](https://www.statpearls.com/point-of-care/27366).
+
+2. Hypoxemic Respiratory Failure (Possible ARDS)
+   - Hypoxemia with SpO₂ 80% on room air, tachypnea, and hypotension; at risk for or may be developing ARDS in the context of bilateral alveolar damage secondary to pneumonia[2](https://www.statpearls.com/point-of-care/17172), [3](https://www.statpearls.com/point-of-care/28412).
+
+3. Complications/Risk Factors of Severe Pneumonia and ARDS
+   - Risks include septic shock, multi-organ dysfunction, nosocomial infections, thromboembolic events, and other pneumonia complications (pleural effusion, empyema, abscess)[1](https://www.statpearls.com/point-of-care/27366).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Blood cultures ×2 and sputum culture prior to antibiotic initiation to identify causative pathogen and guide antibiotic therapy[1](https://www.statpearls.com/point-of-care/27366).
+- Arterial blood gas (ABG) to quantify severity of hypoxemia and assess for respiratory/metabolic acidosis (for ARDS/P/F ratio calculation)[3](https://www.statpearls.com/point-of-care/28412).
+- Repeat CXR or consider chest CT if diagnosis remains unclear or to evaluate for complications (effusion/empyema/abscess)[1](https://www.statpearls.com/point-of-care/27366).
+- Lactate level for assessment of tissue perfusion and severity of sepsis[1](https://www.statpearls.com/point-of-care/27366).
+- Full sepsis screen: FBC, renal function, LFTs, coagulation profile to monitor for organ dysfunction[1](https://www.statpearls.com/point-of-care/27366).
+- Consider ECG monitoring and cardiac enzymes if ongoing hypotension/sepsis or cardiac involvement suspected.
+
+**Treatment and Supportive Management:**
+- Immediate high-flow oxygen via non-rebreather mask; titrate FiO₂ to SpO₂ ≥ 94%; escalate to non-invasive ventilation or intubation/ICU transfer if refractory hypoxemia[2](https://www.statpearls.com/point-of-care/17172), [3](https://www.statpearls.com/point-of-care/28412).
+- Empiric intravenous antibiotics: Combination beta-lactam (e.g., ceftriaxone or amoxicillin-clavulanate) plus macrolide (e.g., azithromycin or clarithromycin) per ICU/severe CAP guidelines; add MRSA or Pseudomonas cover if risk factors present[1](https://www.statpearls.com/point-of-care/27366).
+- IV fluid resuscitation (crystalloids) for hypotension; reassess for signs of fluid overload vs. shock[1](https://www.statpearls.com/point-of-care/27366); conservative fluids if ARDS develops[3](https://www.statpearls.com/point-of-care/28412).
+- Early vasopressors (e.g., norepinephrine) if hypotension persists after fluid resuscitation[1](https://www.statpearls.com/point-of-care/27366).
+- Early recognition of ARDS: If intubated, use lung-protective ventilation with low tidal volumes (4–8 ml/kg IBW) and plateau pressure <30 cm H2O[2](https://www.statpearls.com/point-of-care/17172), [3](https://www.statpearls.com/point-of-care/28412).
+- Consider prone positioning for refractory hypoxemia (moderate-to-severe ARDS)[3](https://www.statpearls.com/point-of-care/28412).
+- Prophylaxis for venous thromboembolism, GI stress ulcer, and nosocomial infections[3](https://www.statpearls.com/point-of-care/28412).
+- Supportive measures: Monitor electrolytes, renal function, strict fluid balance, nutritional support as tolerated[3](https://www.statpearls.com/point-of-care/28412).
+
+**Referrals:**
+- Immediate referral to ICU/critical care for ongoing monitoring and management of severe sepsis with hypoxemic respiratory failure[2](https://www.statpearls.com/point-of-care/17172), [3](https://www.statpearls.com/point-of-care/28412).
+- Infectious diseases consultation if poor response to empiric therapy, unusual pathogens suspected, or for antimicrobial stewardship input.
+
+**Preventative and Lifestyle Measures:**
+- Smoking cessation advice on recovery to reduce risk of future pneumonia[1](https://www.statpearls.com/point-of-care/27366).
+- Ensure up-to-date influenza and pneumococcal vaccinations prior to discharge or at follow-up to lower risk of recurrence[1](https://www.statpearls.com/point-of-care/27366).
+
+References:
+[1]: [Typical Bacterial Pneumonia](https://www.statpearls.com/point-of-care/27366 "can be easily cultured on standard media...")
+[2]: [Acute Respiratory Distress Syndrome](https://www.statpearls.com/point-of-care/17172 "Acute Respiratory Distress Syndrome Diamond Matthew Zucker...")
+[3]: [Respiratory Distress Syndrome (Archived)](https://www.statpearls.com/point-of-care/28412 "by other condition such as lobar or...")

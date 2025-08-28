@@ -1,0 +1,63 @@
+## Summary
+- 62-year-old man with cough, haemoptysis, weight loss, arthralgia, saddle-nose deformity, and purpuric rash.
+- CXR: cavitating lung lesions.
+- Renal impairment (creatinine 180 μmol/L).
+- Clinical picture highly suggestive of Granulomatosis with Polyangiitis (GPA, formerly known as Wegener’s granulomatosis) with respiratory, ENT, skin, joint, and renal manifestations.
+
+----
+## Problems and Assessments
+
+1. Granulomatosis with Polyangiitis (GPA) (Possible)
+   - Strongly suspected based on upper and lower respiratory tract involvement (saddle nose, cough, cavitating lesions, haemoptysis), skin purpura, arthralgia, and rapidly progressive renal impairment, fitting classic multisystem involvement of GPA [1](https://www.statpearls.com/point-of-care/32717).
+   - Finding of saddle-nose deformity is virtually pathognomonic for GPA among vasculitides [1](https://www.statpearls.com/point-of-care/32717), [2](https://www.statpearls.com/point-of-care/76416).
+   - CXR: Cavitating lung lesions support pulmonary granulomatous vasculitis [2](https://www.statpearls.com/point-of-care/76416).
+   - Renal impairment may indicate rapidly progressive glomerulonephritis [1](https://www.statpearls.com/point-of-care/32717).
+   - Purpuric rash suggests small-vessel vasculitis skin involvement [1](https://www.statpearls.com/point-of-care/32717).
+
+2. Acute kidney injury/rapidly progressive glomerulonephritis (RPGN)
+   - Significantly elevated creatinine; could rapidly worsen without prompt therapy.
+   - Likely secondary to pauci-immune crescentic glomerulonephritis in vasculitis [1](https://www.statpearls.com/point-of-care/32717).
+
+3. Risk of life-threatening pulmonary haemorrhage
+   - Haemoptysis and pulmonary lesions raise concern for alveolar haemorrhage, a severe GPA complication [1](https://www.statpearls.com/point-of-care/32717).
+
+4. Multisystem involvement due to vasculitis (skin, joints)
+   - Arthralgia and purpuric rash indicate active, systemic vasculitic process [1](https://www.statpearls.com/point-of-care/32717).
+
+----
+## Recommendations
+
+**Diagnostic Plan:**
+- Urgent ANCA panel (PR3/c-ANCA, MPO/p-ANCA): To confirm diagnosis and prognostic subtyping [1](https://www.statpearls.com/point-of-care/32717), [2](https://www.statpearls.com/point-of-care/76416).
+- Renal function, urine microscopy for active sediment: To monitor progression and look for red cell casts [1](https://www.statpearls.com/point-of-care/32717).
+- Urine protein:creatinine ratio: Quantification of renal involvement.
+- Serum anti-GBM antibody: Exclude dual antibody disease ('double-positive') [1](https://www.statpearls.com/point-of-care/32717), [2](https://www.statpearls.com/point-of-care/76416).
+- Full blood count, CRP/ESR: Assess for systemic inflammation and possible anaemia.
+- Coagulation profile and group & save: Baseline and in readiness for possible plasma exchange.
+- Infectious screening (Hepatitis B, C, HIV, TB): Prior to immunosuppressive therapy.
+- CXR/CT chest (if not already done): To define extent of pulmonary involvement and rule out infection/mimics.
+- Renal biopsy: To confirm pauci-immune necrotising crescentic glomerulonephritis if diagnosis remains uncertain [1](https://www.statpearls.com/point-of-care/32717).
+- Consider tissue biopsy (e.g., nasal, skin, or lung): Diagnostic confirmation if available/feasible [2](https://www.statpearls.com/point-of-care/76416).
+
+**Treatment and Supportive Management:**
+- Immediate initiation of high-dose corticosteroids: IV methylprednisolone 500-1000 mg daily for 3 days (induction), then oral prednisolone (1 mg/kg/day, max 60-80 mg) [1](https://www.statpearls.com/point-of-care/32717), [2](https://www.statpearls.com/point-of-care/76416).
+- Add cyclophosphamide IV (preferred for severe/organ-threatening disease) or oral—dosing per protocol and renal function [1](https://www.statpearls.com/point-of-care/32717).
+  - Alternative: Rituximab IV, especially in those with contraindications to cyclophosphamide or fertility concerns [1](https://www.statpearls.com/point-of-care/32717), [2](https://www.statpearls.com/point-of-care/76416).
+- If life-threatening pulmonary haemorrhage or rapidly progressive renal failure: Consider plasma exchange ('PLEX'), especially if anti-GBM antibody-positive or “double-positive” [1](https://www.statpearls.com/point-of-care/32717), [2](https://www.statpearls.com/point-of-care/76416).
+- Supportive management: Strict fluid balance, avoid nephrotoxins, monitor and manage electrolyte disturbances.
+- Infection prophylaxis: Pneumocystis jirovecii (PJP) prophylaxis with co-trimoxazole (trimethoprim-sulfamethoxazole) while immunosuppressed [1](https://www.statpearls.com/point-of-care/32717).
+- Blood pressure control: Consider ACE inhibitor unless contraindicated.
+- DVT prophylaxis, early physiotherapy, and prevention of steroid-induced osteoporosis.
+
+**Referrals:**
+- Urgent nephrology: For vasculitis management, consideration of biopsy, and ongoing renal support.
+- Urgent rheumatology/immunology: Clarification of systemic disease management, protocolised immunosuppression.
+- ENT, pulmonology: For assessment and management of airway, sinus, and cavitary lesions as needed.
+
+**Preventative and Lifestyle Measures:**
+- Smoking cessation counselling: Smoking may increase relapse risk and complicate disease course [1](https://www.statpearls.com/point-of-care/32717).
+- Immunisations: Update as appropriate (pneumococcus, influenza, varicella zoster) prior to immunosuppression, if possible.
+
+References:
+[1]: [ANCA-Associated Vasculitis](https://www.statpearls.com/point-of-care/32717 "virus, and parvovirus, have been reported. Drugs...")
+[2]: [Granulomatosis With Polyangiitis](https://www.statpearls.com/point-of-care/76416 "Once the drug is discontinued, relapse is...")

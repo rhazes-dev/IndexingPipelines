@@ -1,0 +1,55 @@
+## Summary
+- 68-year-old woman with longstanding poorly controlled type 2 diabetes.
+- Presents with weight loss, painless jaundice, and a palpable non-tender gallbladder.
+- LFTs show cholestatic pattern.
+- CT abdomen pending.
+- Clinical findings suggest malignant biliary obstruction, most likely pancreatic or periampullary tumour.
+
+----
+
+## Problems and Assessments
+
+1. Malignant Biliary Obstruction (Possible)
+   - Clinical and examination findings (painless jaundice, palpable non-tender gallbladder—Courvoisier's sign, cholestatic LFTs, weight loss) suggest malignant obstruction, likely from periampullary or pancreatic head tumour, though cholangiocarcinoma or gallbladder cancer remain differential diagnoses. Imaging confirmation awaited [1](https://www.statpearls.com/point-of-care/17482), [2](https://www.statpearls.com/point-of-care/18277).
+
+2. Poorly Controlled Diabetes
+   - Significant comorbidity; may affect perioperative risk and wound healing, and heightens infection risk.
+
+3. Nutritional Status (Weight Loss)
+   - Substantial weight loss indicates possible malignancy-related cachexia and poor nutritional reserve.
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Complete and urgently review the CT abdomen to localise the level and cause of obstruction, and assess for resectability or metastatic disease [1](https://www.statpearls.com/point-of-care/17482), [2](https://www.statpearls.com/point-of-care/18277).
+- Tumour markers: CA 19-9 (pancreaticobiliary carcinoma marker), CEA (carcinoembryonic antigen) to support diagnosis and baseline monitoring.
+- Additional cross-sectional imaging (MRI/MRCP) if diagnosis remains unclear or further delineation of biliary/pancreatic anatomy is required [2](https://www.statpearls.com/point-of-care/18277).
+- Tissue diagnosis (EUS-FNA, ERCP brushings/biopsies) if imaging confirms a mass or stricture, to guide management and establish histological diagnosis. ERCP may be both diagnostic and therapeutic [2](https://www.statpearls.com/point-of-care/18277).
+- Routine laboratory tests: coagulation profile, full blood count, U&E, glucose, renal function to gauge baseline and perioperative risk.
+- Assess nutrition: albumin/pre-albumin, unintentional weight loss.
+
+**Treatment and Supportive Management:**
+- Optimise glycaemic control with insulin (preferred in unstable inpatients) to minimise complications [1](https://www.statpearls.com/point-of-care/17482).
+- Address potential fat-soluble vitamin deficiencies (ADEK) due to prolonged cholestasis [2](https://www.statpearls.com/point-of-care/18277).
+- If pruritus is troublesome, consider bile acid sequestrants (e.g., cholestyramine) [2](https://www.statpearls.com/point-of-care/18277).
+- If infection (cholangitis) develops (fever, RUQ pain, sepsis): urgent IV antibiotics covering enteric flora (e.g., piperacillin-tazobactam, or ceftriaxone plus metronidazole), resuscitate with IV fluids, and urgent biliary decompression (usually ERCP with stent; PTC if ERCP unsuccessful) [2](https://www.statpearls.com/point-of-care/18277).
+- If imaging confirms resectable malignancy: refer for surgical resection (e.g., Whipple for pancreatic or periampullary tumour, cholecystectomy ± liver resection for gallbladder cancer), with pre-operative biliary drainage if bilirubin significantly elevated and/or patient is cholangitic or symptomatic [1](https://www.statpearls.com/point-of-care/17482), [2](https://www.statpearls.com/point-of-care/18277).
+- If unresectable/advanced disease: palliative biliary stenting (endoscopic or percutaneous; metal stents preferred for longer patency), and referral for oncology input for possible chemotherapy/radiotherapy [2](https://www.statpearls.com/point-of-care/18277).
+
+**Referrals:**
+- Gastroenterology for ERCP, biopsy, and initial biliary decompression [2](https://www.statpearls.com/point-of-care/18277).
+- Hepatobiliary surgical review to assess resectability and MDT planning [1](https://www.statpearls.com/point-of-care/17482), [2](https://www.statpearls.com/point-of-care/18277).
+- Oncology if malignancy confirmed for adjuvant therapy or palliative management [1](https://www.statpearls.com/point-of-care/17482).
+- Dietitian for nutritional optimisation and support, especially in view of weight loss and impaired appetite.
+
+**Preventative and Lifestyle Measures:**
+- Optimise diabetic control via specialist diabetes input to reduce infection risk perioperatively and in prospective treatments.
+- Encourage adequate calorie/protein intake and small frequent meals to counter weight loss.
+
+----
+
+References:
+[1]: [Periampullary Tumors](https://www.statpearls.com/point-of-care/17482 "Periampullary Tumors Paluri Ravi K. University of...")
+[2]: [Biliary Obstruction](https://www.statpearls.com/point-of-care/18277 "extrahepatic bile duct abnormalities, such as cholangiocarcinoma,...")

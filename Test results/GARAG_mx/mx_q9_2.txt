@@ -1,0 +1,48 @@
+## Summary
+- 54-year-old man developed thunderclap occipital headache during weightlifting, with vomiting, photophobia, neck stiffness, and photophobia, but fully alert.
+- Hypertensive (BP 165/90).
+- Head CT at 6 hours normal; LP demonstrated xanthochromia.
+- No focal neurological deficits documented.
+
+----
+
+## Problems and Assessments
+
+1. Subarachnoid Hemorrhage (SAH)
+   - Sudden, severe "worst-ever" headache, vomiting, photophobia, neck stiffness, and xanthochromia on lumbar puncture are diagnostic for SAH, even with a negative early CT. Requires urgent stabilization and investigation to localize and manage the hemorrhage source [1](https://www.statpearls.com/point-of-care/17174).
+
+2. Hypertension (Possible)
+   - BP elevated in the context of acute intracranial pathology; could be chronic, reactive, or both. Needs careful management to reduce risk of rebleeding but avoid cerebral hypoperfusion [1](https://www.statpearls.com/point-of-care/17174).
+
+3. Risk of Rebleeding and Vasospasm
+   - Highest risk of rebleeding is in the early hours and days post-SAH. Vasospasm risk (typically days 3–14) contributes to delayed ischemic deficits [1](https://www.statpearls.com/point-of-care/17174).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Urgent CT angiography (CTA) or MR angiography (MRA) brain: To identify and localize the source of SAH (e.g., ruptured aneurysm or AVM) and guide neurosurgical/endovascular intervention [1](https://www.statpearls.com/point-of-care/17174).
+- Electrocardiogram (ECG) and cardiac enzymes: SAH can cause ECG changes and cardiac dysfunction [1](https://www.statpearls.com/point-of-care/17174).
+- Full blood count, coagulation profile, renal and liver function: Assess for baseline status and pre-intervention preparation [1](https://www.statpearls.com/point-of-care/17174).
+- Monitor for hyponatraemia: SIADH and cerebral salt wasting are common post-SAH [1](https://www.statpearls.com/point-of-care/17174).
+
+**Treatment and Supportive Management:**
+- Admit to high-dependency unit/neurocritical care for close monitoring and management [1](https://www.statpearls.com/point-of-care/17174).
+- Maintain systolic BP under 160 mmHg (unless otherwise specified by neurosurgery), using intravenous agents (e.g., labetalol, nicardipine) as indicated, while avoiding hypotension. Rationale: Mitigates risk of rebleed but preserves cerebral perfusion [1](https://www.statpearls.com/point-of-care/17174).
+- Nimodipine orally or IV (for 21 days): Reduces risk and severity of delayed cerebral vasospasm and ischemic deficit [1](https://www.statpearls.com/point-of-care/17174).
+- Keep patient nil by mouth (NPO) until swallow safety is confirmed; maintain intravenous fluids with balanced crystalloids, targeting euvolemia [1](https://www.statpearls.com/point-of-care/17174).
+- Analgesia: Paracetamol (acetaminophen) as first-line for headache; avoid NSAIDs due to bleeding risk [1](https://www.statpearls.com/point-of-care/17174).
+- DVT prophylaxis with pneumatic compression until bleeding is excluded, followed by low-dose LMWH once source secured per neurosurgical guidance [1](https://www.statpearls.com/point-of-care/17174).
+- Monitor and treat for complications: rebleed, hydrocephalus, hyponatraemia, seizures, vasospasm [1](https://www.statpearls.com/point-of-care/17174).
+
+**Referrals:**
+- Immediate referral to neurosurgery/interventional neuroradiology: For definitive management—aneurysm coiling/clipping, management of other lesions as indicated [1](https://www.statpearls.com/point-of-care/17174).
+
+**Preventative and Lifestyle Measures:**
+- Once stabilized, advise on blood pressure control, smoking cessation, and moderation of alcohol intake to reduce recurrence risk [1](https://www.statpearls.com/point-of-care/17174).
+
+----
+
+References:
+[1]: [Acute Stroke](https://www.statpearls.com/point-of-care/17174 "a ruptured arteriovenous malformation, and vessel rupture...")

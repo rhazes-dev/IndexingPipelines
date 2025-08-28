@@ -1,0 +1,60 @@
+## Summary
+- 40-year-old man with advanced HIV (CD4 50) and poor ART compliance.
+- Presents with subacute headaches, confusion, and personality/mental status changes.
+- MRI: Multiple ring-enhancing brain lesions.
+- No fever or meningism.
+- Highly suggestive of CNS toxoplasmosis, but differential includes CNS lymphoma and other opportunistic or neoplastic CNS lesions.
+
+----
+
+## Problems and Assessments
+
+1. CNS Toxoplasmosis (Probable)
+   - Classic presentation in a patient with advanced HIV/AIDS, low CD4 count, and multiple ring-enhancing cerebral lesions on MRI [1](https://www.statpearls.com/point-of-care/22945).
+2. Untreated advanced HIV/AIDS
+   - Poor compliance with ART; profound immunosuppression (CD4 50); high risk for opportunistic infections and poor outcomes [1](https://www.statpearls.com/point-of-care/22945).
+3. Risk of misdiagnosis or missed alternative causes (CNS lymphoma, other opportunistic infections)
+   - Differential diagnosis is broad in this population and may overlap clinically/radiologically [2](https://www.statpearls.com/point-of-care/22941).
+4. Secondary prevention/relapse of toxoplasmosis
+   - Risk of recurrence with immune suppression or discontinuation of secondary prophylaxis [3](https://www.statpearls.com/point-of-care/22945).
+5. Infectious risk education and ART nonadherence
+   - Need for long-term risk reduction and improved ART compliance to prevent recurrence or new infections [1](https://www.statpearls.com/point-of-care/22945).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Toxoplasma gondii serology (IgG, IgM): to evaluate exposure, supporting diagnosis—most AIDS patients with CNS toxoplasmosis will be IgG positive [1](https://www.statpearls.com/point-of-care/22945).
+- Consider lumbar puncture if safe (no mass effect): to exclude other infections (e.g., cryptococcal, TB, viral) in atypical cases [1](https://www.statpearls.com/point-of-care/22945).
+- Repeat MRI/CT after 10-14 days of therapy to assess response (clinical improvement plus radiological resolution supports diagnosis of toxoplasmosis; lack of improvement raises need for biopsy or alternative diagnosis) [1](https://www.statpearls.com/point-of-care/22945).
+- Consider brain biopsy if no improvement with empiric therapy or if diagnosis is in doubt [1](https://www.statpearls.com/point-of-care/22945).
+
+**Treatment and Supportive Management:**
+- Empiric antitoxoplasma therapy:
+  - First-line: Pyrimethamine + sulfadiazine + leucovorin (to prevent marrow suppression by pyrimethamine) [1](https://www.statpearls.com/point-of-care/22945).
+  - If sulfa allergy or intolerance: pyrimethamine + clindamycin + leucovorin [1](https://www.statpearls.com/point-of-care/22945).
+  - Alternative: high-dose trimethoprim-sulfamethoxazole if above unavailable [1](https://www.statpearls.com/point-of-care/22945).
+  - Duration: acute therapy for at least 6 weeks, then step-down/secondary prophylaxis [1](https://www.statpearls.com/point-of-care/22945).
+  - Monitor for cytopenias and hypersensitivity reactions.
+- Begin ART as soon as feasible, typically within 2 weeks of starting toxoplasmosis therapy. Early initiation improves outcomes and risk of further immunosuppression; do not excessively delay unless life-threatening IRIS is a concern (rare in toxoplasmosis) [1](https://www.statpearls.com/point-of-care/22945).
+- Supportive: Anticonvulsants if seizures; manage raised ICP if present [1](https://www.statpearls.com/point-of-care/22945).
+- Lifelong maintenance (secondary prophylaxis) with trimethoprim-sulfamethoxazole until sustained (≥6 months) CD4 >200 cells/mm³ on ART [1](https://www.statpearls.com/point-of-care/22945).
+- Educate and facilitate ART adherence, monitor for drug interactions and adverse effects [1](https://www.statpearls.com/point-of-care/22945).
+- Address/treat other opportunistic infections as indicated by clinical course [2](https://www.statpearls.com/point-of-care/22941).
+
+**Referrals:**
+- Urgent referral to Infectious Diseases and HIV specialist for ART initiation/optimization and management of opportunistic infections [1](https://www.statpearls.com/point-of-care/22945).
+- Neurology and/or Neurosurgery for diagnostic uncertainty/non-resolution or possible need for brain biopsy [1](https://www.statpearls.com/point-of-care/22945).
+
+**Preventative and Lifestyle Measures:**
+- Avoid eating raw/undercooked meat; hand hygiene after handling soil, cat litter, or raw meat to prevent Toxoplasma exposure [1](https://www.statpearls.com/point-of-care/22945).
+- Counsel against IV drug use and high-risk behaviors to reduce further infectious risk [1](https://www.statpearls.com/point-of-care/22945).
+- Continue and monitor for secondary prophylaxis until immune reconstitution [1](https://www.statpearls.com/point-of-care/22945).
+
+----
+
+References:
+[1]: [HIV-1–Associated Toxoplasmosis](https://www.statpearls.com/point-of-care/22945 "by days 10 to 14 of therapy,...")
+[2]: [HIV-1–Associated Opportunistic Infections](https://www.statpearls.com/point-of-care/22941 "can be treated with IV aqueous crystalline...")
+[3]: [HIV-1–Associated Toxoplasmosis Part 2](https://www.statpearls.com/point-of-care/22945 "lowered in patients with HIV. The prognosis...")

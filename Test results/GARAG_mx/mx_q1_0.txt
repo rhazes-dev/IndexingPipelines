@@ -1,0 +1,52 @@
+## Summary
+- 30-year-old male, previously healthy, presenting with acute SOB, productive cough, fever.
+- Tachycardia (HR 120), tachypnea (RR 28), hypotension (BP 90/50), hypoxemia (SpO2 80% room air), febrile (39°C); SpO2 not yet corrected with O2 therapy.
+- Laboratory: markedly elevated CRP (300), leukocytosis (WCC 18).
+- CXR: left lower lobe consolidation. ECG: sinus tachycardia.
+- Rapidly progressive, severe community-acquired pneumonia with features of sepsis and hypoxemic respiratory failure.
+----
+
+## Problems and Assessments
+
+1. Severe Community-Acquired Pneumonia
+   - Clinical, laboratory, and radiographic evidence (productive cough, fever, consolidation, high CRP, leukocytosis)[1](https://www.statpearls.com/point-of-care/27357).
+
+2. Hypoxemic Respiratory Failure (Possible ARDS)
+   - Critically low oxygen saturation (80% on room air), tachypnea, and CXR consolidation; risk of progression to acute respiratory distress syndrome[2](https://www.statpearls.com/point-of-care/17172), [3](https://www.statpearls.com/point-of-care/28412).
+
+3. Septic Shock (possible)
+   - Hypotension with features of systemic inflammatory response and end-organ hypoperfusion (tachycardia, tachypnea, fever, hypoxia)[1](https://www.statpearls.com/point-of-care/27357).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- ABG: Assess severity of hypoxia and acid-base status; required for respiratory failure assessment and potential ARDS diagnosis[3](https://www.statpearls.com/point-of-care/28412).
+- Blood cultures x2 and sputum culture: Identify causative organism before antibiotics; directs antimicrobial therapy[1](https://www.statpearls.com/point-of-care/27357).
+- Repeat CXR or chest CT if deteriorating: Detect evolving complications (e.g., effusion, ARDS)[2](https://www.statpearls.com/point-of-care/17172).
+- Renal and hepatic function, coagulation profile, and lactate: Assess severity of sepsis and organ dysfunction[1](https://www.statpearls.com/point-of-care/27357).
+- Viral PCR (including influenza, SARS-CoV-2 if indicated): Consider in current epidemiological context[1](https://www.statpearls.com/point-of-care/27357).
+
+**Treatment and Supportive Management:**
+- Immediate high-flow oxygen (mask with reservoir or equivalent): Aim SpO2 >94%; consider non-invasive ventilation or early intubation if failing[3](https://www.statpearls.com/point-of-care/28412).
+- Empiric IV broad-spectrum antibiotics within 1 hour (as per local guidelines; e.g., ceftriaxone + macrolide): Early antibiotics reduce mortality in severe CAP[1](https://www.statpearls.com/point-of-care/27357).
+- IV fluid resuscitation (e.g., crystalloids 30 mL/kg): Correct hypotension due to possible sepsis; titrate to response while monitoring for fluid overload[1](https://www.statpearls.com/point-of-care/27357), [3](https://www.statpearls.com/point-of-care/28412).
+- Vasopressors (e.g., norepinephrine) if hypotension persists after fluids: For shock unresponsive to fluids[3](https://www.statpearls.com/point-of-care/28412).
+- ICU admission: Criteria met (hypoxemic respiratory failure, shock, multi-organ dysfunction)[3](https://www.statpearls.com/point-of-care/28412).
+- Venous thromboembolism prophylaxis: Prevent DVT/PE[3](https://www.statpearls.com/point-of-care/28412).
+- Early lung-protective ventilation if intubated: Tidal volume 4–8 mL/kg, plateau pressure <30 cm H2O if ARDS develops[3](https://www.statpearls.com/point-of-care/28412).
+- Conservative fluid strategy after initial resuscitation if ARDS develops: Reduces duration of ventilation and ICU stay[3](https://www.statpearls.com/point-of-care/28412).
+- Nutritional support (prefer enteral route): Maintain caloric requirements if critically ill[3](https://www.statpearls.com/point-of-care/28412).
+
+**Referrals:**
+- Urgent ICU/critical care team involvement: For advanced airway, hemodynamic, and organ support[3](https://www.statpearls.com/point-of-care/28412).
+
+**Preventative and Lifestyle Measures:**
+- Pneumococcal and influenza vaccination on recovery (if not previously immunized): Prevent recurrence/secondary infection[1](https://www.statpearls.com/point-of-care/27357).
+----
+
+References:
+[1]: [Community-Acquired Pneumonia](https://www.statpearls.com/point-of-care/27357 "influenza virus, and S pneumoniae were the...")
+[2]: [Acute Respiratory Distress Syndrome](https://www.statpearls.com/point-of-care/17172 "Acute Respiratory Distress Syndrome Diamond Matthew Zucker...")
+[3]: [Respiratory Distress Syndrome (Archived)](https://www.statpearls.com/point-of-care/28412 "by other condition such as lobar or...")

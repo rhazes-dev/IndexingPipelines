@@ -1,0 +1,53 @@
+## Summary
+- 22-year-old male with type 1 diabetes presenting acutely with abdominal pain, vomiting, confusion, tachypnoea, hypotension, and clinical dehydration.
+- Venous blood gas (VBG): pH 7.10 (acidosis), glucose 24 mmol/L (hyperglycaemia), ketones ++++, bicarbonate 10 mmol/L (metabolic acidosis).
+- Classical presentation of severe diabetic ketoacidosis (DKA).
+
+----
+
+## Problems and Assessments
+
+1. Severe Diabetic Ketoacidosis (DKA)
+   - Marked by hyperglycaemia, high ketones, low pH, and low bicarbonate; confusion and hypotension suggest severe DKA with hypovolaemic shock and end-organ hypoperfusion[1](https://www.statpearls.com/point-of-care/23877).
+
+2. Hypovolaemic Shock/Dehydration
+   - Clinical features of tachypnoea, dry mucosa, hypotension due to profound osmotic diuresis from hyperglycaemia[1](https://www.statpearls.com/point-of-care/23877).
+
+3. Electrolyte disturbance (Possible)
+   - High risk of significant derangements, especially hypokalaemia during treatment, despite initial possible normo- or hyperkalaemia[2](https://www.statpearls.com/point-of-care/23877).
+
+4. Precipitating cause of DKA (Possible)
+   - Infection, non-adherence to insulin or other acute physical stress may have triggered this episode[1](https://www.statpearls.com/point-of-care/23877).
+
+----
+
+## Recommendations
+
+**Diagnostic Plan:**
+- Repeat VBG/ABG and glucose, with close serial monitoring, to track resolution of acidosis and glucose control[1](https://www.statpearls.com/point-of-care/23877).
+- Urea & electrolytes, creatinine, phosphate, magnesium, and calcium: to assess renal function, monitor for electrolyte disturbances, and guide replacement[2](https://www.statpearls.com/point-of-care/23877).
+- Full blood count, CRP, chest X-ray, and blood/urine cultures if infection suspected: to identify potential precipitating causes[1](https://www.statpearls.com/point-of-care/23877).
+- ECG: to monitor for arrhythmias due to potassium changes during treatment[2](https://www.statpearls.com/point-of-care/23877).
+
+**Treatment and Supportive Management:**
+- Immediate IV fluid resuscitation with isotonic saline: Rapid initial boluses (e.g., 1L 0.9% saline in first hour), then maintenance fluids to correct hypovolaemia and dehydration; monitor response (BP, urine output)[1](https://www.statpearls.com/point-of-care/23877).
+- IV insulin infusion (fixed rate): Start after initial fluids. Regular/soluble insulin at 0.1 units/kg/hr is standard; continue until resolution of acidosis and ketonaemia, titrate rate according to glucose and metabolic parameters[1](https://www.statpearls.com/point-of-care/23877).
+- Potassium replacement: Measure serum K+ before insulin. If K+ <3.3 mmol/L, delay insulin and correct K+ first. If 3.3–5.0 mmol/L, add K+ to fluids to keep serum K+ 4–5 mmol/L; frequent monitoring essential due to risk of rapid shifts as acidosis reverses[2](https://www.statpearls.com/point-of-care/23877).
+- Dextrose-containing fluids: Once glucose falls to 200–250 mg/dL (11–14 mmol/L), add dextrose to prevent hypoglycaemia while ongoing insulin corrects ketosis[2](https://www.statpearls.com/point-of-care/23877).
+- Do NOT treat acidosis routinely with sodium bicarbonate unless pH <6.9; it is not beneficial at higher pH and may increase risk of complications such as hypokalaemia and cerebral oedema[2](https://www.statpearls.com/point-of-care/23877).
+- Identify and treat precipitating cause (e.g. infection): Start appropriate therapy if infection is confirmed or highly suspected[1](https://www.statpearls.com/point-of-care/23877).
+- Monitor for cerebral oedema, especially in young adults with severe DKA and rapid shifts in osmolality[2](https://www.statpearls.com/point-of-care/23877).
+
+**Referrals:**
+- Urgent referral to endocrinology and/or critical care/high dependency unit, as patient is severely unwell (confusion, hypotension, acidosis); expect need for close monitoring, possible multi-organ support, and specialist diabetes management[1](https://www.statpearls.com/point-of-care/23877).
+
+**Preventative and Lifestyle Measures:**
+- Diabetes self-management education, including sick day rules, insulin adherence, ketone monitoring, and when to seek medical help, to prevent recurrence[3](https://www.statpearls.com/point-of-care/23877).
+- Multidisciplinary diabetes team follow-up (dietitian, DSN, pharmacist) to support long-term control and reduce risk of future DKA episodes[3](https://www.statpearls.com/point-of-care/23877).
+
+----
+
+References:
+[1]: [Ketoacidosis](https://www.statpearls.com/point-of-care/23877 "Ketoacidosis Ghimire Pranita Dhamoon Amit S. SUNY...")
+[2]: [Ketoacidosis Part 2](https://www.statpearls.com/point-of-care/23877 "This fluid has to be supplemented with...")
+[3]: [Ketoacidosis Part 3](https://www.statpearls.com/point-of-care/23877 "can exceed 1200 mg/dL (66.6 mmol/L). The...")
