@@ -1,2 +1,2 @@
 # IndexingPipelines
-Indexing pipelines for RAGs and GAVS
+Indexing pipelines for RAG, GAVS and GARAG
